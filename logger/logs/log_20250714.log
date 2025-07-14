@@ -1,0 +1,2341 @@
+[2025-07-14 18:32:34] [INFO] Starting bot...
+[2025-07-14 18:32:34] [INFO] Bot process exited with code 1
+[2025-07-14 18:32:34] [WARN] Restarting bot in 5 seconds... (Attempt 1/5)
+[2025-07-14 18:32:39] [INFO] Stopping existing bot process...
+[2025-07-14 18:32:39] [INFO] Starting bot...
+[2025-07-14 18:32:40] [INFO] Loaded event: botJoinedGroup
+[2025-07-14 18:32:40] [INFO] Loaded event: goodbye
+[2025-07-14 18:32:40] [INFO] Loaded event: welcome
+[2025-07-14 18:32:42] [INFO] Loaded command: add
+[2025-07-14 18:32:42] [INFO] Loaded command: adduser
+[2025-07-14 18:32:42] [INFO] Loaded command: admin
+[2025-07-14 18:32:42] [INFO] Loaded command: adminonly
+[2025-07-14 18:32:42] [INFO] Loaded command: balance
+[2025-07-14 18:32:42] [INFO] Loaded command: ban
+[2025-07-14 18:32:42] [INFO] Loaded command: bank
+[2025-07-14 18:32:42] [INFO] Loaded command: banlist
+[2025-07-14 18:32:42] [INFO] Loaded command: bot
+[2025-07-14 18:32:42] [INFO] Loaded command: deposit
+[2025-07-14 18:32:42] [INFO] Loaded command: help
+[2025-07-14 18:32:42] [INFO] Loaded command: rank
+[2025-07-14 18:32:42] [INFO] Loaded command: setprefix
+[2025-07-14 18:32:42] [INFO] Loaded command: setrank
+[2025-07-14 18:32:42] [INFO] Loaded command: cnggcimg
+[2025-07-14 18:32:42] [INFO] Loaded command: threadname
+[2025-07-14 18:32:42] [INFO] Loaded command: train
+[2025-07-14 18:32:42] [INFO] Loaded command: uid
+[2025-07-14 18:32:42] [INFO] Loaded command: unban
+[2025-07-14 18:32:42] [INFO] Loaded command: withdraw
+[2025-07-14 18:32:42] [INFO] Bot initialized successfully
+[2025-07-14 18:32:42] [INFO] Web server running on port 20170
+[2025-07-14 18:32:47] [INFO] 06:32 PM - Hayato Arisaka (Group) - Type: text - Message: -help - Media URL: N/A
+[2025-07-14 18:32:47] [INFO] Help command executed by 61575746590997
+[2025-07-14 18:32:47] [INFO] Command executed: help by user 61575746590997
+[2025-07-14 18:32:48] [INFO] 06:32 PM - Kenji Cloud (Group) - Type: text - Message: Available Commands:
+
+group:
+  add: Adds a user to the group.
+  setprefix: Sets a custom prefix for the current group.
+  cnggcimg: Changes the group image.
+  threadname: Changes the group name.
+box chat:
+  adduser: Add user to box chat of you
+admin:
+  admin: Manage admin permissions
+  adminonly: Toggles admin-only mode for the bot.
+  ban: Bans a user from using bot commands.
+  setrank: Set a user's rank, xp, or reset it (Bot Admin only).
+  unban: Unbans a user from using bot commands.
+economy:
+  balance: Check your or another user's balance.
+  bank: Banking system with loans and top balances.
+  deposit: Deposit money from your balance to your bank account.
+  withdraw: Withdraw money from your bank account to your balance.
+utility:
+  banlist: Lists all banned users.
+  help: Display available commands
+  train: Train the bot with question and answer
+  uid: Get the user ID of the sender
+ai:
+  bot: Chat with Simsimi
+level:
+  rank: Get your or another user's rank card, or see the top 10 users. - Media URL: N/A
+[2025-07-14 18:35:28] [INFO] Bot stopped by user (Ctrl+C)
+[2025-07-14 18:35:28] [INFO] Ctrl+C detected. Stopping bot...
+[2025-07-14 18:35:38] [INFO] Starting bot...
+[2025-07-14 18:35:38] [INFO] Bot process exited with code 1
+[2025-07-14 18:35:38] [WARN] Restarting bot in 5 seconds... (Attempt 1/5)
+[2025-07-14 18:35:43] [INFO] Stopping existing bot process...
+[2025-07-14 18:35:43] [INFO] Starting bot...
+[2025-07-14 18:35:44] [INFO] Loaded event: botJoinedGroup
+[2025-07-14 18:35:44] [INFO] Loaded event: goodbye
+[2025-07-14 18:35:44] [INFO] Loaded event: welcome
+[2025-07-14 18:35:46] [INFO] Loaded command: add
+[2025-07-14 18:35:46] [INFO] Loaded command: adduser
+[2025-07-14 18:35:46] [INFO] Loaded command: admin
+[2025-07-14 18:35:46] [INFO] Loaded command: adminonly
+[2025-07-14 18:35:46] [INFO] Loaded command: balance
+[2025-07-14 18:35:46] [INFO] Loaded command: ban
+[2025-07-14 18:35:46] [INFO] Loaded command: bank
+[2025-07-14 18:35:46] [INFO] Loaded command: banlist
+[2025-07-14 18:35:46] [INFO] Loaded command: bot
+[2025-07-14 18:35:46] [INFO] Loaded command: deposit
+[2025-07-14 18:35:46] [INFO] Loaded command: help
+[2025-07-14 18:35:46] [INFO] Loaded command: rank
+[2025-07-14 18:35:46] [INFO] Loaded command: setprefix
+[2025-07-14 18:35:46] [INFO] Loaded command: setrank
+[2025-07-14 18:35:46] [INFO] Loaded command: cnggcimg
+[2025-07-14 18:35:46] [INFO] Loaded command: threadname
+[2025-07-14 18:35:46] [INFO] Loaded command: train
+[2025-07-14 18:35:46] [INFO] Loaded command: uid
+[2025-07-14 18:35:46] [INFO] Loaded command: unban
+[2025-07-14 18:35:46] [INFO] Loaded command: withdraw
+[2025-07-14 18:35:46] [INFO] Bot initialized successfully
+[2025-07-14 18:35:46] [INFO] Web server running on port 20170
+[2025-07-14 18:35:49] [INFO] 06:35 PM - Hayato Arisaka (Group) - Type: text - Message: -help - Media URL: N/A
+[2025-07-14 18:35:50] [INFO] Command executed: help by user 61575746590997
+[2025-07-14 18:35:50] [INFO] 06:35 PM - Kenji Cloud (Group) - Type: text - Message: Bot Name: Keji Cloud
+Owner: Hridoy
+
+--- Commands ---
+
+[ GROUP ]
+  - add: Adds a user to the group.
+  - setprefix: Sets a custom prefix for the current group.
+  - cnggcimg: Changes the group image.
+  - threadname: Changes the group name.
+
+[ BOX CHAT ]
+  - adduser: Add user to box chat of you
+
+[ ADMIN ]
+  - admin: Manage admin permissions
+  - adminonly: Toggles admin-only mode for the bot.
+  - ban: Bans a user from using bot commands.
+  - setrank: Set a user's rank, xp, or reset it (Bot Admin only).
+  - unban: Unbans a user from using bot commands.
+
+[ ECONOMY ]
+  - balance: Check your or another user's balance.
+  - bank: Banking system with loans and top balances.
+  - deposit: Deposit money from your balance to your bank account.
+  - withdraw: Withdraw money from your bank account to your balance.
+
+[ UTILITY ]
+  - banlist: Lists all banned users.
+  - help: Shows a list of commands or details about a specific command.
+  - train: Train the bot with question and answer
+  - uid: Get the user ID of the sender
+
+[ AI ]
+  - bot: Chat with Simsimi
+
+[ LEVEL ]
+  - rank: Get your or another user's rank card, or see the top 10 users.
+
+Use "{p}help <command_name>" for more details. - Media URL: N/A
+[2025-07-14 18:36:07] [INFO] 06:36 PM - انظل انظل (Group) - Type: text - Message: Bal🐤🐤 - Media URL: N/A
+[2025-07-14 18:36:19] [INFO] 06:36 PM - Hayato Arisaka (Group) - Type: text - Message: -help bot - Media URL: N/A
+[2025-07-14 18:36:20] [INFO] 06:36 PM - Kenji Cloud (Group) - Type: text - Message: --- bot ---
+Description: Chat with Simsimi
+Author: Hridoy
+Version: 1.0
+Usage:
+.bot <your message>
+Example: bot Hello - Media URL: N/A
+[2025-07-14 18:36:20] [INFO] Command executed: help by user 61575746590997
+[2025-07-14 18:37:29] [INFO] Bot stopped by user (Ctrl+C)
+[2025-07-14 18:37:29] [INFO] Ctrl+C detected. Stopping bot...
+[2025-07-14 18:37:31] [INFO] Starting bot...
+[2025-07-14 18:37:32] [INFO] Bot process exited with code 1
+[2025-07-14 18:37:32] [WARN] Restarting bot in 5 seconds... (Attempt 1/5)
+[2025-07-14 18:37:37] [INFO] Stopping existing bot process...
+[2025-07-14 18:37:37] [INFO] Starting bot...
+[2025-07-14 18:37:37] [INFO] Loaded event: botJoinedGroup
+[2025-07-14 18:37:37] [INFO] Loaded event: goodbye
+[2025-07-14 18:37:37] [INFO] Loaded event: welcome
+[2025-07-14 18:37:40] [INFO] Loaded command: add
+[2025-07-14 18:37:40] [INFO] Loaded command: adduser
+[2025-07-14 18:37:40] [INFO] Loaded command: admin
+[2025-07-14 18:37:40] [INFO] Loaded command: adminonly
+[2025-07-14 18:37:40] [INFO] Loaded command: balance
+[2025-07-14 18:37:40] [INFO] Loaded command: ban
+[2025-07-14 18:37:40] [INFO] Loaded command: bank
+[2025-07-14 18:37:40] [INFO] Loaded command: banlist
+[2025-07-14 18:37:40] [INFO] Loaded command: bot
+[2025-07-14 18:37:40] [INFO] Loaded command: deposit
+[2025-07-14 18:37:40] [INFO] Loaded command: help
+[2025-07-14 18:37:40] [INFO] Loaded command: rank
+[2025-07-14 18:37:40] [INFO] Loaded command: setprefix
+[2025-07-14 18:37:40] [INFO] Loaded command: setrank
+[2025-07-14 18:37:40] [INFO] Loaded command: cnggcimg
+[2025-07-14 18:37:40] [INFO] Loaded command: threadname
+[2025-07-14 18:37:40] [INFO] Loaded command: train
+[2025-07-14 18:37:40] [INFO] Loaded command: uid
+[2025-07-14 18:37:40] [INFO] Loaded command: unban
+[2025-07-14 18:37:40] [INFO] Loaded command: withdraw
+[2025-07-14 18:37:40] [INFO] Bot initialized successfully
+[2025-07-14 18:37:40] [INFO] Web server running on port 20170
+[2025-07-14 18:37:44] [INFO] 06:37 PM - Hayato Arisaka (Group) - Type: text - Message: -help - Media URL: N/A
+[2025-07-14 18:37:44] [INFO] Command executed: help by user 61575746590997
+[2025-07-14 18:37:45] [INFO] 06:37 PM - Kenji Cloud (Group) - Type: text - Message: ╔═════☆ KEJI CLOUD HELP ☆═════╗
+
+👑 Owner: Hridoy  
+💻 Commands: 20  
+
+𐙚  ✦ GROUP ✦  ❀  
+add        |   setprefix   
+cnggcimg   |   threadname   
+
+𐙚  ✦ BOX CHAT ✦  ❀  
+adduser    
+
+𐙚  ✦ ADMIN ✦  ❀  
+admin      |   adminonly   |   ban        
+setrank    |   unban      
+
+𐙚  ✦ ECONOMY ✦  ❀  
+balance    |   bank       
+deposit    |   withdraw   
+
+𐙚  ✦ UTILITY ✦  ❀  
+banlist    |   help       
+train      |   uid        
+
+𐙚  ✦ AI ✦  ❀  
+bot        
+
+𐙚  ✦ LEVEL ✦  ❀  
+rank       
+
+╚═════☆ Stay sussy, stay smart ☆═════╝  
+💬 Tip: Use !help <command> for details - Media URL: N/A
+[2025-07-14 18:38:05] [INFO] 06:38 PM - Hayato Arisaka (Group) - Type: text - Message: -help bot - Media URL: N/A
+[2025-07-14 18:38:06] [INFO] 06:38 PM - Kenji Cloud (Group) - Type: text - Message: --- bot ---
+Description: Chat with Simsimi
+Author: Hridoy
+Version: 1.0
+Usage:
+.bot <your message>
+Example: bot Hello - Media URL: N/A
+[2025-07-14 18:38:06] [INFO] Command executed: help by user 61575746590997
+[2025-07-14 18:39:00] [INFO] Bot stopped by user (Ctrl+C)
+[2025-07-14 18:39:00] [INFO] Ctrl+C detected. Stopping bot...
+[2025-07-14 18:39:01] [INFO] Starting bot...
+[2025-07-14 18:39:02] [INFO] Bot process exited with code 1
+[2025-07-14 18:39:02] [WARN] Restarting bot in 5 seconds... (Attempt 1/5)
+[2025-07-14 18:39:07] [INFO] Stopping existing bot process...
+[2025-07-14 18:39:07] [INFO] Starting bot...
+[2025-07-14 18:39:07] [INFO] Loaded event: botJoinedGroup
+[2025-07-14 18:39:07] [INFO] Loaded event: goodbye
+[2025-07-14 18:39:07] [INFO] Loaded event: welcome
+[2025-07-14 18:39:10] [INFO] Loaded command: add
+[2025-07-14 18:39:10] [INFO] Loaded command: adduser
+[2025-07-14 18:39:10] [INFO] Loaded command: admin
+[2025-07-14 18:39:10] [INFO] Loaded command: adminonly
+[2025-07-14 18:39:10] [INFO] Loaded command: balance
+[2025-07-14 18:39:10] [INFO] Loaded command: ban
+[2025-07-14 18:39:10] [INFO] Loaded command: bank
+[2025-07-14 18:39:10] [INFO] Loaded command: banlist
+[2025-07-14 18:39:10] [INFO] Loaded command: bot
+[2025-07-14 18:39:10] [INFO] Loaded command: deposit
+[2025-07-14 18:39:10] [INFO] Loaded command: help
+[2025-07-14 18:39:10] [INFO] Loaded command: rank
+[2025-07-14 18:39:10] [INFO] Loaded command: setprefix
+[2025-07-14 18:39:10] [INFO] Loaded command: setrank
+[2025-07-14 18:39:10] [INFO] Loaded command: cnggcimg
+[2025-07-14 18:39:10] [INFO] Loaded command: threadname
+[2025-07-14 18:39:10] [INFO] Loaded command: train
+[2025-07-14 18:39:10] [INFO] Loaded command: uid
+[2025-07-14 18:39:10] [INFO] Loaded command: unban
+[2025-07-14 18:39:10] [INFO] Loaded command: withdraw
+[2025-07-14 18:39:10] [INFO] Bot initialized successfully
+[2025-07-14 18:39:10] [INFO] Web server running on port 20170
+[2025-07-14 18:39:14] [INFO] 06:39 PM - Hayato Arisaka (Group) - Type: text - Message: -help - Media URL: N/A
+[2025-07-14 18:39:14] [INFO] Command executed: help by user 61575746590997
+[2025-07-14 18:39:14] [INFO] 06:39 PM - Kenji Cloud (Group) - Type: text - Message: ╔═════☆ KEJI CLOUD HELP ☆═════╗
+
+👑 Owner: Hridoy  
+💻 Commands: 20  
+
+𐙚  ✦ GROUP ✦  ❀  
+add        |   setprefix   
+cnggcimg   |   threadname   
+
+𐙚  ✦ BOX CHAT ✦  ❀  
+adduser    
+
+𐙚  ✦ ADMIN ✦  ❀  
+admin      |   adminonly   |   ban        
+setrank    |   unban      
+
+𐙚  ✦ ECONOMY ✦  ❀  
+balance    |   bank       
+deposit    |   withdraw   
+
+𐙚  ✦ UTILITY ✦  ❀  
+banlist    |   help       
+train      |   uid        
+
+𐙚  ✦ AI ✦  ❀  
+bot        
+
+𐙚  ✦ LEVEL ✦  ❀  
+rank       
+
+╚═════☆ Stay sussy, stay smart ☆═════╝  
+💬 Tip: Use !help <command> for details - Media URL: N/A
+[2025-07-14 18:39:16] [INFO] 06:39 PM - Hayato Arisaka (Group) - Type: text - Message: -help ban - Media URL: N/A
+[2025-07-14 18:39:17] [INFO] 06:39 PM - Kenji Cloud (Group) - Type: text - Message: Please wait 5 seconds before using this command again. - Media URL: N/A
+[2025-07-14 18:39:22] [INFO] 06:39 PM - Hayato Arisaka (Group) - Type: text - Message: -help ban - Media URL: N/A
+[2025-07-14 18:39:23] [INFO] Command executed: help by user 61575746590997
+[2025-07-14 18:39:23] [INFO] 06:39 PM - Kenji Cloud (Group) - Type: text - Message: ╔═════☆ COMMAND INFO ☆═════╗
+
+𐙚  ✦ NAME ✦  ❀
+ban
+
+𐙚  ✦ DESCRIPTION ✦  ❀
+Bans a user from using bot commands.
+
+𐙚  ✦ AUTHOR ✦  ❀
+Hridoy
+
+𐙚  ✦ VERSION ✦  ❀
+1.0
+
+𐙚  ✦ USAGE ✦  ❀
+   .ban [uid|@mention]
+
+╚═════☆ Stay sussy, stay smart ☆═════╝ - Media URL: N/A
+[2025-07-14 18:44:09] [INFO] Bot stopped by user (Ctrl+C)
+[2025-07-14 18:44:09] [INFO] Ctrl+C detected. Stopping bot...
+[2025-07-14 18:44:13] [INFO] Starting bot...
+[2025-07-14 18:44:14] [INFO] Bot process exited with code 1
+[2025-07-14 18:44:14] [WARN] Restarting bot in 5 seconds... (Attempt 1/5)
+[2025-07-14 18:44:19] [INFO] Stopping existing bot process...
+[2025-07-14 18:44:19] [INFO] Starting bot...
+[2025-07-14 18:44:19] [INFO] Loaded event: botJoinedGroup
+[2025-07-14 18:44:19] [INFO] Loaded event: goodbye
+[2025-07-14 18:44:19] [INFO] Loaded event: welcome
+[2025-07-14 18:44:21] [INFO] Loaded command: add
+[2025-07-14 18:44:21] [INFO] Loaded command: adduser
+[2025-07-14 18:44:21] [INFO] Loaded command: admin
+[2025-07-14 18:44:21] [INFO] Loaded command: adminonly
+[2025-07-14 18:44:21] [INFO] Loaded command: balance
+[2025-07-14 18:44:21] [INFO] Loaded command: ban
+[2025-07-14 18:44:21] [INFO] Loaded command: bank
+[2025-07-14 18:44:21] [INFO] Loaded command: banlist
+[2025-07-14 18:44:21] [INFO] Loaded command: bot
+[2025-07-14 18:44:21] [INFO] Loaded command: deposit
+[2025-07-14 18:44:21] [INFO] Loaded command: gcpic
+[2025-07-14 18:44:21] [INFO] Loaded command: help
+[2025-07-14 18:44:21] [INFO] Loaded command: rank
+[2025-07-14 18:44:21] [INFO] Loaded command: setprefix
+[2025-07-14 18:44:21] [INFO] Loaded command: setrank
+[2025-07-14 18:44:21] [INFO] Loaded command: cnggcimg
+[2025-07-14 18:44:21] [INFO] Loaded command: threadname
+[2025-07-14 18:44:21] [INFO] Loaded command: train
+[2025-07-14 18:44:21] [INFO] Loaded command: uid
+[2025-07-14 18:44:21] [INFO] Loaded command: unban
+[2025-07-14 18:44:21] [INFO] Loaded command: withdraw
+[2025-07-14 18:44:21] [INFO] Bot initialized successfully
+[2025-07-14 18:44:21] [INFO] Web server running on port 20170
+[2025-07-14 18:44:27] [INFO] 06:44 PM - Hayato Arisaka (Group) - Type: text - Message: -gcpic - Media URL: N/A
+[2025-07-14 18:44:28] [INFO] Command executed: gcpic by user 61575746590997
+[2025-07-14 18:44:28] [INFO] 06:44 PM - Kenji Cloud (Group) - Type: text - Message: Generating your group picture, please wait... - Media URL: N/A
+[2025-07-14 18:44:30] [INFO] 06:44 PM - Kenji Cloud (Group) - Type: media - Message: Here is your group picture! - Media URL: https://scontent.xx.fbcdn.net/v/t1.15752-9/517355721_1065946422385940_2375909916192731420_n.png?_nc_cat=110&ccb=1-7&_nc_sid=9f807c&_nc_ohc=gzdhi3B5NdEQ7kNvwFbMKdQ&_nc_oc=Admw2dHkyboCX75Yg8I7bzCyXE5sM1ck6OTpFE55uNRHIz8mVrfy8s4A5Ribu1PXhnU&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.xx&oh=03_Q7cD2wEsG2RZiTFQsxRKB_Haz3IK1jvRhLctzJuJPaI6JQjlTg&oe=689C613A
+[2025-07-14 18:45:14] [INFO] 06:45 PM - انظل انظل (Group) - Type: text - Message: 🥰 𝙰𝚂𝚂𝙰𝙻𝙰𝙼𝚄𝙰𝙻𝙰𝙸𝙺𝚄𝙼 Hridoy Khan, Hri Doy 𝚠𝚎𝚕𝚌𝚘𝚖𝚎 𝚢𝚘𝚞 𝚐𝚞𝚢𝚜 𝚃𝚘 𝙾𝚞𝚛 Test 𝙶𝚛𝚘𝚞𝚙😊
+• 𝙸 𝙷𝚘𝚙𝚎 𝚈𝚘𝚞 𝚆𝚒𝚕𝚕 𝚏𝚘𝚕𝚕𝚘𝚠 𝙾𝚞𝚛 𝙶𝚛𝚘𝚞𝚙 𝚁𝚞𝚕𝚎𝚜
+• !𝚛𝚞𝚕𝚎𝚜 𝚏𝚘𝚛 𝙶𝚛𝚘𝚞𝚙 𝚛𝚞𝚕𝚎𝚜
+• !𝚑𝚎𝚕𝚙 𝙵𝚘𝚛 𝚊𝚕𝚕 𝙲𝚘𝚖𝚖𝚊𝚗𝚍𝚜
+
+• 𝚈𝚘𝚞 𝙰𝚛𝚎 𝚃𝚑𝚎 7th, 8th 𝙼𝚎𝚖𝚋𝚎𝚛 𝚒𝚗 𝙾𝚞𝚛 𝙶𝚛𝚘𝚞𝚙
+• 𝙰𝚍𝚍𝚎𝚍 𝙱𝚢: Hayato Arisaka - Media URL: N/A
+[2025-07-14 18:45:16] [INFO] 06:45 PM - Kenji Cloud (Group) - Type: media - Message: Welcome to the group! - Media URL: https://scontent.xx.fbcdn.net/v/t1.15752-9/518267250_4171214376455397_984804204089053696_n.png?stp=dst-png_p480x480&_nc_cat=103&ccb=1-7&_nc_sid=9f807c&_nc_ohc=v6eXZCD_eEMQ7kNvwGHG_wE&_nc_oc=AdkeuJ9ZhVmqcuEWNFBJph9pGAk-1LMz7FEEQqeGOXAZQO-8ZF0k5Tibp__XD7UT0zw&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.xx&oh=03_Q7cD2wEq9Q8TRCiHG32raaOc4i7JQz1XgTHHEwy_JasTn13xNA&oe=689C6690
+[2025-07-14 18:45:29] [INFO] 06:45 PM - Hayato Arisaka (Group) - Type: text - Message: -gcpic - Media URL: N/A
+[2025-07-14 18:45:30] [INFO] Command executed: gcpic by user 61575746590997
+[2025-07-14 18:45:30] [INFO] 06:45 PM - Kenji Cloud (Group) - Type: text - Message: Generating your group picture, please wait... - Media URL: N/A
+[2025-07-14 18:45:33] [INFO] 06:45 PM - Kenji Cloud (Group) - Type: media - Message: Here is your group picture! - Media URL: https://scontent.xx.fbcdn.net/v/t1.15752-9/518258043_760530773588547_4564172872492413825_n.png?_nc_cat=110&ccb=1-7&_nc_sid=9f807c&_nc_ohc=lamTQrjZ3pIQ7kNvwFFpiTA&_nc_oc=AdnfD3ynv-1Ep0GXJ9smZPRnS_hukfzRpMj-2pwNe6cpkT1Qm2LaPaF3LyeE90TYCnU&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.xx&oh=03_Q7cD2wF48mrEIYKmeB4csNvcXiR9FXk7xWOmAvDJq5PkFzN2Ow&oe=689C88A0
+[2025-07-14 18:47:42] [INFO] Bot stopped by user (Ctrl+C)
+[2025-07-14 18:47:42] [INFO] Ctrl+C detected. Stopping bot...
+[2025-07-14 18:47:44] [INFO] Starting bot...
+[2025-07-14 18:47:45] [INFO] Bot process exited with code 1
+[2025-07-14 18:47:45] [WARN] Restarting bot in 5 seconds... (Attempt 1/5)
+[2025-07-14 18:47:50] [INFO] Stopping existing bot process...
+[2025-07-14 18:47:50] [INFO] Starting bot...
+[2025-07-14 18:47:50] [INFO] Loaded event: botJoinedGroup
+[2025-07-14 18:47:50] [INFO] Loaded event: goodbye
+[2025-07-14 18:47:50] [INFO] Loaded event: welcome
+[2025-07-14 18:47:53] [INFO] Loaded command: add
+[2025-07-14 18:47:53] [INFO] Loaded command: adduser
+[2025-07-14 18:47:53] [INFO] Loaded command: admin
+[2025-07-14 18:47:53] [INFO] Loaded command: adminonly
+[2025-07-14 18:47:53] [INFO] Loaded command: balance
+[2025-07-14 18:47:53] [INFO] Loaded command: ban
+[2025-07-14 18:47:53] [INFO] Loaded command: bank
+[2025-07-14 18:47:53] [INFO] Loaded command: banlist
+[2025-07-14 18:47:53] [INFO] Loaded command: bot
+[2025-07-14 18:47:53] [INFO] Loaded command: deposit
+[2025-07-14 18:47:53] [INFO] Loaded command: gcpic
+[2025-07-14 18:47:53] [INFO] Loaded command: help
+[2025-07-14 18:47:53] [INFO] Loaded command: rank
+[2025-07-14 18:47:53] [INFO] Loaded command: setprefix
+[2025-07-14 18:47:53] [INFO] Loaded command: setrank
+[2025-07-14 18:47:53] [INFO] Loaded command: cnggcimg
+[2025-07-14 18:47:53] [INFO] Loaded command: threadname
+[2025-07-14 18:47:53] [INFO] Loaded command: train
+[2025-07-14 18:47:53] [INFO] Loaded command: uid
+[2025-07-14 18:47:53] [INFO] Loaded command: unban
+[2025-07-14 18:47:53] [INFO] Loaded command: withdraw
+[2025-07-14 18:47:53] [INFO] Bot initialized successfully
+[2025-07-14 18:47:53] [INFO] Web server running on port 20170
+[2025-07-14 18:47:58] [INFO] 06:47 PM - Hayato Arisaka (Group) - Type: text - Message: -gcpic - Media URL: N/A
+[2025-07-14 18:47:59] [INFO] 06:47 PM - Kenji Cloud (Group) - Type: text - Message: Generating your group picture, please wait... - Media URL: N/A
+[2025-07-14 18:47:59] [INFO] Command executed: gcpic by user 61575746590997
+[2025-07-14 18:48:03] [INFO] 06:48 PM - Kenji Cloud (Group) - Type: media - Message: Here is your group picture! - Media URL: https://scontent.xx.fbcdn.net/v/t1.15752-9/517123901_1975953023211776_4465683629673403871_n.png?_nc_cat=108&ccb=1-7&_nc_sid=9f807c&_nc_ohc=zRrMopilVI0Q7kNvwEMaXG8&_nc_oc=AdmSz-Es69DShPhwEFG7vihqRNOoClTs68Fyx1V9acs3Jle9azH1koczpwQW81nISzY&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.xx&oh=03_Q7cD2wGv1T7sDlqhkoUebvA88oahc_5H4Aw0ucpRBGPBHqRnHA&oe=689C5440
+[2025-07-14 18:50:15] [INFO] Bot stopped by user (Ctrl+C)
+[2025-07-14 18:50:15] [INFO] Ctrl+C detected. Stopping bot...
+[2025-07-14 18:50:17] [INFO] Starting bot...
+[2025-07-14 18:50:17] [INFO] Bot process exited with code 1
+[2025-07-14 18:50:17] [WARN] Restarting bot in 5 seconds... (Attempt 1/5)
+[2025-07-14 18:50:22] [INFO] Stopping existing bot process...
+[2025-07-14 18:50:22] [INFO] Starting bot...
+[2025-07-14 18:50:23] [INFO] Loaded event: botJoinedGroup
+[2025-07-14 18:50:23] [INFO] Loaded event: goodbye
+[2025-07-14 18:50:23] [INFO] Loaded event: welcome
+[2025-07-14 18:50:25] [INFO] Loaded command: add
+[2025-07-14 18:50:25] [INFO] Loaded command: adduser
+[2025-07-14 18:50:25] [INFO] Loaded command: admin
+[2025-07-14 18:50:25] [INFO] Loaded command: adminonly
+[2025-07-14 18:50:25] [INFO] Loaded command: balance
+[2025-07-14 18:50:25] [INFO] Loaded command: ban
+[2025-07-14 18:50:25] [INFO] Loaded command: bank
+[2025-07-14 18:50:25] [INFO] Loaded command: banlist
+[2025-07-14 18:50:25] [INFO] Loaded command: bot
+[2025-07-14 18:50:25] [INFO] Loaded command: deposit
+[2025-07-14 18:50:25] [INFO] Loaded command: gcpic
+[2025-07-14 18:50:25] [INFO] Loaded command: help
+[2025-07-14 18:50:25] [INFO] Loaded command: rank
+[2025-07-14 18:50:25] [INFO] Loaded command: setprefix
+[2025-07-14 18:50:25] [INFO] Loaded command: setrank
+[2025-07-14 18:50:25] [INFO] Loaded command: cnggcimg
+[2025-07-14 18:50:25] [INFO] Loaded command: threadname
+[2025-07-14 18:50:25] [INFO] Loaded command: train
+[2025-07-14 18:50:25] [INFO] Loaded command: uid
+[2025-07-14 18:50:25] [INFO] Loaded command: unban
+[2025-07-14 18:50:25] [INFO] Loaded command: withdraw
+[2025-07-14 18:50:25] [INFO] Bot initialized successfully
+[2025-07-14 18:50:25] [INFO] Web server running on port 20170
+[2025-07-14 18:50:29] [INFO] 06:50 PM - Hayato Arisaka (Group) - Type: text - Message: -gcpic - Media URL: N/A
+[2025-07-14 18:50:30] [INFO] 06:50 PM - Kenji Cloud (Group) - Type: text - Message: ✨ Creating your stunning group picture, please wait... - Media URL: N/A
+[2025-07-14 18:50:32] [INFO] Command executed: gcpic by user 61575746590997
+[2025-07-14 18:50:35] [INFO] 06:50 PM - Kenji Cloud (Group) - Type: media - Message: 🎨 Here's your beautiful group picture!
+
+✨ Features:
+• 8 amazing members
+• 1 awesome admins
+• Perfect sizing and layout
+• Creative design with gradients
+• User names displayed
+• Admin crowns for group leaders
+
+Enjoy your stunning group portrait! 📸 - Media URL: https://scontent.xx.fbcdn.net/v/t1.15752-9/519541951_1888891335003280_4862555114082532326_n.png?stp=dst-png_p480x480&_nc_cat=108&ccb=1-7&_nc_sid=9f807c&_nc_ohc=pjQjsqmW5FoQ7kNvwEaV0UG&_nc_oc=AdlXlYcuhDNvIXWAeaaMsW_53I17yMAV_k2uJ4pCHuiLcBOgnyrWnpuOEOShtyF4qOk&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.xx&oh=03_Q7cD2wFdQlFHi_hiN0X2NLzPPr04JQJAOIm8DF7l4LRmbpRwvw&oe=689C785B
+[2025-07-14 18:57:51] [INFO] Bot stopped by user (Ctrl+C)
+[2025-07-14 18:57:51] [INFO] Ctrl+C detected. Stopping bot...
+[2025-07-14 18:57:53] [INFO] Starting bot...
+[2025-07-14 18:57:54] [INFO] Bot process exited with code 1
+[2025-07-14 18:57:54] [WARN] Restarting bot in 5 seconds... (Attempt 1/5)
+[2025-07-14 18:57:59] [INFO] Stopping existing bot process...
+[2025-07-14 18:57:59] [INFO] Starting bot...
+[2025-07-14 18:57:59] [INFO] Loaded event: botJoinedGroup
+[2025-07-14 18:57:59] [INFO] Loaded event: goodbye
+[2025-07-14 18:57:59] [INFO] Loaded event: welcome
+[2025-07-14 18:58:01] [INFO] Loaded command: add
+[2025-07-14 18:58:01] [INFO] Loaded command: adduser
+[2025-07-14 18:58:01] [INFO] Loaded command: admin
+[2025-07-14 18:58:01] [INFO] Loaded command: adminonly
+[2025-07-14 18:58:01] [INFO] Loaded command: balance
+[2025-07-14 18:58:01] [INFO] Loaded command: ban
+[2025-07-14 18:58:01] [INFO] Loaded command: bank
+[2025-07-14 18:58:01] [INFO] Loaded command: banlist
+[2025-07-14 18:58:01] [INFO] Loaded command: bot
+[2025-07-14 18:58:01] [INFO] Loaded command: deposit
+[2025-07-14 18:58:01] [INFO] Loaded command: gcpic
+[2025-07-14 18:58:01] [INFO] Loaded command: help
+[2025-07-14 18:58:01] [INFO] Loaded command: rank
+[2025-07-14 18:58:01] [INFO] Loaded command: setprefix
+[2025-07-14 18:58:01] [INFO] Loaded command: setrank
+[2025-07-14 18:58:01] [INFO] Loaded command: cnggcimg
+[2025-07-14 18:58:01] [INFO] Loaded command: threadname
+[2025-07-14 18:58:01] [INFO] Loaded command: train
+[2025-07-14 18:58:01] [INFO] Loaded command: uid
+[2025-07-14 18:58:01] [INFO] Loaded command: unban
+[2025-07-14 18:58:01] [INFO] Loaded command: withdraw
+[2025-07-14 18:58:01] [INFO] Bot initialized successfully
+[2025-07-14 18:58:01] [INFO] Web server running on port 20170
+[2025-07-14 18:58:05] [INFO] 06:58 PM - Hayato Arisaka (Group) - Type: text - Message: -gcpic - Media URL: N/A
+[2025-07-14 18:58:06] [INFO] 06:58 PM - Kenji Cloud (Group) - Type: text - Message: ─── ⋆⋅☆⋅⋆ ── Creating your group portrait, please wait... - Media URL: N/A
+[2025-07-14 18:58:07] [INFO] Command executed: gcpic by user 61575746590997
+[2025-07-14 18:58:11] [INFO] 06:58 PM - Kenji Cloud (Group) - Type: media - Message: ╰┈➤ Your group portrait is ready! - Media URL: https://scontent.xx.fbcdn.net/v/t1.15752-9/519360386_1675288977193803_9163891898365922274_n.png?stp=dst-png_p480x480&_nc_cat=105&ccb=1-7&_nc_sid=9f807c&_nc_ohc=j89DCT4-2TkQ7kNvwEFY3sK&_nc_oc=AdlNaViVXiP_mcA0Jys1LLgFN37GBiif9b3YGfD6TkaObrDIK9M3ijXiWUo08tCYKyU&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.xx&oh=03_Q7cD2wG3vOWHZ2rMLkD0YIDWZGZqGMnCIgWu3d9yoTcT0ZPd5A&oe=689C5DB9
+[2025-07-14 19:00:31] [INFO] Bot stopped by user (Ctrl+C)
+[2025-07-14 19:00:31] [INFO] Ctrl+C detected. Stopping bot...
+[2025-07-14 19:00:33] [INFO] Starting bot...
+[2025-07-14 19:00:34] [INFO] Bot process exited with code 1
+[2025-07-14 19:00:34] [WARN] Restarting bot in 5 seconds... (Attempt 1/5)
+[2025-07-14 19:00:39] [INFO] Stopping existing bot process...
+[2025-07-14 19:00:39] [INFO] Starting bot...
+[2025-07-14 19:00:39] [INFO] Loaded event: botJoinedGroup
+[2025-07-14 19:00:39] [INFO] Loaded event: goodbye
+[2025-07-14 19:00:39] [INFO] Loaded event: welcome
+[2025-07-14 19:00:41] [INFO] Loaded command: add
+[2025-07-14 19:00:41] [INFO] Loaded command: adduser
+[2025-07-14 19:00:41] [INFO] Loaded command: admin
+[2025-07-14 19:00:41] [INFO] Loaded command: adminonly
+[2025-07-14 19:00:41] [INFO] Loaded command: balance
+[2025-07-14 19:00:41] [INFO] Loaded command: ban
+[2025-07-14 19:00:41] [INFO] Loaded command: bank
+[2025-07-14 19:00:41] [INFO] Loaded command: banlist
+[2025-07-14 19:00:41] [INFO] Loaded command: bot
+[2025-07-14 19:00:41] [INFO] Loaded command: deposit
+[2025-07-14 19:00:41] [INFO] Loaded command: gcpic
+[2025-07-14 19:00:41] [INFO] Loaded command: help
+[2025-07-14 19:00:41] [INFO] Loaded command: rank
+[2025-07-14 19:00:41] [INFO] Loaded command: setprefix
+[2025-07-14 19:00:41] [INFO] Loaded command: setrank
+[2025-07-14 19:00:41] [INFO] Loaded command: cnggcimg
+[2025-07-14 19:00:41] [INFO] Loaded command: threadname
+[2025-07-14 19:00:41] [INFO] Loaded command: train
+[2025-07-14 19:00:41] [INFO] Loaded command: uid
+[2025-07-14 19:00:41] [INFO] Loaded command: unban
+[2025-07-14 19:00:41] [INFO] Loaded command: withdraw
+[2025-07-14 19:00:41] [INFO] Bot initialized successfully
+[2025-07-14 19:00:41] [INFO] Web server running on port 20170
+[2025-07-14 19:00:45] [INFO] 07:00 PM - Hayato Arisaka (Group) - Type: text - Message: -gcpic - Media URL: N/A
+[2025-07-14 19:00:46] [INFO] 07:00 PM - Kenji Cloud (Group) - Type: text - Message: Creating your group portrait, please wait... - Media URL: N/A
+[2025-07-14 19:00:47] [INFO] Command executed: gcpic by user 61575746590997
+[2025-07-14 19:00:51] [INFO] 07:00 PM - Kenji Cloud (Group) - Type: media - Message: Your group portrait is ready! - Media URL: https://scontent.xx.fbcdn.net/v/t1.15752-9/518807088_9792213130883321_4844366859293787331_n.png?stp=dst-png_p480x480&_nc_cat=100&ccb=1-7&_nc_sid=9f807c&_nc_ohc=zvd6eTxlTEUQ7kNvwGDmIbu&_nc_oc=AdnWpOrGRsYkgsCA117x7BCuew37lAqvwf5Hvmt_JHA6rJ22kKjbqOZVoJqbS5WcT1o&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.xx&oh=03_Q7cD2wEizssqDCZ5uk53u6djm1pwHoKePQ3UaXFqRWz-pjDOFA&oe=689C5A7D
+[2025-07-14 19:01:32] [INFO] Ctrl+C detected. Stopping bot...
+[2025-07-14 19:01:32] [INFO] Bot stopped by user (Ctrl+C)
+[2025-07-14 19:01:36] [INFO] Starting bot...
+[2025-07-14 19:01:37] [INFO] Bot process exited with code 1
+[2025-07-14 19:01:37] [WARN] Restarting bot in 5 seconds... (Attempt 1/5)
+[2025-07-14 19:01:42] [INFO] Stopping existing bot process...
+[2025-07-14 19:01:42] [INFO] Starting bot...
+[2025-07-14 19:01:42] [INFO] Loaded event: botJoinedGroup
+[2025-07-14 19:01:42] [INFO] Loaded event: goodbye
+[2025-07-14 19:01:42] [INFO] Loaded event: welcome
+[2025-07-14 19:01:44] [INFO] Loaded command: add
+[2025-07-14 19:01:44] [INFO] Loaded command: adduser
+[2025-07-14 19:01:44] [INFO] Loaded command: admin
+[2025-07-14 19:01:44] [INFO] Loaded command: adminonly
+[2025-07-14 19:01:44] [INFO] Loaded command: balance
+[2025-07-14 19:01:44] [INFO] Loaded command: ban
+[2025-07-14 19:01:44] [INFO] Loaded command: bank
+[2025-07-14 19:01:44] [INFO] Loaded command: banlist
+[2025-07-14 19:01:44] [INFO] Loaded command: bot
+[2025-07-14 19:01:44] [INFO] Loaded command: deposit
+[2025-07-14 19:01:44] [INFO] Loaded command: gcpic
+[2025-07-14 19:01:44] [INFO] Loaded command: help
+[2025-07-14 19:01:44] [INFO] Loaded command: rank
+[2025-07-14 19:01:44] [INFO] Loaded command: setprefix
+[2025-07-14 19:01:44] [INFO] Loaded command: setrank
+[2025-07-14 19:01:44] [INFO] Loaded command: cnggcimg
+[2025-07-14 19:01:44] [INFO] Loaded command: threadname
+[2025-07-14 19:01:44] [INFO] Loaded command: train
+[2025-07-14 19:01:44] [INFO] Loaded command: uid
+[2025-07-14 19:01:44] [INFO] Loaded command: unban
+[2025-07-14 19:01:44] [INFO] Loaded command: withdraw
+[2025-07-14 19:01:44] [INFO] Bot initialized successfully
+[2025-07-14 19:01:44] [INFO] Web server running on port 20170
+[2025-07-14 19:01:49] [INFO] 07:01 PM - Hayato Arisaka (Group) - Type: text - Message: -gcpic - Media URL: N/A
+[2025-07-14 19:01:50] [INFO] 07:01 PM - Kenji Cloud (Group) - Type: text - Message: Creating your group portrait, please wait... - Media URL: N/A
+[2025-07-14 19:01:50] [INFO] Command executed: gcpic by user 61575746590997
+[2025-07-14 19:01:51] [INFO] 07:01 PM - Kenji Cloud (Group) - Type: text - Message: An error occurred while generating the group picture. Please try again later. - Media URL: N/A
+[2025-07-14 19:04:17] [INFO] Bot stopped by user (Ctrl+C)
+[2025-07-14 19:04:17] [INFO] Ctrl+C detected. Stopping bot...
+[2025-07-14 19:04:21] [INFO] Starting bot...
+[2025-07-14 19:04:22] [INFO] Bot process exited with code 1
+[2025-07-14 19:04:22] [WARN] Restarting bot in 5 seconds... (Attempt 1/5)
+[2025-07-14 19:04:27] [INFO] Stopping existing bot process...
+[2025-07-14 19:04:27] [INFO] Starting bot...
+[2025-07-14 19:04:27] [INFO] Loaded event: botJoinedGroup
+[2025-07-14 19:04:27] [INFO] Loaded event: goodbye
+[2025-07-14 19:04:27] [INFO] Loaded event: welcome
+[2025-07-14 19:04:29] [INFO] Loaded command: add
+[2025-07-14 19:04:29] [INFO] Loaded command: adduser
+[2025-07-14 19:04:29] [INFO] Loaded command: admin
+[2025-07-14 19:04:29] [INFO] Loaded command: adminonly
+[2025-07-14 19:04:29] [INFO] Loaded command: balance
+[2025-07-14 19:04:29] [INFO] Loaded command: ban
+[2025-07-14 19:04:29] [INFO] Loaded command: bank
+[2025-07-14 19:04:29] [INFO] Loaded command: banlist
+[2025-07-14 19:04:29] [INFO] Loaded command: bot
+[2025-07-14 19:04:29] [INFO] Loaded command: deposit
+[2025-07-14 19:04:29] [INFO] Loaded command: gcpic
+[2025-07-14 19:04:29] [INFO] Loaded command: help
+[2025-07-14 19:04:29] [INFO] Loaded command: rank
+[2025-07-14 19:04:29] [INFO] Loaded command: setprefix
+[2025-07-14 19:04:29] [INFO] Loaded command: setrank
+[2025-07-14 19:04:29] [INFO] Loaded command: cnggcimg
+[2025-07-14 19:04:29] [INFO] Loaded command: threadname
+[2025-07-14 19:04:29] [INFO] Loaded command: train
+[2025-07-14 19:04:29] [INFO] Loaded command: uid
+[2025-07-14 19:04:29] [INFO] Loaded command: unban
+[2025-07-14 19:04:29] [INFO] Loaded command: withdraw
+[2025-07-14 19:04:29] [INFO] Bot initialized successfully
+[2025-07-14 19:04:29] [INFO] Web server running on port 20170
+[2025-07-14 19:04:37] [INFO] 07:04 PM - Hayato Arisaka (Group) - Type: text - Message: -gcpic - Media URL: N/A
+[2025-07-14 19:04:37] [INFO] 07:04 PM - Kenji Cloud (Group) - Type: text - Message: Generating your group picture, please wait... - Media URL: N/A
+[2025-07-14 19:04:38] [INFO] Command executed: gcpic by user 61575746590997
+[2025-07-14 19:04:41] [INFO] 07:04 PM - Kenji Cloud (Group) - Type: media - Message: Here is your group picture! - Media URL: https://scontent.xx.fbcdn.net/v/t1.15752-9/517928596_24158042380457116_4494603456579378136_n.png?_nc_cat=109&ccb=1-7&_nc_sid=9f807c&_nc_ohc=pPrZOf1MRpoQ7kNvwGIBaUU&_nc_oc=Adn7PWliDrOfqyi_50ixs8o8khidkxl0Nji8jW3ko6Hob74S_P_5Hy8eqdX3VQVhGUM&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.xx&oh=03_Q7cD2wEM52cWTd82XzTkxrUalJrb9HtXuqDA8rVYfzt7QaPZDQ&oe=689C8341
+[2025-07-14 19:05:52] [INFO] 07:05 PM - Kenji Cloud (Group) - Type: media - Message: Welcome to the group! - Media URL: https://scontent.xx.fbcdn.net/v/t1.15752-9/517426683_754601747129530_6876934149797443718_n.png?stp=dst-png_p480x480&_nc_cat=102&ccb=1-7&_nc_sid=9f807c&_nc_ohc=Hoc7HXh8yXMQ7kNvwGBVmCU&_nc_oc=Adm7WXRayfT7gYh7pzD76-7ntahrypawIPju0J2ovyWdC6dt97ryaF9LTuRI8H1Cjd8&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.xx&oh=03_Q7cD2wEY6ACOOGBsDwgrqHums6xYl4plfckID7IBOjjrYf6F3g&oe=689C7844
+[2025-07-14 19:05:56] [INFO] 07:05 PM - Hridoy Khan (Group) - Type: text - Message: .help - Media URL: N/A
+[2025-07-14 19:06:25] [INFO] 07:06 PM - Hridoy Khan (Group) - Type: text - Message: .gcpic - Media URL: N/A
+[2025-07-14 19:06:46] [INFO] 07:06 PM - Kenji Cloud (Group) - Type: text - Message: 👻 - Media URL: N/A
+[2025-07-14 19:06:50] [INFO] Bot stopped by user (Ctrl+C)
+[2025-07-14 19:06:50] [INFO] Ctrl+C detected. Stopping bot...
+[2025-07-14 19:06:58] [INFO] Starting bot...
+[2025-07-14 19:06:59] [INFO] Bot process exited with code 1
+[2025-07-14 19:06:59] [WARN] Restarting bot in 5 seconds... (Attempt 1/5)
+[2025-07-14 19:07:04] [INFO] Stopping existing bot process...
+[2025-07-14 19:07:04] [INFO] Starting bot...
+[2025-07-14 19:07:04] [INFO] Loaded event: botJoinedGroup
+[2025-07-14 19:07:04] [INFO] Loaded event: goodbye
+[2025-07-14 19:07:04] [INFO] Loaded event: welcome
+[2025-07-14 19:07:06] [INFO] Loaded command: add
+[2025-07-14 19:07:06] [INFO] Loaded command: adduser
+[2025-07-14 19:07:06] [INFO] Loaded command: admin
+[2025-07-14 19:07:06] [INFO] Loaded command: adminonly
+[2025-07-14 19:07:06] [INFO] Loaded command: balance
+[2025-07-14 19:07:06] [INFO] Loaded command: ban
+[2025-07-14 19:07:06] [INFO] Loaded command: bank
+[2025-07-14 19:07:06] [INFO] Loaded command: banlist
+[2025-07-14 19:07:06] [INFO] Loaded command: bot
+[2025-07-14 19:07:06] [INFO] Loaded command: deposit
+[2025-07-14 19:07:06] [INFO] Loaded command: gcpic
+[2025-07-14 19:07:06] [INFO] Loaded command: help
+[2025-07-14 19:07:06] [INFO] Loaded command: rank
+[2025-07-14 19:07:06] [INFO] Loaded command: setprefix
+[2025-07-14 19:07:06] [INFO] Loaded command: setrank
+[2025-07-14 19:07:06] [INFO] Loaded command: cnggcimg
+[2025-07-14 19:07:06] [INFO] Loaded command: threadname
+[2025-07-14 19:07:06] [INFO] Loaded command: train
+[2025-07-14 19:07:06] [INFO] Loaded command: uid
+[2025-07-14 19:07:06] [INFO] Loaded command: unban
+[2025-07-14 19:07:06] [INFO] Loaded command: withdraw
+[2025-07-14 19:07:06] [INFO] Bot initialized successfully
+[2025-07-14 19:07:06] [INFO] Web server running on port 20170
+[2025-07-14 19:07:33] [INFO] 07:07 PM - Hridoy Khan (Group) - Type: text - Message: .help - Media URL: N/A
+[2025-07-14 19:07:43] [INFO] 07:07 PM - Hridoy Khan (Group) - Type: text - Message: -help - Media URL: N/A
+[2025-07-14 19:07:44] [INFO] 07:07 PM - Raphael Tempest (Group) - Type: media - Message: ╭─『 Commands List 』
+│✧ brat
+│✧ gagcountdown
+│✧ accept
+│✧ ad
+│✧ adc
+│✧ adpromote
+│✧ afk
+│✧ ai
+│✧ ai2
+│✧ antirobbery
+│✧ aria
+│✧ autorep
+│✧ autorep
+│✧ autosendstock
+│✧ baccarat
+╰───────────◊
+
+(Page 1/7)
+Type -help <page number> to see more commands.
+
+Dev: Zach - Media URL: N/A
+[2025-07-14 19:07:53] [INFO] 07:07 PM - Hridoy Khan (Group) - Type: text - Message: !help - Media URL: N/A
+[2025-07-14 19:07:54] [INFO] Command executed: help by user 61552837791926
+[2025-07-14 19:07:54] [INFO] 07:07 PM - Kenji Cloud (Group) - Type: text - Message: ╔═════☆ KEJI CLOUD HELP ☆═════╗
+
+👑 Owner: Hridoy  
+💻 Commands: 21  
+
+𐙚  ✦ GROUP ✦  ❀  
+add        |   gcpic      |   setprefix   
+cnggcimg   |   threadname   
+
+𐙚  ✦ BOX CHAT ✦  ❀  
+adduser    
+
+𐙚  ✦ ADMIN ✦  ❀  
+admin      |   adminonly   |   ban        
+setrank    |   unban      
+
+𐙚  ✦ ECONOMY ✦  ❀  
+balance    |   bank       
+deposit    |   withdraw   
+
+𐙚  ✦ UTILITY ✦  ❀  
+banlist    |   help       
+train      |   uid        
+
+𐙚  ✦ AI ✦  ❀  
+bot        
+
+𐙚  ✦ LEVEL ✦  ❀  
+rank       
+
+╚═════☆ Stay sussy, stay smart ☆═════╝  
+💬 Tip: Use !help <command> for details - Media URL: N/A
+[2025-07-14 19:08:06] [INFO] 07:08 PM - Hridoy Khan (Group) - Type: text - Message: !gcpic - Media URL: N/A
+[2025-07-14 19:08:07] [INFO] 07:08 PM - Kenji Cloud (Group) - Type: text - Message: Generating your group picture, please wait... - Media URL: N/A
+[2025-07-14 19:08:07] [INFO] Command executed: gcpic by user 61552837791926
+[2025-07-14 19:08:11] [INFO] 07:08 PM - Kenji Cloud (Group) - Type: media - Message: Here is your group picture! - Media URL: https://scontent.xx.fbcdn.net/v/t1.15752-9/519514625_1098591075472997_3956035421603848710_n.png?_nc_cat=106&ccb=1-7&_nc_sid=9f807c&_nc_ohc=AkFiHt5qg_0Q7kNvwEZOlPz&_nc_oc=AdloBvA8bTek4bcGmaGRAsMOdDbxiR0_DB7TSbYLsFrFkai2j3HB52SA-f03z8OXMyA&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.xx&oh=03_Q7cD2wHK2RraofGaKL7HcjBWE9uRdccRZKH2yoGsX3NhMORKOQ&oe=689C6A79
+[2025-07-14 19:08:16] [INFO] 07:08 PM - Raphael Tempest (Group) - Type: text - Message: 𝗨𝗻𝘀𝗲𝗻𝗱 𝗠𝗲𝘀𝘀𝗮𝗴𝗲
+━━━━━━━━━━━━━━━━━━
+Kenji Cloud has unsent this message
+
+Content: Generating your group picture, please wait... - Media URL: N/A
+[2025-07-14 19:09:09] [INFO] Bot stopped by user (Ctrl+C)
+[2025-07-14 19:09:09] [INFO] Ctrl+C detected. Stopping bot...
+[2025-07-14 19:09:12] [INFO] Starting bot...
+[2025-07-14 19:09:12] [INFO] Bot process exited with code 1
+[2025-07-14 19:09:12] [WARN] Restarting bot in 5 seconds... (Attempt 1/5)
+[2025-07-14 19:09:17] [INFO] Stopping existing bot process...
+[2025-07-14 19:09:17] [INFO] Starting bot...
+[2025-07-14 19:09:17] [INFO] Loaded event: botJoinedGroup
+[2025-07-14 19:09:17] [INFO] Loaded event: goodbye
+[2025-07-14 19:09:17] [INFO] Loaded event: welcome
+[2025-07-14 19:09:20] [INFO] Loaded command: add
+[2025-07-14 19:09:20] [INFO] Loaded command: adduser
+[2025-07-14 19:09:20] [INFO] Loaded command: admin
+[2025-07-14 19:09:20] [INFO] Loaded command: adminonly
+[2025-07-14 19:09:20] [INFO] Loaded command: balance
+[2025-07-14 19:09:20] [INFO] Loaded command: ban
+[2025-07-14 19:09:20] [INFO] Loaded command: bank
+[2025-07-14 19:09:20] [INFO] Loaded command: banlist
+[2025-07-14 19:09:20] [INFO] Loaded command: bot
+[2025-07-14 19:09:20] [INFO] Loaded command: deposit
+[2025-07-14 19:09:20] [INFO] Loaded command: gcpic
+[2025-07-14 19:09:20] [INFO] Loaded command: help
+[2025-07-14 19:09:20] [INFO] Loaded command: prefix
+[2025-07-14 19:09:20] [INFO] Loaded command: rank
+[2025-07-14 19:09:20] [INFO] Loaded command: setprefix
+[2025-07-14 19:09:20] [INFO] Loaded command: setrank
+[2025-07-14 19:09:20] [INFO] Loaded command: cnggcimg
+[2025-07-14 19:09:20] [INFO] Loaded command: threadname
+[2025-07-14 19:09:20] [INFO] Loaded command: train
+[2025-07-14 19:09:20] [INFO] Loaded command: uid
+[2025-07-14 19:09:20] [INFO] Loaded command: unban
+[2025-07-14 19:09:20] [INFO] Loaded command: withdraw
+[2025-07-14 19:09:20] [INFO] Bot initialized successfully
+[2025-07-14 19:09:20] [INFO] Web server running on port 20170
+[2025-07-14 19:09:23] [INFO] 07:09 PM - Hridoy Khan (Group) - Type: text - Message: prefix - Media URL: N/A
+[2025-07-14 19:09:23] [INFO] Command executed: prefix by user 61552837791926
+[2025-07-14 19:09:23] [INFO] 07:09 PM - Raphael Tempest (Group) - Type: media - Message: ╭┈ ❒ [ - ] : 𝙋𝙍𝙀𝙁𝙄𝙓
+ |    ⁞ ❏. 𝖳𝗁𝖾 𝖼𝗈𝗆𝗆𝖺𝗇𝖽 𝗒𝗈𝗎 𝖺𝗋𝖾 𝗎𝗌𝗂𝗇𝗀 𝖽𝗈𝖾𝗌 𝗇𝗈𝗍 𝖾𝗑𝗂𝗌𝗍
+╰   ⁞ ❏. 𝗍𝗒𝗉𝖾 -𝗁𝖾𝗅𝗉 𝗍𝗈 𝗌𝖾𝖾 𝖺𝗅𝗅 𝖺𝗏𝖺𝗂𝗅𝖺𝖻𝗅𝖾 𝖼𝗈𝗆𝗆𝖺𝗇𝖽𝗌. - Media URL: N/A
+[2025-07-14 19:09:24] [INFO] 07:09 PM - Kenji Cloud (Group) - Type: text - Message: --- Bot Information ---
+Bot Prefix: .
+Group Prefix: !
+Total Users: 5
+Total Threads: 3 - Media URL: N/A
+[2025-07-14 19:09:25] [INFO] 07:09 PM - Raphael Tempest (Group) - Type: text - Message: The command "--" is not found. Please type -help to see all available commands. - Media URL: N/A
+[2025-07-14 19:09:37] [INFO] 07:09 PM - Hridoy Khan (Group) - Type: text - Message: -gcpic - Media URL: N/A
+[2025-07-14 19:09:38] [INFO] 07:09 PM - Raphael Tempest (Group) - Type: text - Message: The command "gcpic" is not found. Please type -help to see all available commands. - Media URL: N/A
+[2025-07-14 19:09:49] [INFO] 07:09 PM - Hridoy Khan (Group) - Type: text - Message: !setprefix . - Media URL: N/A
+[2025-07-14 19:09:49] [INFO] Command executed: setprefix by user 61552837791926
+[2025-07-14 19:09:50] [INFO] 07:09 PM - Kenji Cloud (Group) - Type: text - Message: The prefix for this group has been set to: '.'. - Media URL: N/A
+[2025-07-14 19:09:56] [INFO] 07:09 PM - Hridoy Khan (Group) - Type: text - Message: .gcpic - Media URL: N/A
+[2025-07-14 19:09:57] [INFO] 07:09 PM - Kenji Cloud (Group) - Type: text - Message: Creating your group portrait, please wait... - Media URL: N/A
+[2025-07-14 19:09:58] [INFO] Command executed: gcpic by user 61552837791926
+[2025-07-14 19:10:02] [INFO] 07:10 PM - Kenji Cloud (Group) - Type: media - Message: Your group portrait is ready! - Media URL: https://scontent.xx.fbcdn.net/v/t1.15752-9/520397461_707426208742411_8219087791287636554_n.png?stp=dst-png_p480x480&_nc_cat=101&ccb=1-7&_nc_sid=9f807c&_nc_ohc=1ss9ADQ4428Q7kNvwEztoYI&_nc_oc=AdkqF24fuzcJHJpnpp_5oUps_RC51At7UdxVoyhtPxHBowKxYPg0ZdMFot-atirUcZ8&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.xx&oh=03_Q7cD2wE2OKkmJe_4Cph3mG5DWBcAohdnBc3hEb-sIMauu3tfnw&oe=689C70D2
+[2025-07-14 19:10:04] [INFO] 07:10 PM - Raphael Tempest (Group) - Type: text - Message: 𝗨𝗻𝘀𝗲𝗻𝗱 𝗠𝗲𝘀𝘀𝗮𝗴𝗲
+━━━━━━━━━━━━━━━━━━
+Kenji Cloud has unsent this message
+
+Content: Creating your group portrait, please wait... - Media URL: N/A
+[2025-07-14 19:13:03] [INFO] Bot stopped by user (Ctrl+C)
+[2025-07-14 19:13:03] [INFO] Ctrl+C detected. Stopping bot...
+[2025-07-14 19:13:05] [INFO] Starting bot...
+[2025-07-14 19:13:05] [INFO] Bot process exited with code 1
+[2025-07-14 19:13:05] [WARN] Restarting bot in 5 seconds... (Attempt 1/5)
+[2025-07-14 19:13:10] [INFO] Stopping existing bot process...
+[2025-07-14 19:13:10] [INFO] Starting bot...
+[2025-07-14 19:13:11] [INFO] Loaded event: botJoinedGroup
+[2025-07-14 19:13:11] [INFO] Loaded event: goodbye
+[2025-07-14 19:13:11] [INFO] Loaded event: welcome
+[2025-07-14 19:13:13] [INFO] Loaded command: add
+[2025-07-14 19:13:13] [INFO] Loaded command: adduser
+[2025-07-14 19:13:13] [INFO] Loaded command: admin
+[2025-07-14 19:13:13] [INFO] Loaded command: adminonly
+[2025-07-14 19:13:13] [INFO] Loaded command: balance
+[2025-07-14 19:13:13] [INFO] Loaded command: ban
+[2025-07-14 19:13:13] [INFO] Loaded command: bank
+[2025-07-14 19:13:13] [INFO] Loaded command: banlist
+[2025-07-14 19:13:13] [INFO] Loaded command: bot
+[2025-07-14 19:13:13] [INFO] Loaded command: deposit
+[2025-07-14 19:13:13] [INFO] Loaded command: gcpic
+[2025-07-14 19:13:13] [INFO] Loaded command: help
+[2025-07-14 19:13:13] [INFO] Loaded command: prefix
+[2025-07-14 19:13:13] [INFO] Loaded command: rank
+[2025-07-14 19:13:13] [INFO] Loaded command: setprefix
+[2025-07-14 19:13:13] [INFO] Loaded command: setrank
+[2025-07-14 19:13:13] [INFO] Loaded command: cnggcimg
+[2025-07-14 19:13:13] [INFO] Loaded command: threadname
+[2025-07-14 19:13:13] [INFO] Loaded command: train
+[2025-07-14 19:13:13] [INFO] Loaded command: uid
+[2025-07-14 19:13:13] [INFO] Loaded command: unban
+[2025-07-14 19:13:13] [INFO] Loaded command: withdraw
+[2025-07-14 19:13:13] [INFO] Bot initialized successfully
+[2025-07-14 19:13:13] [INFO] Web server running on port 20170
+[2025-07-14 19:13:17] [INFO] 07:13 PM - Hridoy Khan (Group) - Type: text - Message: .gcpic - Media URL: N/A
+[2025-07-14 19:13:18] [INFO] 07:13 PM - Kenji Cloud (Group) - Type: text - Message: Creating your group portrait, please wait... - Media URL: N/A
+[2025-07-14 19:13:19] [INFO] Command executed: gcpic by user 61552837791926
+[2025-07-14 19:13:23] [INFO] 07:13 PM - Kenji Cloud (Group) - Type: media - Message: Your group portrait is ready! - Media URL: https://scontent.xx.fbcdn.net/v/t1.15752-9/516638008_1405454710648408_2369583030687413383_n.png?stp=dst-png_p480x480&_nc_cat=108&ccb=1-7&_nc_sid=9f807c&_nc_ohc=Ayb-qujg-8YQ7kNvwEOezHT&_nc_oc=AdkgOhwA6VCJlp1gsXcc7SqJ9EPSpwVIDKiKToPzUYVbL9YFisQikieMnIAQ-pR2jV0&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.xx&oh=03_Q7cD2wFLWuriTG16_m4ToshcuDx5uNbdaSTRPO3WObmXfEEOtA&oe=689C59DF
+[2025-07-14 19:13:25] [INFO] 07:13 PM - Raphael Tempest (Group) - Type: text - Message: 𝗨𝗻𝘀𝗲𝗻𝗱 𝗠𝗲𝘀𝘀𝗮𝗴𝗲
+━━━━━━━━━━━━━━━━━━
+Kenji Cloud has unsent this message
+
+Content: Creating your group portrait, please wait... - Media URL: N/A
+[2025-07-14 19:20:05] [INFO] Ctrl+C detected. Stopping bot...
+[2025-07-14 19:20:05] [INFO] Bot stopped by user (Ctrl+C)
+[2025-07-14 19:25:49] [INFO] Starting bot...
+[2025-07-14 19:25:49] [INFO] Bot process exited with code 1
+[2025-07-14 19:25:49] [WARN] Restarting bot in 5 seconds... (Attempt 1/5)
+[2025-07-14 19:25:54] [INFO] Stopping existing bot process...
+[2025-07-14 19:25:54] [INFO] Starting bot...
+[2025-07-14 19:25:55] [INFO] Loaded event: botJoinedGroup
+[2025-07-14 19:25:55] [INFO] Loaded event: goodbye
+[2025-07-14 19:25:55] [INFO] Loaded event: welcome
+[2025-07-14 19:25:57] [INFO] Loaded command: add
+[2025-07-14 19:25:57] [INFO] Loaded command: adduser
+[2025-07-14 19:25:57] [INFO] Loaded command: admin
+[2025-07-14 19:25:57] [INFO] Loaded command: adminonly
+[2025-07-14 19:25:57] [INFO] Loaded command: balance
+[2025-07-14 19:25:57] [INFO] Loaded command: ban
+[2025-07-14 19:25:57] [INFO] Loaded command: bank
+[2025-07-14 19:25:57] [INFO] Loaded command: banlist
+[2025-07-14 19:25:57] [INFO] Loaded command: bot
+[2025-07-14 19:25:57] [INFO] Loaded command: confess
+[2025-07-14 19:25:57] [INFO] Loaded command: deposit
+[2025-07-14 19:25:57] [INFO] Loaded command: gcpic
+[2025-07-14 19:25:57] [INFO] Loaded command: help
+[2025-07-14 19:25:57] [INFO] Loaded command: prefix
+[2025-07-14 19:25:57] [INFO] Loaded command: rank
+[2025-07-14 19:25:57] [INFO] Loaded command: setprefix
+[2025-07-14 19:25:57] [INFO] Loaded command: setrank
+[2025-07-14 19:25:57] [INFO] Loaded command: cnggcimg
+[2025-07-14 19:25:57] [INFO] Loaded command: threadname
+[2025-07-14 19:25:57] [INFO] Loaded command: train
+[2025-07-14 19:25:57] [INFO] Loaded command: uid
+[2025-07-14 19:25:57] [INFO] Loaded command: unban
+[2025-07-14 19:25:57] [INFO] Loaded command: withdraw
+[2025-07-14 19:25:57] [INFO] Bot initialized successfully
+[2025-07-14 19:25:57] [INFO] Web server running on port 20170
+[2025-07-14 19:26:19] [INFO] 07:26 PM - Hridoy Khan (Group) - Type: text - Message: -uid @Hayato Arisaka - Media URL: N/A
+[2025-07-14 19:26:19] [INFO] UID command executed by 61552837791926
+[2025-07-14 19:26:19] [INFO] Command executed: uid by user 61552837791926
+[2025-07-14 19:26:24] [INFO] 07:26 PM - Kenji Cloud (Group) - Type: text - Message: Your UID: 61552837791926 - Media URL: N/A
+[2025-07-14 19:26:59] [INFO] 07:26 PM - Hayato Arisaka (Group) - Type: text - Message: -confess @Hridoy Khan ​ - Media URL: N/A
+[2025-07-14 19:27:00] [INFO] Command executed: confess by user 61575746590997
+[2025-07-14 19:27:00] [INFO] 07:27 PM - Kenji Cloud (Group) - Type: text - Message: An error occurred while sending the confession. - Media URL: N/A
+[2025-07-14 19:28:29] [INFO] Bot stopped by user (Ctrl+C)
+[2025-07-14 19:28:29] [INFO] Ctrl+C detected. Stopping bot...
+[2025-07-14 19:28:32] [INFO] Starting bot...
+[2025-07-14 19:28:33] [INFO] Bot process exited with code 1
+[2025-07-14 19:28:33] [WARN] Restarting bot in 5 seconds... (Attempt 1/5)
+[2025-07-14 19:28:38] [INFO] Stopping existing bot process...
+[2025-07-14 19:28:38] [INFO] Starting bot...
+[2025-07-14 19:28:39] [INFO] Loaded event: botJoinedGroup
+[2025-07-14 19:28:39] [INFO] Loaded event: goodbye
+[2025-07-14 19:28:39] [INFO] Loaded event: welcome
+[2025-07-14 19:28:41] [INFO] Loaded command: add
+[2025-07-14 19:28:41] [INFO] Loaded command: adduser
+[2025-07-14 19:28:41] [INFO] Loaded command: admin
+[2025-07-14 19:28:41] [INFO] Loaded command: adminonly
+[2025-07-14 19:28:41] [INFO] Loaded command: balance
+[2025-07-14 19:28:41] [INFO] Loaded command: ban
+[2025-07-14 19:28:41] [INFO] Loaded command: bank
+[2025-07-14 19:28:41] [INFO] Loaded command: banlist
+[2025-07-14 19:28:41] [INFO] Loaded command: bot
+[2025-07-14 19:28:41] [INFO] Loaded command: confess
+[2025-07-14 19:28:41] [INFO] Loaded command: deposit
+[2025-07-14 19:28:41] [INFO] Loaded command: gcpic
+[2025-07-14 19:28:41] [INFO] Loaded command: help
+[2025-07-14 19:28:41] [INFO] Loaded command: prefix
+[2025-07-14 19:28:41] [INFO] Loaded command: rank
+[2025-07-14 19:28:41] [INFO] Loaded command: setprefix
+[2025-07-14 19:28:41] [INFO] Loaded command: setrank
+[2025-07-14 19:28:41] [INFO] Loaded command: cnggcimg
+[2025-07-14 19:28:41] [INFO] Loaded command: threadname
+[2025-07-14 19:28:41] [INFO] Loaded command: train
+[2025-07-14 19:28:41] [INFO] Loaded command: uid
+[2025-07-14 19:28:41] [INFO] Loaded command: unban
+[2025-07-14 19:28:41] [INFO] Loaded command: withdraw
+[2025-07-14 19:28:41] [INFO] Bot initialized successfully
+[2025-07-14 19:28:41] [INFO] Web server running on port 20170
+[2025-07-14 19:29:05] [INFO] 07:29 PM - Hayato Arisaka (Group) - Type: text - Message: -confess @Hridoy Khan - Media URL: N/A
+[2025-07-14 19:29:06] [INFO] Command executed: confess by user 61575746590997
+[2025-07-14 19:29:07] [INFO] 07:29 PM - Kenji Cloud (Group) - Type: text - Message: An error occurred while sending the confession. Using text only. - Media URL: N/A
+[2025-07-14 19:29:09] [INFO] 07:29 PM - Kenji Cloud (Private) - Type: text - Message: Someone has a confession for you:
+
+"I admire you from afar."
+
+From: facebook.com/61575746590997 - Media URL: N/A
+[2025-07-14 19:29:10] [INFO] 07:29 PM - Kenji Cloud (Group) - Type: text - Message: Your confession has been sent as text successfully! - Media URL: N/A
+[2025-07-14 19:30:00] [INFO] Bot stopped by user (Ctrl+C)
+[2025-07-14 19:30:00] [INFO] Ctrl+C detected. Stopping bot...
+[2025-07-14 19:30:03] [INFO] Starting bot...
+[2025-07-14 19:30:04] [INFO] Bot process exited with code 1
+[2025-07-14 19:30:04] [WARN] Restarting bot in 5 seconds... (Attempt 1/5)
+[2025-07-14 19:30:09] [INFO] Stopping existing bot process...
+[2025-07-14 19:30:09] [INFO] Starting bot...
+[2025-07-14 19:30:09] [INFO] Loaded event: botJoinedGroup
+[2025-07-14 19:30:09] [INFO] Loaded event: goodbye
+[2025-07-14 19:30:09] [INFO] Loaded event: welcome
+[2025-07-14 19:30:40] [INFO] Loaded command: add
+[2025-07-14 19:30:40] [INFO] Loaded command: adduser
+[2025-07-14 19:30:40] [INFO] Loaded command: admin
+[2025-07-14 19:30:40] [INFO] Loaded command: adminonly
+[2025-07-14 19:30:40] [INFO] Loaded command: balance
+[2025-07-14 19:30:40] [INFO] Loaded command: ban
+[2025-07-14 19:30:40] [INFO] Loaded command: bank
+[2025-07-14 19:30:40] [INFO] Loaded command: banlist
+[2025-07-14 19:30:40] [INFO] Loaded command: bot
+[2025-07-14 19:30:40] [INFO] Loaded command: confess
+[2025-07-14 19:30:40] [INFO] Loaded command: deposit
+[2025-07-14 19:30:40] [INFO] Loaded command: gcpic
+[2025-07-14 19:30:40] [INFO] Loaded command: help
+[2025-07-14 19:30:40] [INFO] Loaded command: prefix
+[2025-07-14 19:30:40] [INFO] Loaded command: rank
+[2025-07-14 19:30:40] [INFO] Loaded command: setprefix
+[2025-07-14 19:30:40] [INFO] Loaded command: setrank
+[2025-07-14 19:30:40] [INFO] Loaded command: cnggcimg
+[2025-07-14 19:30:40] [INFO] Loaded command: threadname
+[2025-07-14 19:30:40] [INFO] Loaded command: train
+[2025-07-14 19:30:40] [INFO] Loaded command: uid
+[2025-07-14 19:30:40] [INFO] Loaded command: unban
+[2025-07-14 19:30:40] [INFO] Loaded command: withdraw
+[2025-07-14 19:30:40] [INFO] Bot initialized successfully
+[2025-07-14 19:30:40] [INFO] Web server running on port 20170
+[2025-07-14 19:30:48] [INFO] 07:30 PM - Hridoy Khan (Group) - Type: text - Message: -confess @Hayato Arisaka - Media URL: N/A
+[2025-07-14 19:30:49] [INFO] Command executed: confess by user 61552837791926
+[2025-07-14 19:30:50] [INFO] 07:30 PM - Kenji Cloud (Group) - Type: text - Message: An error occurred while sending the confession. Using text only. - Media URL: N/A
+[2025-07-14 19:30:51] [INFO] 07:30 PM - Kenji Cloud (Private) - Type: text - Message: Someone has a confession for you:
+
+"Your smile brightens my day."
+
+From: facebook.com/61552837791926 - Media URL: N/A
+[2025-07-14 19:30:51] [INFO] 07:30 PM - Kenji Cloud (Group) - Type: text - Message: Your confession has been sent as text successfully! - Media URL: N/A
+[2025-07-14 19:32:36] [INFO] Bot stopped by user (Ctrl+C)
+[2025-07-14 19:32:36] [INFO] Ctrl+C detected. Stopping bot...
+[2025-07-14 19:32:38] [INFO] Starting bot...
+[2025-07-14 19:32:39] [INFO] Bot process exited with code 1
+[2025-07-14 19:32:39] [WARN] Restarting bot in 5 seconds... (Attempt 1/5)
+[2025-07-14 19:32:44] [INFO] Stopping existing bot process...
+[2025-07-14 19:32:44] [INFO] Starting bot...
+[2025-07-14 19:32:44] [INFO] Loaded event: botJoinedGroup
+[2025-07-14 19:32:44] [INFO] Loaded event: goodbye
+[2025-07-14 19:32:44] [INFO] Loaded event: welcome
+[2025-07-14 19:32:49] [INFO] Loaded command: add
+[2025-07-14 19:32:49] [INFO] Loaded command: adduser
+[2025-07-14 19:32:49] [INFO] Loaded command: admin
+[2025-07-14 19:32:49] [INFO] Loaded command: adminonly
+[2025-07-14 19:32:49] [INFO] Loaded command: balance
+[2025-07-14 19:32:49] [INFO] Loaded command: ban
+[2025-07-14 19:32:49] [INFO] Loaded command: bank
+[2025-07-14 19:32:49] [INFO] Loaded command: banlist
+[2025-07-14 19:32:49] [INFO] Loaded command: bot
+[2025-07-14 19:32:49] [INFO] Loaded command: confess
+[2025-07-14 19:32:49] [INFO] Loaded command: deposit
+[2025-07-14 19:32:50] [INFO] Loaded command: gcpic
+[2025-07-14 19:32:50] [INFO] Loaded command: help
+[2025-07-14 19:32:50] [INFO] Loaded command: prefix
+[2025-07-14 19:32:50] [INFO] Loaded command: rank
+[2025-07-14 19:32:50] [INFO] Loaded command: setprefix
+[2025-07-14 19:32:50] [INFO] Loaded command: setrank
+[2025-07-14 19:32:50] [INFO] Loaded command: cnggcimg
+[2025-07-14 19:32:50] [INFO] Loaded command: threadname
+[2025-07-14 19:32:50] [INFO] Loaded command: train
+[2025-07-14 19:32:50] [INFO] Loaded command: uid
+[2025-07-14 19:32:50] [INFO] Loaded command: unban
+[2025-07-14 19:32:50] [INFO] Loaded command: withdraw
+[2025-07-14 19:32:50] [INFO] Bot initialized successfully
+[2025-07-14 19:32:50] [INFO] Web server running on port 20170
+[2025-07-14 19:32:55] [INFO] 07:32 PM - Hridoy Khan (Group) - Type: text - Message: -confess @Hayato Arisaka - Media URL: N/A
+[2025-07-14 19:32:57] [INFO] Command executed: confess by user 61552837791926
+[2025-07-14 19:32:58] [INFO] 07:32 PM - Kenji Cloud (Group) - Type: text - Message: An error occurred while sending the confession. Using text only. - Media URL: N/A
+[2025-07-14 19:32:58] [INFO] 07:32 PM - Kenji Cloud (Group) - Type: text - Message: Your confession has been sent as text successfully! - Media URL: N/A
+[2025-07-14 19:32:59] [INFO] 07:32 PM - Kenji Cloud (Private) - Type: text - Message: Someone has a confession for you:
+
+"You've made a huge impact on my life."
+
+From: facebook.com/61552837791926 - Media URL: N/A
+[2025-07-14 19:33:21] [INFO] Bot stopped by user (Ctrl+C)
+[2025-07-14 19:33:21] [INFO] Ctrl+C detected. Stopping bot...
+[2025-07-14 19:35:35] [INFO] Starting bot...
+[2025-07-14 19:35:36] [INFO] Bot process exited with code 1
+[2025-07-14 19:35:36] [WARN] Restarting bot in 5 seconds... (Attempt 1/5)
+[2025-07-14 19:35:41] [INFO] Stopping existing bot process...
+[2025-07-14 19:35:41] [INFO] Starting bot...
+[2025-07-14 19:35:41] [INFO] Loaded event: botJoinedGroup
+[2025-07-14 19:35:41] [INFO] Loaded event: goodbye
+[2025-07-14 19:35:41] [INFO] Loaded event: welcome
+[2025-07-14 19:35:44] [INFO] Loaded command: add
+[2025-07-14 19:35:44] [INFO] Loaded command: adduser
+[2025-07-14 19:35:44] [INFO] Loaded command: admin
+[2025-07-14 19:35:44] [INFO] Loaded command: adminonly
+[2025-07-14 19:35:44] [INFO] Loaded command: balance
+[2025-07-14 19:35:44] [INFO] Loaded command: ban
+[2025-07-14 19:35:44] [INFO] Loaded command: bank
+[2025-07-14 19:35:44] [INFO] Loaded command: banlist
+[2025-07-14 19:35:44] [INFO] Loaded command: bot
+[2025-07-14 19:35:44] [INFO] Loaded command: confess
+[2025-07-14 19:35:44] [INFO] Loaded command: deposit
+[2025-07-14 19:35:44] [INFO] Loaded command: gcpic
+[2025-07-14 19:35:44] [INFO] Loaded command: help
+[2025-07-14 19:35:44] [INFO] Loaded command: prefix
+[2025-07-14 19:35:44] [INFO] Loaded command: rank
+[2025-07-14 19:35:44] [INFO] Loaded command: setprefix
+[2025-07-14 19:35:44] [INFO] Loaded command: setrank
+[2025-07-14 19:35:44] [INFO] Loaded command: cnggcimg
+[2025-07-14 19:35:44] [INFO] Loaded command: threadname
+[2025-07-14 19:35:44] [INFO] Loaded command: train
+[2025-07-14 19:35:44] [INFO] Loaded command: uid
+[2025-07-14 19:35:44] [INFO] Loaded command: unban
+[2025-07-14 19:35:44] [INFO] Loaded command: withdraw
+[2025-07-14 19:35:44] [INFO] Bot initialized successfully
+[2025-07-14 19:35:44] [INFO] Web server running on port 20170
+[2025-07-14 19:36:03] [INFO] 07:36 PM - Hridoy Khan (Group) - Type: text - Message: -confess @Hayato Arisaka - Media URL: N/A
+[2025-07-14 19:36:12] [INFO] Command executed: confess by user 61552837791926
+[2025-07-14 19:36:16] [INFO] 07:36 PM - Kenji Cloud (Private) - Type: media - Message: Someone has a confession for you:
+
+"I admire you from afar."
+
+From: facebook.com/61552837791926 - Media URL: https://scontent.xx.fbcdn.net/v/t1.15752-9/518267250_640895048319997_2850835131359541505_n.jpg?stp=dst-jpg_s720x720_tt6&_nc_cat=101&ccb=1-7&_nc_sid=9f807c&_nc_ohc=_xjrj8yJkvUQ7kNvwG7QBKj&_nc_oc=AdmgJZeEPdh8tyED37rqdobvjIV8oynOm7K1V3FahfdzaSzrfudSyXuUh79UawV80Bs&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.xx&oh=03_Q7cD2wHPquqD98Lu6fA2qtgqBZqVixu5_3mzIFAvcNSsrSM4YQ&oe=689C85A8
+[2025-07-14 19:36:16] [INFO] 07:36 PM - Kenji Cloud (Group) - Type: text - Message: Your confession has been sent successfully! - Media URL: N/A
+[2025-07-14 19:37:30] [INFO] Bot stopped by user (Ctrl+C)
+[2025-07-14 19:37:30] [INFO] Ctrl+C detected. Stopping bot...
+[2025-07-14 19:37:34] [INFO] Starting bot...
+[2025-07-14 19:37:35] [INFO] Bot process exited with code 1
+[2025-07-14 19:37:35] [WARN] Restarting bot in 5 seconds... (Attempt 1/5)
+[2025-07-14 19:37:40] [INFO] Stopping existing bot process...
+[2025-07-14 19:37:40] [INFO] Starting bot...
+[2025-07-14 19:37:40] [INFO] Loaded event: botJoinedGroup
+[2025-07-14 19:37:40] [INFO] Loaded event: goodbye
+[2025-07-14 19:37:40] [INFO] Loaded event: welcome
+[2025-07-14 19:37:42] [INFO] Loaded command: add
+[2025-07-14 19:37:42] [INFO] Loaded command: adduser
+[2025-07-14 19:37:42] [INFO] Loaded command: admin
+[2025-07-14 19:37:42] [INFO] Loaded command: adminonly
+[2025-07-14 19:37:42] [INFO] Loaded command: balance
+[2025-07-14 19:37:42] [INFO] Loaded command: ban
+[2025-07-14 19:37:42] [INFO] Loaded command: bank
+[2025-07-14 19:37:42] [INFO] Loaded command: banlist
+[2025-07-14 19:37:42] [INFO] Loaded command: bot
+[2025-07-14 19:37:42] [INFO] Loaded command: confess
+[2025-07-14 19:37:42] [INFO] Loaded command: deposit
+[2025-07-14 19:37:43] [INFO] Loaded command: gcpic
+[2025-07-14 19:37:43] [INFO] Loaded command: help
+[2025-07-14 19:37:43] [INFO] Loaded command: prefix
+[2025-07-14 19:37:43] [INFO] Loaded command: rank
+[2025-07-14 19:37:43] [INFO] Loaded command: setprefix
+[2025-07-14 19:37:43] [INFO] Loaded command: setrank
+[2025-07-14 19:37:43] [INFO] Loaded command: cnggcimg
+[2025-07-14 19:37:43] [INFO] Loaded command: threadname
+[2025-07-14 19:37:43] [INFO] Loaded command: train
+[2025-07-14 19:37:43] [INFO] Loaded command: uid
+[2025-07-14 19:37:43] [INFO] Loaded command: unban
+[2025-07-14 19:37:43] [INFO] Loaded command: withdraw
+[2025-07-14 19:37:43] [INFO] Bot initialized successfully
+[2025-07-14 19:37:43] [INFO] Web server running on port 20170
+[2025-07-14 19:37:45] [INFO] 07:37 PM - Hridoy Khan (Group) - Type: text - Message: -confess @Hayato Arisaka - Media URL: N/A
+[2025-07-14 19:37:50] [INFO] Command executed: confess by user 61552837791926
+[2025-07-14 19:37:54] [INFO] 07:37 PM - Kenji Cloud (Private) - Type: media - Message: Someone has a confession for you:
+
+"You make even the smallest moments feel magical."
+
+From: facebook.com/61552837791926 - Media URL: https://scontent.xx.fbcdn.net/v/t1.15752-9/494866567_982335113979999_7494174467551870332_n.jpg?stp=dst-jpg_s720x720_tt6&_nc_cat=106&ccb=1-7&_nc_sid=9f807c&_nc_ohc=VRx62YPWmpAQ7kNvwFmI3GE&_nc_oc=Adm-NSKbJacy1TcJEjHcdLliFHPLWeSOH_PHvna12L3AwA8RqTB5iiiCd6zIYHO53-w&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.xx&oh=03_Q7cD2wFWznDDWlR7EYEPYlHO52WvkkgFiwp-mSlaKYgH4rD9GQ&oe=689C7546
+[2025-07-14 19:37:54] [INFO] 07:37 PM - Kenji Cloud (Group) - Type: text - Message: Your confession has been sent successfully! - Media URL: N/A
+[2025-07-14 20:15:18] [INFO] Bot stopped by user (Ctrl+C)
+[2025-07-14 20:15:18] [INFO] Ctrl+C detected. Stopping bot...
+[2025-07-14 20:15:22] [INFO] Starting bot...
+[2025-07-14 20:15:22] [INFO] Bot process exited with code 1
+[2025-07-14 20:15:22] [WARN] Restarting bot in 5 seconds... (Attempt 1/5)
+[2025-07-14 20:15:27] [INFO] Stopping existing bot process...
+[2025-07-14 20:15:27] [INFO] Starting bot...
+[2025-07-14 20:15:28] [INFO] Loaded event: botJoinedGroup
+[2025-07-14 20:15:28] [INFO] Loaded event: goodbye
+[2025-07-14 20:15:28] [INFO] Loaded event: welcome
+[2025-07-14 20:15:30] [INFO] Loaded command: add
+[2025-07-14 20:15:30] [INFO] Loaded command: adduser
+[2025-07-14 20:15:30] [INFO] Loaded command: admin
+[2025-07-14 20:15:30] [INFO] Loaded command: adminonly
+[2025-07-14 20:15:30] [INFO] Loaded command: balance
+[2025-07-14 20:15:30] [INFO] Loaded command: ban
+[2025-07-14 20:15:30] [INFO] Loaded command: bank
+[2025-07-14 20:15:30] [INFO] Loaded command: banlist
+[2025-07-14 20:15:30] [INFO] Loaded command: bot
+[2025-07-14 20:15:30] [INFO] Loaded command: confess
+[2025-07-14 20:15:30] [INFO] Loaded command: deposit
+[2025-07-14 20:15:30] [INFO] Loaded command: gcpic
+[2025-07-14 20:15:30] [INFO] Loaded command: help
+[2025-07-14 20:15:30] [INFO] Loaded command: pair
+[2025-07-14 20:15:30] [INFO] Loaded command: prefix
+[2025-07-14 20:15:30] [INFO] Loaded command: rank
+[2025-07-14 20:15:30] [INFO] Loaded command: setprefix
+[2025-07-14 20:15:30] [INFO] Loaded command: setrank
+[2025-07-14 20:15:30] [INFO] Loaded command: cnggcimg
+[2025-07-14 20:15:30] [INFO] Loaded command: threadname
+[2025-07-14 20:15:30] [INFO] Loaded command: train
+[2025-07-14 20:15:30] [INFO] Loaded command: uid
+[2025-07-14 20:15:30] [INFO] Loaded command: unban
+[2025-07-14 20:15:30] [INFO] Loaded command: withdraw
+[2025-07-14 20:15:30] [INFO] Bot initialized successfully
+[2025-07-14 20:15:30] [INFO] Web server running on port 20170
+[2025-07-14 20:15:34] [INFO] 08:15 PM - Hridoy Khan (Group) - Type: text - Message: -pair - Media URL: N/A
+[2025-07-14 20:15:34] [INFO] Command executed: pair by user 61552837791926
+[2025-07-14 20:15:35] [INFO] 08:15 PM - Kenji Cloud (Group) - Type: text - Message: Finding a perfect match for you... - Media URL: N/A
+[2025-07-14 20:15:35] [INFO] 08:15 PM - Kenji Cloud (Group) - Type: text - Message: Sorry, an error occurred while creating your pair. - Media URL: N/A
+[2025-07-14 20:17:29] [INFO] Bot stopped by user (Ctrl+C)
+[2025-07-14 20:17:29] [INFO] Ctrl+C detected. Stopping bot...
+[2025-07-14 20:17:31] [INFO] Starting bot...
+[2025-07-14 20:17:32] [INFO] Bot process exited with code 1
+[2025-07-14 20:17:32] [WARN] Restarting bot in 5 seconds... (Attempt 1/5)
+[2025-07-14 20:17:37] [INFO] Stopping existing bot process...
+[2025-07-14 20:17:37] [INFO] Starting bot...
+[2025-07-14 20:17:37] [INFO] Loaded event: botJoinedGroup
+[2025-07-14 20:17:37] [INFO] Loaded event: goodbye
+[2025-07-14 20:17:37] [INFO] Loaded event: welcome
+[2025-07-14 20:17:40] [INFO] Loaded command: add
+[2025-07-14 20:17:40] [INFO] Loaded command: adduser
+[2025-07-14 20:17:40] [INFO] Loaded command: admin
+[2025-07-14 20:17:40] [INFO] Loaded command: adminonly
+[2025-07-14 20:17:40] [INFO] Loaded command: balance
+[2025-07-14 20:17:40] [INFO] Loaded command: ban
+[2025-07-14 20:17:40] [INFO] Loaded command: bank
+[2025-07-14 20:17:40] [INFO] Loaded command: banlist
+[2025-07-14 20:17:40] [INFO] Loaded command: bot
+[2025-07-14 20:17:40] [INFO] Loaded command: confess
+[2025-07-14 20:17:40] [INFO] Loaded command: deposit
+[2025-07-14 20:17:40] [INFO] Loaded command: gcpic
+[2025-07-14 20:17:40] [INFO] Loaded command: help
+[2025-07-14 20:17:40] [INFO] Loaded command: pair
+[2025-07-14 20:17:40] [INFO] Loaded command: prefix
+[2025-07-14 20:17:40] [INFO] Loaded command: rank
+[2025-07-14 20:17:40] [INFO] Loaded command: setprefix
+[2025-07-14 20:17:40] [INFO] Loaded command: setrank
+[2025-07-14 20:17:40] [INFO] Loaded command: cnggcimg
+[2025-07-14 20:17:40] [INFO] Loaded command: threadname
+[2025-07-14 20:17:40] [INFO] Loaded command: train
+[2025-07-14 20:17:40] [INFO] Loaded command: uid
+[2025-07-14 20:17:40] [INFO] Loaded command: unban
+[2025-07-14 20:17:40] [INFO] Loaded command: withdraw
+[2025-07-14 20:17:40] [INFO] Bot initialized successfully
+[2025-07-14 20:17:40] [INFO] Web server running on port 20170
+[2025-07-14 20:17:45] [INFO] 08:17 PM - Hridoy Khan (Group) - Type: text - Message: -pair - Media URL: N/A
+[2025-07-14 20:17:46] [INFO] 08:17 PM - Kenji Cloud (Group) - Type: text - Message: Finding a perfect match for you... - Media URL: N/A
+[2025-07-14 20:17:48] [INFO] Command executed: pair by user 61552837791926
+[2025-07-14 20:17:53] [INFO] 08:17 PM - Kenji Cloud (Group) - Type: media - Message: ‎Successful Pairing!
+
+Hridoy Khan & Kenji Cloud
+
+Love Percentage: 65% - Media URL: https://scontent.xx.fbcdn.net/v/t1.15752-9/516513261_1075711317850426_1734382849766901054_n.png?stp=dst-png_s960x960&_nc_cat=106&ccb=1-7&_nc_sid=9f807c&_nc_ohc=fvkCZAbIMe8Q7kNvwHyWbPJ&_nc_oc=AdmP8PJ-2eBAgJJidzfjOCGGrnHbRlIlbjH0YfaCV_dsNsIUZfaF1eM7i9dRI-SUJZA&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.xx&oh=03_Q7cD2wFahiIk_jCiTg7vfw5MmsHR39k8nW3IGlT6FhyLHMFKfw&oe=689C8C7D
+[2025-07-14 20:18:38] [INFO] 08:18 PM - Hridoy Khan (Group) - Type: text - Message: -pair - Media URL: N/A
+[2025-07-14 20:18:39] [INFO] Command executed: pair by user 61552837791926
+[2025-07-14 20:18:39] [INFO] 08:18 PM - Kenji Cloud (Group) - Type: text - Message: Finding a perfect match for you... - Media URL: N/A
+[2025-07-14 20:18:44] [INFO] 08:18 PM - Kenji Cloud (Group) - Type: media - Message: ‎Successful Pairing!
+
+Hridoy Khan & Hayato Arisaka
+
+Love Percentage: 63% - Media URL: https://scontent.xx.fbcdn.net/v/t1.15752-9/517936693_1433557987932791_7371988100638017736_n.png?stp=dst-png_s960x960&_nc_cat=103&ccb=1-7&_nc_sid=9f807c&_nc_ohc=xVRB7Ctnqj8Q7kNvwHsPonL&_nc_oc=AdkauVeIWP4eTcddufJTgLyE6s4qMTRG7dmH35-45d4N8luhWkw44m4Og-Ehot_gJ-4&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.xx&oh=03_Q7cD2wGjmg11HngrOGgjxl32jAomZ0rN0qmNT1zUJ_rJP__8Vg&oe=689C7BF4
+[2025-07-14 20:23:34] [INFO] Bot stopped by user (Ctrl+C)
+[2025-07-14 20:23:34] [INFO] Ctrl+C detected. Stopping bot...
+[2025-07-14 20:23:36] [INFO] Starting bot...
+[2025-07-14 20:23:37] [INFO] Bot process exited with code 1
+[2025-07-14 20:23:37] [WARN] Restarting bot in 5 seconds... (Attempt 1/5)
+[2025-07-14 20:23:42] [INFO] Stopping existing bot process...
+[2025-07-14 20:23:42] [INFO] Starting bot...
+[2025-07-14 20:23:42] [INFO] Loaded event: botJoinedGroup
+[2025-07-14 20:23:42] [INFO] Loaded event: goodbye
+[2025-07-14 20:23:42] [INFO] Loaded event: welcome
+[2025-07-14 20:23:45] [INFO] Loaded command: add
+[2025-07-14 20:23:45] [INFO] Loaded command: adduser
+[2025-07-14 20:23:45] [INFO] Loaded command: admin
+[2025-07-14 20:23:45] [INFO] Loaded command: adminonly
+[2025-07-14 20:23:45] [INFO] Loaded command: balance
+[2025-07-14 20:23:45] [INFO] Loaded command: ban
+[2025-07-14 20:23:45] [INFO] Loaded command: bank
+[2025-07-14 20:23:45] [INFO] Loaded command: banlist
+[2025-07-14 20:23:45] [INFO] Loaded command: bot
+[2025-07-14 20:23:45] [INFO] Loaded command: confess
+[2025-07-14 20:23:45] [INFO] Loaded command: deposit
+[2025-07-14 20:23:45] [INFO] Loaded command: gcpic
+[2025-07-14 20:23:45] [INFO] Loaded command: help
+[2025-07-14 20:23:45] [INFO] Loaded command: pair
+[2025-07-14 20:23:45] [INFO] Loaded command: prefix
+[2025-07-14 20:23:45] [INFO] Loaded command: rank
+[2025-07-14 20:23:45] [INFO] Loaded command: setprefix
+[2025-07-14 20:23:45] [INFO] Loaded command: setrank
+[2025-07-14 20:23:45] [INFO] Loaded command: cnggcimg
+[2025-07-14 20:23:45] [INFO] Loaded command: threadname
+[2025-07-14 20:23:45] [INFO] Loaded command: train
+[2025-07-14 20:23:45] [INFO] Loaded command: uid
+[2025-07-14 20:23:45] [INFO] Loaded command: unban
+[2025-07-14 20:23:45] [INFO] Loaded command: withdraw
+[2025-07-14 20:23:45] [INFO] Bot initialized successfully
+[2025-07-14 20:23:45] [INFO] Web server running on port 20170
+[2025-07-14 20:23:49] [INFO] 08:23 PM - Hridoy Khan (Group) - Type: text - Message: -pair - Media URL: N/A
+[2025-07-14 20:23:50] [INFO] Command executed: pair by user 61552837791926
+[2025-07-14 20:23:55] [INFO] 08:23 PM - Kenji Cloud (Group) - Type: media - Message: ‎Successful Pairing!
+
+Hridoy Khan & Kenji Cloud
+
+Love Percentage: 71% - Media URL: https://scontent.xx.fbcdn.net/v/t1.15752-9/517368838_1038605721788440_1410811179865028452_n.png?stp=dst-png_s960x960&_nc_cat=108&ccb=1-7&_nc_sid=9f807c&_nc_ohc=DTB0XmSe_XsQ7kNvwHFZULa&_nc_oc=AdmtokhDCH3mUBVyZOKXdr0BO_uemllhsFSS7v_D61GeG5Zr5l8eY1EKzyOf3B9RWRI&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.xx&oh=03_Q7cD2wGymsc703HpeA9ioAtREpgEY5KE18CwdVxW6U09VBTcAw&oe=689C9FF0
+[2025-07-14 20:25:22] [INFO] Bot stopped by user (Ctrl+C)
+[2025-07-14 20:25:22] [INFO] Ctrl+C detected. Stopping bot...
+[2025-07-14 20:25:24] [INFO] Starting bot...
+[2025-07-14 20:25:25] [INFO] Bot process exited with code 1
+[2025-07-14 20:25:25] [WARN] Restarting bot in 5 seconds... (Attempt 1/5)
+[2025-07-14 20:25:30] [INFO] Stopping existing bot process...
+[2025-07-14 20:25:30] [INFO] Starting bot...
+[2025-07-14 20:25:30] [INFO] Loaded event: botJoinedGroup
+[2025-07-14 20:25:30] [INFO] Loaded event: goodbye
+[2025-07-14 20:25:30] [INFO] Loaded event: welcome
+[2025-07-14 20:25:32] [INFO] Loaded command: add
+[2025-07-14 20:25:32] [INFO] Loaded command: adduser
+[2025-07-14 20:25:32] [INFO] Loaded command: admin
+[2025-07-14 20:25:32] [INFO] Loaded command: adminonly
+[2025-07-14 20:25:32] [INFO] Loaded command: balance
+[2025-07-14 20:25:32] [INFO] Loaded command: ban
+[2025-07-14 20:25:32] [INFO] Loaded command: bank
+[2025-07-14 20:25:32] [INFO] Loaded command: banlist
+[2025-07-14 20:25:33] [INFO] Loaded command: bot
+[2025-07-14 20:25:33] [INFO] Loaded command: confess
+[2025-07-14 20:25:33] [INFO] Loaded command: deposit
+[2025-07-14 20:25:33] [INFO] Loaded command: gcpic
+[2025-07-14 20:25:33] [INFO] Loaded command: help
+[2025-07-14 20:25:33] [INFO] Loaded command: pair
+[2025-07-14 20:25:33] [INFO] Loaded command: prefix
+[2025-07-14 20:25:33] [INFO] Loaded command: rank
+[2025-07-14 20:25:33] [INFO] Loaded command: setprefix
+[2025-07-14 20:25:33] [INFO] Loaded command: setrank
+[2025-07-14 20:25:33] [INFO] Loaded command: cnggcimg
+[2025-07-14 20:25:33] [INFO] Loaded command: threadname
+[2025-07-14 20:25:33] [INFO] Loaded command: train
+[2025-07-14 20:25:33] [INFO] Loaded command: uid
+[2025-07-14 20:25:33] [INFO] Loaded command: unban
+[2025-07-14 20:25:33] [INFO] Loaded command: withdraw
+[2025-07-14 20:25:33] [INFO] Bot initialized successfully
+[2025-07-14 20:25:33] [INFO] Web server running on port 20170
+[2025-07-14 20:25:36] [INFO] 08:25 PM - Hridoy Khan (Group) - Type: text - Message: -pair - Media URL: N/A
+[2025-07-14 20:25:38] [INFO] Command executed: pair by user 61552837791926
+[2025-07-14 20:25:43] [INFO] 08:25 PM - Kenji Cloud (Group) - Type: media - Message: ‎💕 Successful Pairing! 💕
+
+Hridoy Khan & انظل انظل
+
+Love Percentage: 50% - Media URL: https://scontent.xx.fbcdn.net/v/t1.15752-9/516816095_2860743227467418_5840203664974210892_n.png?stp=dst-png_s960x960&_nc_cat=103&ccb=1-7&_nc_sid=9f807c&_nc_ohc=UzyTxFfCDPoQ7kNvwGB-YSB&_nc_oc=Admy4ShxahVu8yUIyVRDIWYcNw5QLacGKCyKFwh4sAJ-RQ_EYJZMQGz0KqmX7ooecZY&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.xx&oh=03_Q7cD2wE1eUkXWoXwDtXwHqH2cj1swjUvkAQdQK2Q5xzDeuc43g&oe=689C6FFA
+[2025-07-14 20:28:24] [INFO] Ctrl+C detected. Stopping bot...
+[2025-07-14 20:28:24] [INFO] Bot stopped by user (Ctrl+C)
+[2025-07-14 20:28:26] [INFO] Starting bot...
+[2025-07-14 20:28:26] [INFO] Bot process exited with code 1
+[2025-07-14 20:28:26] [WARN] Restarting bot in 5 seconds... (Attempt 1/5)
+[2025-07-14 20:28:31] [INFO] Stopping existing bot process...
+[2025-07-14 20:28:31] [INFO] Starting bot...
+[2025-07-14 20:28:31] [INFO] Loaded event: botJoinedGroup
+[2025-07-14 20:28:32] [INFO] Loaded event: goodbye
+[2025-07-14 20:28:32] [INFO] Loaded event: welcome
+[2025-07-14 20:28:34] [INFO] Loaded command: add
+[2025-07-14 20:28:34] [INFO] Loaded command: adduser
+[2025-07-14 20:28:34] [INFO] Loaded command: admin
+[2025-07-14 20:28:34] [INFO] Loaded command: adminonly
+[2025-07-14 20:28:34] [INFO] Loaded command: balance
+[2025-07-14 20:28:34] [INFO] Loaded command: ban
+[2025-07-14 20:28:34] [INFO] Loaded command: bank
+[2025-07-14 20:28:34] [INFO] Loaded command: banlist
+[2025-07-14 20:28:34] [INFO] Loaded command: bot
+[2025-07-14 20:28:34] [INFO] Loaded command: confess
+[2025-07-14 20:28:34] [INFO] Loaded command: deposit
+[2025-07-14 20:28:34] [INFO] Loaded command: gcpic
+[2025-07-14 20:28:34] [INFO] Loaded command: help
+[2025-07-14 20:28:34] [INFO] Loaded command: pair
+[2025-07-14 20:28:34] [INFO] Loaded command: prefix
+[2025-07-14 20:28:34] [INFO] Loaded command: rank
+[2025-07-14 20:28:34] [INFO] Loaded command: setprefix
+[2025-07-14 20:28:34] [INFO] Loaded command: setrank
+[2025-07-14 20:28:34] [INFO] Loaded command: cnggcimg
+[2025-07-14 20:28:34] [INFO] Loaded command: threadname
+[2025-07-14 20:28:34] [INFO] Loaded command: train
+[2025-07-14 20:28:34] [INFO] Loaded command: uid
+[2025-07-14 20:28:34] [INFO] Loaded command: unban
+[2025-07-14 20:28:34] [INFO] Loaded command: withdraw
+[2025-07-14 20:28:34] [INFO] Bot initialized successfully
+[2025-07-14 20:28:34] [INFO] Web server running on port 20170
+[2025-07-14 20:28:38] [INFO] 08:28 PM - Hridoy Khan (Group) - Type: text - Message: -pair - Media URL: N/A
+[2025-07-14 20:28:40] [INFO] Command executed: pair by user 61552837791926
+[2025-07-14 20:28:46] [INFO] 08:28 PM - Kenji Cloud (Group) - Type: media - Message: ‎💕 Successful Pairing! 💕
+
+Hridoy Khan & Shi Zuka
+
+Love Percentage: 81% - Media URL: https://scontent.xx.fbcdn.net/v/t1.15752-9/516525735_4111775805747542_1077506722759698706_n.png?stp=dst-png_s960x960&_nc_cat=109&ccb=1-7&_nc_sid=9f807c&_nc_ohc=Aw7lvDhZk3gQ7kNvwFEMI1B&_nc_oc=AdldMuXUF6_Ni4arsQMFI4UVHTLd7P48PnPP5ADGIlgGsM4_DyxOlQfKY1VqMYSZ8Ag&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.xx&oh=03_Q7cD2wEjsG_pxFIfT-KAFp6TJ_2Wnpfif70cx4FbZTZ0wyYIyQ&oe=689C7FC9
+[2025-07-14 20:30:12] [INFO] Bot stopped by user (Ctrl+C)
+[2025-07-14 20:30:12] [INFO] Ctrl+C detected. Stopping bot...
+[2025-07-14 20:30:14] [INFO] Starting bot...
+[2025-07-14 20:30:15] [INFO] Bot process exited with code 1
+[2025-07-14 20:30:15] [WARN] Restarting bot in 5 seconds... (Attempt 1/5)
+[2025-07-14 20:30:20] [INFO] Stopping existing bot process...
+[2025-07-14 20:30:20] [INFO] Starting bot...
+[2025-07-14 20:30:20] [INFO] Loaded event: botJoinedGroup
+[2025-07-14 20:30:20] [INFO] Loaded event: goodbye
+[2025-07-14 20:30:20] [INFO] Loaded event: welcome
+[2025-07-14 20:30:24] [INFO] Loaded command: add
+[2025-07-14 20:30:24] [INFO] Loaded command: adduser
+[2025-07-14 20:30:24] [INFO] Loaded command: admin
+[2025-07-14 20:30:24] [INFO] Loaded command: adminonly
+[2025-07-14 20:30:24] [INFO] Loaded command: balance
+[2025-07-14 20:30:24] [INFO] Loaded command: ban
+[2025-07-14 20:30:24] [INFO] Loaded command: bank
+[2025-07-14 20:30:24] [INFO] Loaded command: banlist
+[2025-07-14 20:30:24] [INFO] Loaded command: bot
+[2025-07-14 20:30:24] [INFO] Loaded command: confess
+[2025-07-14 20:30:24] [INFO] Loaded command: deposit
+[2025-07-14 20:30:24] [INFO] Loaded command: gcpic
+[2025-07-14 20:30:24] [INFO] Loaded command: help
+[2025-07-14 20:30:24] [INFO] Loaded command: pair
+[2025-07-14 20:30:24] [INFO] Loaded command: prefix
+[2025-07-14 20:30:24] [INFO] Loaded command: rank
+[2025-07-14 20:30:24] [INFO] Loaded command: setprefix
+[2025-07-14 20:30:24] [INFO] Loaded command: setrank
+[2025-07-14 20:30:24] [INFO] Loaded command: cnggcimg
+[2025-07-14 20:30:24] [INFO] Loaded command: threadname
+[2025-07-14 20:30:24] [INFO] Loaded command: train
+[2025-07-14 20:30:24] [INFO] Loaded command: uid
+[2025-07-14 20:30:24] [INFO] Loaded command: unban
+[2025-07-14 20:30:24] [INFO] Loaded command: withdraw
+[2025-07-14 20:30:24] [INFO] Bot initialized successfully
+[2025-07-14 20:30:24] [INFO] Web server running on port 20170
+[2025-07-14 20:30:28] [INFO] 08:30 PM - Hridoy Khan (Group) - Type: text - Message: -pair - Media URL: N/A
+[2025-07-14 20:30:30] [INFO] Command executed: pair by user 61552837791926
+[2025-07-14 20:30:34] [INFO] 08:30 PM - Kenji Cloud (Group) - Type: media - Message: ‎💕 Successful Pairing! 💕
+
+Hridoy Khan & Hayato Arisaka
+
+Love Percentage: 90% - Media URL: https://scontent.xx.fbcdn.net/v/t1.15752-9/518165881_1698613864181334_1964508188425913194_n.png?stp=dst-png_s960x960&_nc_cat=106&ccb=1-7&_nc_sid=9f807c&_nc_ohc=Seo0gAY-9vsQ7kNvwHPnolg&_nc_oc=AdlDj5zciAkxC1jyOS-uIbtlVZOsunD8rhH776UPKifeFOlvNF9TywhLZbDX8a2xoAw&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.xx&oh=03_Q7cD2wG-710gQxbqzBVklL7r9kos7pV7my2-J4sG3JDsJ4xDGw&oe=689C6B9D
+[2025-07-14 20:30:47] [INFO] Bot stopped by user (Ctrl+C)
+[2025-07-14 20:30:47] [INFO] Ctrl+C detected. Stopping bot...
+[2025-07-14 20:30:49] [INFO] Starting bot...
+[2025-07-14 20:30:50] [INFO] Bot process exited with code 1
+[2025-07-14 20:30:50] [WARN] Restarting bot in 5 seconds... (Attempt 1/5)
+[2025-07-14 20:30:55] [INFO] Stopping existing bot process...
+[2025-07-14 20:30:55] [INFO] Starting bot...
+[2025-07-14 20:30:55] [INFO] Loaded event: botJoinedGroup
+[2025-07-14 20:30:55] [INFO] Loaded event: goodbye
+[2025-07-14 20:30:55] [INFO] Loaded event: welcome
+[2025-07-14 20:30:57] [INFO] Loaded command: add
+[2025-07-14 20:30:57] [INFO] Loaded command: adduser
+[2025-07-14 20:30:57] [INFO] Loaded command: admin
+[2025-07-14 20:30:57] [INFO] Loaded command: adminonly
+[2025-07-14 20:30:57] [INFO] Loaded command: balance
+[2025-07-14 20:30:57] [INFO] Loaded command: ban
+[2025-07-14 20:30:57] [INFO] Loaded command: bank
+[2025-07-14 20:30:57] [INFO] Loaded command: banlist
+[2025-07-14 20:30:57] [INFO] Loaded command: bot
+[2025-07-14 20:30:57] [INFO] Loaded command: confess
+[2025-07-14 20:30:57] [INFO] Loaded command: deposit
+[2025-07-14 20:30:57] [INFO] Loaded command: gcpic
+[2025-07-14 20:30:57] [INFO] Loaded command: help
+[2025-07-14 20:30:57] [INFO] Loaded command: pair
+[2025-07-14 20:30:57] [INFO] Loaded command: prefix
+[2025-07-14 20:30:57] [INFO] Loaded command: rank
+[2025-07-14 20:30:57] [INFO] Loaded command: setprefix
+[2025-07-14 20:30:57] [INFO] Loaded command: setrank
+[2025-07-14 20:30:57] [INFO] Loaded command: cnggcimg
+[2025-07-14 20:30:57] [INFO] Loaded command: threadname
+[2025-07-14 20:30:57] [INFO] Loaded command: train
+[2025-07-14 20:30:57] [INFO] Loaded command: uid
+[2025-07-14 20:30:57] [INFO] Loaded command: unban
+[2025-07-14 20:30:57] [INFO] Loaded command: withdraw
+[2025-07-14 20:30:57] [INFO] Bot initialized successfully
+[2025-07-14 20:30:57] [INFO] Web server running on port 20170
+[2025-07-14 20:31:01] [INFO] 08:31 PM - Hridoy Khan (Group) - Type: text - Message: -pair - Media URL: N/A
+[2025-07-14 20:31:02] [INFO] Command executed: pair by user 61552837791926
+[2025-07-14 20:31:07] [INFO] 08:31 PM - Kenji Cloud (Group) - Type: media - Message: ‎💕 Successful Pairing! 💕
+
+Hridoy Khan & ㅤ𝗛𝗼𝘁 𝗖𝗵𝗼𝗰𝗹𝗮𝘁𝗲 ‣᭄࿐ ;* B) :D
+
+Love Percentage: 99% - Media URL: https://scontent.xx.fbcdn.net/v/t1.15752-9/517445692_1343207584187842_704396250874437540_n.png?stp=dst-png_s960x960&_nc_cat=106&ccb=1-7&_nc_sid=9f807c&_nc_ohc=tmLU4PGDqasQ7kNvwE7_xrA&_nc_oc=Admxnurtc8pDdG2j11z87MZOEz5FyQxta77BH5Z_9vNyK2DSCAns3BHi8x5D8dpEYKg&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.xx&oh=03_Q7cD2wGUU5H04TzDv6SwoTTN7DfC8Ll-WuuZag_22w2zlap2xQ&oe=689C7162
+[2025-07-14 20:31:52] [INFO] Ctrl+C detected. Stopping bot...
+[2025-07-14 20:31:52] [INFO] Bot stopped by user (Ctrl+C)
+[2025-07-14 20:31:54] [INFO] Starting bot...
+[2025-07-14 20:31:54] [INFO] Bot process exited with code 1
+[2025-07-14 20:31:54] [WARN] Restarting bot in 5 seconds... (Attempt 1/5)
+[2025-07-14 20:31:59] [INFO] Stopping existing bot process...
+[2025-07-14 20:31:59] [INFO] Starting bot...
+[2025-07-14 20:32:00] [INFO] Loaded event: botJoinedGroup
+[2025-07-14 20:32:00] [INFO] Loaded event: goodbye
+[2025-07-14 20:32:00] [INFO] Loaded event: welcome
+[2025-07-14 20:32:02] [INFO] Loaded command: add
+[2025-07-14 20:32:02] [INFO] Loaded command: adduser
+[2025-07-14 20:32:02] [INFO] Loaded command: admin
+[2025-07-14 20:32:02] [INFO] Loaded command: adminonly
+[2025-07-14 20:32:02] [INFO] Loaded command: balance
+[2025-07-14 20:32:02] [INFO] Loaded command: ban
+[2025-07-14 20:32:02] [INFO] Loaded command: bank
+[2025-07-14 20:32:02] [INFO] Loaded command: banlist
+[2025-07-14 20:32:02] [INFO] Loaded command: bot
+[2025-07-14 20:32:02] [INFO] Loaded command: confess
+[2025-07-14 20:32:02] [INFO] Loaded command: deposit
+[2025-07-14 20:32:02] [INFO] Loaded command: gcpic
+[2025-07-14 20:32:02] [INFO] Loaded command: help
+[2025-07-14 20:32:02] [INFO] Loaded command: pair
+[2025-07-14 20:32:02] [INFO] Loaded command: prefix
+[2025-07-14 20:32:02] [INFO] Loaded command: rank
+[2025-07-14 20:32:02] [INFO] Loaded command: setprefix
+[2025-07-14 20:32:02] [INFO] Loaded command: setrank
+[2025-07-14 20:32:02] [INFO] Loaded command: cnggcimg
+[2025-07-14 20:32:02] [INFO] Loaded command: threadname
+[2025-07-14 20:32:02] [INFO] Loaded command: train
+[2025-07-14 20:32:02] [INFO] Loaded command: uid
+[2025-07-14 20:32:02] [INFO] Loaded command: unban
+[2025-07-14 20:32:02] [INFO] Loaded command: withdraw
+[2025-07-14 20:32:02] [INFO] Bot initialized successfully
+[2025-07-14 20:32:02] [INFO] Web server running on port 20170
+[2025-07-14 20:32:07] [INFO] 08:32 PM - Hridoy Khan (Group) - Type: text - Message: -pair - Media URL: N/A
+[2025-07-14 20:32:08] [INFO] Command executed: pair by user 61552837791926
+[2025-07-14 20:32:14] [INFO] 08:32 PM - Kenji Cloud (Group) - Type: media - Message: ‎💕 Successful Pairing! 💕
+
+Hridoy Khan & Hridoy Khan
+
+Love Percentage: 50% - Media URL: https://scontent.xx.fbcdn.net/v/t1.15752-9/520496777_1470573837408539_561275884414924615_n.png?stp=dst-png_s960x960&_nc_cat=100&ccb=1-7&_nc_sid=9f807c&_nc_ohc=kkJ7iUGZHUMQ7kNvwGhANnU&_nc_oc=AdkpuM2fCnSxKgqCeqkWvcGJen6Q8W1tPKpgd7Kk29T4sqDOBNIxVggUUgPmcGa6P6I&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.xx&oh=03_Q7cD2wHL8tLFwtq_y6YgH-0g6AqrBBS968Xe6CChBbqkKB4XNQ&oe=689C6C5E
+[2025-07-14 20:43:40] [INFO] Bot stopped by user (Ctrl+C)
+[2025-07-14 20:43:40] [INFO] Ctrl+C detected. Stopping bot...
+[2025-07-14 20:43:42] [INFO] Starting bot...
+[2025-07-14 20:43:43] [INFO] Bot process exited with code 1
+[2025-07-14 20:43:43] [WARN] Restarting bot in 5 seconds... (Attempt 1/5)
+[2025-07-14 20:43:48] [INFO] Stopping existing bot process...
+[2025-07-14 20:43:48] [INFO] Starting bot...
+[2025-07-14 20:43:48] [INFO] Loaded event: botJoinedGroup
+[2025-07-14 20:43:48] [INFO] Loaded event: goodbye
+[2025-07-14 20:43:48] [INFO] Loaded event: welcome
+[2025-07-14 20:43:50] [INFO] Loaded command: add
+[2025-07-14 20:43:50] [INFO] Loaded command: adduser
+[2025-07-14 20:43:50] [INFO] Loaded command: admin
+[2025-07-14 20:43:50] [INFO] Loaded command: adminonly
+[2025-07-14 20:43:50] [INFO] Loaded command: balance
+[2025-07-14 20:43:50] [INFO] Loaded command: ban
+[2025-07-14 20:43:50] [INFO] Loaded command: bank
+[2025-07-14 20:43:50] [INFO] Loaded command: banlist
+[2025-07-14 20:43:50] [INFO] Loaded command: bot
+[2025-07-14 20:43:50] [INFO] Loaded command: confess
+[2025-07-14 20:43:50] [INFO] Loaded command: deposit
+[2025-07-14 20:43:50] [INFO] Loaded command: gcpic
+[2025-07-14 20:43:50] [INFO] Loaded command: help
+[2025-07-14 20:43:50] [INFO] Loaded command: pair
+[2025-07-14 20:43:50] [INFO] Loaded command: prefix
+[2025-07-14 20:43:50] [INFO] Loaded command: rank
+[2025-07-14 20:43:50] [INFO] Loaded command: setprefix
+[2025-07-14 20:43:50] [INFO] Loaded command: setrank
+[2025-07-14 20:43:50] [INFO] Loaded command: cnggcimg
+[2025-07-14 20:43:50] [INFO] Loaded command: threadname
+[2025-07-14 20:43:50] [INFO] Loaded command: train
+[2025-07-14 20:43:50] [INFO] Loaded command: uid
+[2025-07-14 20:43:50] [INFO] Loaded command: unban
+[2025-07-14 20:43:50] [INFO] Loaded command: withdraw
+[2025-07-14 20:43:50] [INFO] Bot initialized successfully
+[2025-07-14 20:43:50] [INFO] Web server running on port 20170
+[2025-07-14 20:43:55] [INFO] 08:43 PM - Hridoy Khan (Group) - Type: text - Message: -pair - Media URL: N/A
+[2025-07-14 20:43:56] [INFO] Command executed: pair by user 61552837791926
+[2025-07-14 20:44:06] [INFO] 08:44 PM - Kenji Cloud (Group) - Type: media - Message: ‎💕 Successful Pairing! 💕
+
+Hridoy Khan & Hridoy Khan
+
+Love Percentage: 63% - Media URL: https://scontent.xx.fbcdn.net/v/t1.15752-9/517341603_1071401254940032_7019128465064636621_n.png?stp=dst-png_s960x960&_nc_cat=102&ccb=1-7&_nc_sid=9f807c&_nc_ohc=e1OFI6909OQQ7kNvwFtDdez&_nc_oc=AdlbKl_b0IfibmIN8uiubMGD5eXqdmBYgQ_g6vKIQ23M0Dv_iMr8m2PufnvHqJREA3A&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.xx&oh=03_Q7cD2wGQ0NBO3HkFn-8Aiay5tXeT30RC2ubiJtherqCEbabqoQ&oe=689C96ED
+[2025-07-14 20:46:01] [INFO] Bot stopped by user (Ctrl+C)
+[2025-07-14 20:46:01] [INFO] Ctrl+C detected. Stopping bot...
+[2025-07-14 20:46:03] [INFO] Starting bot...
+[2025-07-14 20:46:03] [INFO] Bot process exited with code 1
+[2025-07-14 20:46:03] [WARN] Restarting bot in 5 seconds... (Attempt 1/5)
+[2025-07-14 20:46:08] [INFO] Stopping existing bot process...
+[2025-07-14 20:46:08] [INFO] Starting bot...
+[2025-07-14 20:46:09] [INFO] Loaded event: botJoinedGroup
+[2025-07-14 20:46:09] [INFO] Loaded event: goodbye
+[2025-07-14 20:46:09] [INFO] Loaded event: welcome
+[2025-07-14 20:46:11] [INFO] Loaded command: add
+[2025-07-14 20:46:11] [INFO] Loaded command: adduser
+[2025-07-14 20:46:11] [INFO] Loaded command: admin
+[2025-07-14 20:46:11] [INFO] Loaded command: adminonly
+[2025-07-14 20:46:11] [INFO] Loaded command: balance
+[2025-07-14 20:46:11] [INFO] Loaded command: ban
+[2025-07-14 20:46:11] [INFO] Loaded command: bank
+[2025-07-14 20:46:11] [INFO] Loaded command: banlist
+[2025-07-14 20:46:11] [INFO] Loaded command: bot
+[2025-07-14 20:46:11] [INFO] Loaded command: confess
+[2025-07-14 20:46:11] [INFO] Loaded command: deposit
+[2025-07-14 20:46:11] [INFO] Loaded command: gcpic
+[2025-07-14 20:46:11] [INFO] Loaded command: help
+[2025-07-14 20:46:11] [INFO] Loaded command: pair
+[2025-07-14 20:46:11] [INFO] Loaded command: prefix
+[2025-07-14 20:46:11] [INFO] Loaded command: rank
+[2025-07-14 20:46:11] [INFO] Loaded command: setprefix
+[2025-07-14 20:46:11] [INFO] Loaded command: setrank
+[2025-07-14 20:46:11] [INFO] Loaded command: cnggcimg
+[2025-07-14 20:46:11] [INFO] Loaded command: threadname
+[2025-07-14 20:46:11] [INFO] Loaded command: train
+[2025-07-14 20:46:11] [INFO] Loaded command: uid
+[2025-07-14 20:46:11] [INFO] Loaded command: unban
+[2025-07-14 20:46:11] [INFO] Loaded command: withdraw
+[2025-07-14 20:46:11] [INFO] Bot initialized successfully
+[2025-07-14 20:46:11] [INFO] Web server running on port 20170
+[2025-07-14 20:46:15] [INFO] 08:46 PM - Hridoy Khan (Group) - Type: text - Message: -pair - Media URL: N/A
+[2025-07-14 20:46:17] [INFO] Command executed: pair by user 61552837791926
+[2025-07-14 20:46:29] [INFO] 08:46 PM - Kenji Cloud (Group) - Type: media - Message: ‎💕 Successful Pairing! 💕
+
+Hridoy Khan & Kenji Cloud
+
+Love Percentage: 80% - Media URL: https://scontent.xx.fbcdn.net/v/t1.15752-9/517353620_2523804557956240_2091794623467313242_n.png?stp=dst-png_s960x960&_nc_cat=101&ccb=1-7&_nc_sid=9f807c&_nc_ohc=q90jJFoPHx0Q7kNvwG4vlSd&_nc_oc=AdlYosA6SjBaom86WsrpMHIH9d_nd0ZqPFqzMkmLv3Hgyf49BP0LvZN3CJ4K6p6xwfQ&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.xx&oh=03_Q7cD2wGMrVH6IalAoLg-rdDSvc3-yyfdGwCxkGzQGtBt3RqUcQ&oe=689C94DF
+[2025-07-14 20:49:23] [INFO] Bot stopped by user (Ctrl+C)
+[2025-07-14 20:49:23] [INFO] Ctrl+C detected. Stopping bot...
+[2025-07-14 20:49:26] [INFO] Starting bot...
+[2025-07-14 20:49:26] [INFO] Bot process exited with code 1
+[2025-07-14 20:49:26] [WARN] Restarting bot in 5 seconds... (Attempt 1/5)
+[2025-07-14 20:49:31] [INFO] Stopping existing bot process...
+[2025-07-14 20:49:31] [INFO] Starting bot...
+[2025-07-14 20:49:32] [INFO] Loaded event: botJoinedGroup
+[2025-07-14 20:49:32] [INFO] Loaded event: goodbye
+[2025-07-14 20:49:32] [INFO] Loaded event: welcome
+[2025-07-14 20:49:35] [INFO] Loaded command: add
+[2025-07-14 20:49:35] [INFO] Loaded command: adduser
+[2025-07-14 20:49:35] [INFO] Loaded command: admin
+[2025-07-14 20:49:35] [INFO] Loaded command: adminonly
+[2025-07-14 20:49:35] [INFO] Loaded command: balance
+[2025-07-14 20:49:35] [INFO] Loaded command: ban
+[2025-07-14 20:49:35] [INFO] Loaded command: bank
+[2025-07-14 20:49:35] [INFO] Loaded command: banlist
+[2025-07-14 20:49:35] [INFO] Loaded command: bot
+[2025-07-14 20:49:35] [INFO] Loaded command: confess
+[2025-07-14 20:49:35] [INFO] Loaded command: deposit
+[2025-07-14 20:49:35] [INFO] Loaded command: gcpic
+[2025-07-14 20:49:35] [INFO] Loaded command: help
+[2025-07-14 20:49:35] [INFO] Loaded command: pair
+[2025-07-14 20:49:35] [INFO] Loaded command: prefix
+[2025-07-14 20:49:35] [INFO] Loaded command: rank
+[2025-07-14 20:49:35] [INFO] Loaded command: setprefix
+[2025-07-14 20:49:35] [INFO] Loaded command: setrank
+[2025-07-14 20:49:35] [INFO] Loaded command: cnggcimg
+[2025-07-14 20:49:35] [INFO] Loaded command: threadname
+[2025-07-14 20:49:35] [INFO] Loaded command: train
+[2025-07-14 20:49:35] [INFO] Loaded command: uid
+[2025-07-14 20:49:35] [INFO] Loaded command: unban
+[2025-07-14 20:49:35] [INFO] Loaded command: withdraw
+[2025-07-14 20:49:35] [INFO] Bot initialized successfully
+[2025-07-14 20:49:35] [INFO] Web server running on port 20170
+[2025-07-14 20:50:00] [INFO] 08:50 PM - Hridoy Khan (Group) - Type: text - Message: -pair - Media URL: N/A
+[2025-07-14 20:50:02] [INFO] Command executed: pair by user 61552837791926
+[2025-07-14 20:50:07] [INFO] 08:50 PM - Kenji Cloud (Group) - Type: media - Message: ‎💕 Successful Pairing! 💕
+
+Hridoy Khan & Hridoy Khan
+
+Love Percentage: 60% - Media URL: https://scontent.xx.fbcdn.net/v/t1.15752-9/517607412_1400903667805594_2830840251750661131_n.png?stp=dst-png_s960x960&_nc_cat=101&ccb=1-7&_nc_sid=9f807c&_nc_ohc=GFF3O68SjPgQ7kNvwHgsAP8&_nc_oc=AdlyL-0Mhu9dN1B-5WD-K3Qbn9_1dsHzh6heJnX8xjPDO5_vVjQCtpjzhrW4NoHT5oY&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.xx&oh=03_Q7cD2wFkrka1C0AuWR011V8TC8RLhrhQPk9Z4rT1vN2TNavBug&oe=689C9F58
+[2025-07-14 20:50:28] [INFO] Bot stopped by user (Ctrl+C)
+[2025-07-14 20:50:28] [INFO] Ctrl+C detected. Stopping bot...
+[2025-07-14 20:50:30] [INFO] Starting bot...
+[2025-07-14 20:50:30] [INFO] Bot process exited with code 1
+[2025-07-14 20:50:30] [WARN] Restarting bot in 5 seconds... (Attempt 1/5)
+[2025-07-14 20:50:35] [INFO] Stopping existing bot process...
+[2025-07-14 20:50:35] [INFO] Starting bot...
+[2025-07-14 20:50:36] [INFO] Loaded event: botJoinedGroup
+[2025-07-14 20:50:36] [INFO] Loaded event: goodbye
+[2025-07-14 20:50:36] [INFO] Loaded event: welcome
+[2025-07-14 20:50:38] [INFO] Loaded command: add
+[2025-07-14 20:50:38] [INFO] Loaded command: adduser
+[2025-07-14 20:50:38] [INFO] Loaded command: admin
+[2025-07-14 20:50:38] [INFO] Loaded command: adminonly
+[2025-07-14 20:50:38] [INFO] Loaded command: balance
+[2025-07-14 20:50:38] [INFO] Loaded command: ban
+[2025-07-14 20:50:38] [INFO] Loaded command: bank
+[2025-07-14 20:50:38] [INFO] Loaded command: banlist
+[2025-07-14 20:50:38] [INFO] Loaded command: bot
+[2025-07-14 20:50:38] [INFO] Loaded command: confess
+[2025-07-14 20:50:38] [INFO] Loaded command: deposit
+[2025-07-14 20:50:38] [INFO] Loaded command: gcpic
+[2025-07-14 20:50:38] [INFO] Loaded command: help
+[2025-07-14 20:50:38] [INFO] Loaded command: pair
+[2025-07-14 20:50:38] [INFO] Loaded command: prefix
+[2025-07-14 20:50:38] [INFO] Loaded command: rank
+[2025-07-14 20:50:38] [INFO] Loaded command: setprefix
+[2025-07-14 20:50:38] [INFO] Loaded command: setrank
+[2025-07-14 20:50:38] [INFO] Loaded command: cnggcimg
+[2025-07-14 20:50:38] [INFO] Loaded command: threadname
+[2025-07-14 20:50:38] [INFO] Loaded command: train
+[2025-07-14 20:50:38] [INFO] Loaded command: uid
+[2025-07-14 20:50:38] [INFO] Loaded command: unban
+[2025-07-14 20:50:38] [INFO] Loaded command: withdraw
+[2025-07-14 20:50:38] [INFO] Bot initialized successfully
+[2025-07-14 20:50:38] [INFO] Web server running on port 20170
+[2025-07-14 20:50:41] [INFO] 08:50 PM - Hridoy Khan (Group) - Type: text - Message: -pair - Media URL: N/A
+[2025-07-14 20:50:43] [INFO] Command executed: pair by user 61552837791926
+[2025-07-14 20:50:49] [INFO] 08:50 PM - Kenji Cloud (Group) - Type: media - Message: ‎💕 Successful Pairing! 💕
+
+Hridoy Khan & Hayato Arisaka
+
+Love Percentage: 63% - Media URL: https://scontent.xx.fbcdn.net/v/t1.15752-9/518090000_1364476707987947_8051284337959918629_n.png?stp=dst-png_s960x960&_nc_cat=104&ccb=1-7&_nc_sid=9f807c&_nc_ohc=OvMjcF0qJIEQ7kNvwEP7Xbb&_nc_oc=AdkgX_o3Y1RLqTVQ_GR6kFZsazD3OdvQNmokGEAcSwE5nBnuIX_LJ1vV8mm5pcZi4yM&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.xx&oh=03_Q7cD2wGEvhIs2jxfV00cfz1Bqo-EMbT49VdgmCVjnUPvusVWxQ&oe=689C789F
+[2025-07-14 20:51:10] [INFO] Bot stopped by user (Ctrl+C)
+[2025-07-14 20:51:10] [INFO] Ctrl+C detected. Stopping bot...
+[2025-07-14 20:51:12] [INFO] Starting bot...
+[2025-07-14 20:51:13] [INFO] Bot process exited with code 1
+[2025-07-14 20:51:13] [WARN] Restarting bot in 5 seconds... (Attempt 1/5)
+[2025-07-14 20:51:18] [INFO] Stopping existing bot process...
+[2025-07-14 20:51:18] [INFO] Starting bot...
+[2025-07-14 20:51:18] [INFO] Loaded event: botJoinedGroup
+[2025-07-14 20:51:18] [INFO] Loaded event: goodbye
+[2025-07-14 20:51:18] [INFO] Loaded event: welcome
+[2025-07-14 20:51:20] [INFO] Loaded command: add
+[2025-07-14 20:51:20] [INFO] Loaded command: adduser
+[2025-07-14 20:51:20] [INFO] Loaded command: admin
+[2025-07-14 20:51:20] [INFO] Loaded command: adminonly
+[2025-07-14 20:51:20] [INFO] Loaded command: balance
+[2025-07-14 20:51:20] [INFO] Loaded command: ban
+[2025-07-14 20:51:20] [INFO] Loaded command: bank
+[2025-07-14 20:51:20] [INFO] Loaded command: banlist
+[2025-07-14 20:51:20] [INFO] Loaded command: bot
+[2025-07-14 20:51:20] [INFO] Loaded command: confess
+[2025-07-14 20:51:20] [INFO] Loaded command: deposit
+[2025-07-14 20:51:20] [INFO] Loaded command: gcpic
+[2025-07-14 20:51:20] [INFO] Loaded command: help
+[2025-07-14 20:51:20] [INFO] Loaded command: pair
+[2025-07-14 20:51:20] [INFO] Loaded command: prefix
+[2025-07-14 20:51:20] [INFO] Loaded command: rank
+[2025-07-14 20:51:20] [INFO] Loaded command: setprefix
+[2025-07-14 20:51:20] [INFO] Loaded command: setrank
+[2025-07-14 20:51:20] [INFO] Loaded command: cnggcimg
+[2025-07-14 20:51:20] [INFO] Loaded command: threadname
+[2025-07-14 20:51:20] [INFO] Loaded command: train
+[2025-07-14 20:51:20] [INFO] Loaded command: uid
+[2025-07-14 20:51:20] [INFO] Loaded command: unban
+[2025-07-14 20:51:20] [INFO] Loaded command: withdraw
+[2025-07-14 20:51:20] [INFO] Bot initialized successfully
+[2025-07-14 20:51:20] [INFO] Web server running on port 20170
+[2025-07-14 20:51:34] [INFO] 08:51 PM - Hridoy Khan (Group) - Type: text - Message: -pair - Media URL: N/A
+[2025-07-14 20:51:35] [INFO] Command executed: pair by user 61552837791926
+[2025-07-14 20:51:41] [INFO] 08:51 PM - Kenji Cloud (Group) - Type: media - Message: ‎💕 Successful Pairing! 💕
+
+Hridoy Khan & Hridoy Khan
+
+Love Percentage: 63% - Media URL: https://scontent.xx.fbcdn.net/v/t1.15752-9/517407237_749742724113995_7583106030687299272_n.png?stp=dst-png_s960x960&_nc_cat=100&ccb=1-7&_nc_sid=9f807c&_nc_ohc=sUIQRdScQNoQ7kNvwHyHea5&_nc_oc=Adl6d5UII-QGFq94OsGGoQt4ExBQ6EzKmlUJdgSIr0-bqQiWhV7xBTs-xJJqYCBiL1Y&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.xx&oh=03_Q7cD2wHttMCqbXjyPmvFc64bBxPlLcNWNI5pnXB1nNjuLGTw9A&oe=689C7CFA
+[2025-07-14 20:51:51] [INFO] Bot stopped by user (Ctrl+C)
+[2025-07-14 20:51:51] [INFO] Ctrl+C detected. Stopping bot...
+[2025-07-14 20:51:53] [INFO] Starting bot...
+[2025-07-14 20:51:53] [INFO] Bot process exited with code 1
+[2025-07-14 20:51:53] [WARN] Restarting bot in 5 seconds... (Attempt 1/5)
+[2025-07-14 20:51:58] [INFO] Stopping existing bot process...
+[2025-07-14 20:51:58] [INFO] Starting bot...
+[2025-07-14 20:51:59] [INFO] Loaded event: botJoinedGroup
+[2025-07-14 20:51:59] [INFO] Loaded event: goodbye
+[2025-07-14 20:51:59] [INFO] Loaded event: welcome
+[2025-07-14 20:52:01] [INFO] Loaded command: add
+[2025-07-14 20:52:01] [INFO] Loaded command: adduser
+[2025-07-14 20:52:01] [INFO] Loaded command: admin
+[2025-07-14 20:52:01] [INFO] Loaded command: adminonly
+[2025-07-14 20:52:01] [INFO] Loaded command: balance
+[2025-07-14 20:52:01] [INFO] Loaded command: ban
+[2025-07-14 20:52:01] [INFO] Loaded command: bank
+[2025-07-14 20:52:01] [INFO] Loaded command: banlist
+[2025-07-14 20:52:01] [INFO] Loaded command: bot
+[2025-07-14 20:52:01] [INFO] Loaded command: confess
+[2025-07-14 20:52:01] [INFO] Loaded command: deposit
+[2025-07-14 20:52:01] [INFO] Loaded command: gcpic
+[2025-07-14 20:52:01] [INFO] Loaded command: help
+[2025-07-14 20:52:01] [INFO] Loaded command: pair
+[2025-07-14 20:52:01] [INFO] Loaded command: prefix
+[2025-07-14 20:52:01] [INFO] Loaded command: rank
+[2025-07-14 20:52:01] [INFO] Loaded command: setprefix
+[2025-07-14 20:52:01] [INFO] Loaded command: setrank
+[2025-07-14 20:52:01] [INFO] Loaded command: cnggcimg
+[2025-07-14 20:52:01] [INFO] Loaded command: threadname
+[2025-07-14 20:52:01] [INFO] Loaded command: train
+[2025-07-14 20:52:01] [INFO] Loaded command: uid
+[2025-07-14 20:52:01] [INFO] Loaded command: unban
+[2025-07-14 20:52:01] [INFO] Loaded command: withdraw
+[2025-07-14 20:52:01] [INFO] Bot initialized successfully
+[2025-07-14 20:52:01] [INFO] Web server running on port 20170
+[2025-07-14 20:52:26] [INFO] 08:52 PM - Hridoy Khan (Group) - Type: text - Message: -pair - Media URL: N/A
+[2025-07-14 20:52:29] [INFO] Command executed: pair by user 61552837791926
+[2025-07-14 20:52:33] [INFO] 08:52 PM - Kenji Cloud (Group) - Type: media - Message: ‎💕 Successful Pairing! 💕
+
+Hridoy Khan & Hridoy Khan
+
+Love Percentage: 80% - Media URL: https://scontent.xx.fbcdn.net/v/t1.15752-9/518165881_1460978158259893_6691455792738891743_n.png?stp=dst-png_s960x960&_nc_cat=104&ccb=1-7&_nc_sid=9f807c&_nc_ohc=WtNKPmHDhpwQ7kNvwHiTZdt&_nc_oc=AdnGQebIbxMKvTE5l4jac6SiFNWPQpSiFLluYfBpCLI5c-HO3os4w-9mGDCTApo_AGY&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.xx&oh=03_Q7cD2wG89NOIE7o-tLC00deZdChlqCMCzvzoZhZ2Vfc94Jjd1g&oe=689C7364
+[2025-07-14 20:52:52] [INFO] Bot stopped by user (Ctrl+C)
+[2025-07-14 20:52:52] [INFO] Ctrl+C detected. Stopping bot...
+[2025-07-14 20:52:55] [INFO] Starting bot...
+[2025-07-14 20:52:55] [INFO] Bot process exited with code 1
+[2025-07-14 20:52:55] [WARN] Restarting bot in 5 seconds... (Attempt 1/5)
+[2025-07-14 20:53:00] [INFO] Stopping existing bot process...
+[2025-07-14 20:53:00] [INFO] Starting bot...
+[2025-07-14 20:53:01] [INFO] Loaded event: botJoinedGroup
+[2025-07-14 20:53:01] [INFO] Loaded event: goodbye
+[2025-07-14 20:53:01] [INFO] Loaded event: welcome
+[2025-07-14 20:53:03] [INFO] Loaded command: add
+[2025-07-14 20:53:03] [INFO] Loaded command: adduser
+[2025-07-14 20:53:03] [INFO] Loaded command: admin
+[2025-07-14 20:53:03] [INFO] Loaded command: adminonly
+[2025-07-14 20:53:03] [INFO] Loaded command: balance
+[2025-07-14 20:53:03] [INFO] Loaded command: ban
+[2025-07-14 20:53:03] [INFO] Loaded command: bank
+[2025-07-14 20:53:03] [INFO] Loaded command: banlist
+[2025-07-14 20:53:03] [INFO] Loaded command: bot
+[2025-07-14 20:53:03] [INFO] Loaded command: confess
+[2025-07-14 20:53:03] [INFO] Loaded command: deposit
+[2025-07-14 20:53:03] [INFO] Loaded command: gcpic
+[2025-07-14 20:53:03] [INFO] Loaded command: help
+[2025-07-14 20:53:03] [INFO] Loaded command: pair
+[2025-07-14 20:53:03] [INFO] Loaded command: prefix
+[2025-07-14 20:53:03] [INFO] Loaded command: rank
+[2025-07-14 20:53:03] [INFO] Loaded command: setprefix
+[2025-07-14 20:53:03] [INFO] Loaded command: setrank
+[2025-07-14 20:53:03] [INFO] Loaded command: cnggcimg
+[2025-07-14 20:53:03] [INFO] Loaded command: threadname
+[2025-07-14 20:53:03] [INFO] Loaded command: train
+[2025-07-14 20:53:03] [INFO] Loaded command: uid
+[2025-07-14 20:53:03] [INFO] Loaded command: unban
+[2025-07-14 20:53:03] [INFO] Loaded command: withdraw
+[2025-07-14 20:53:03] [INFO] Bot initialized successfully
+[2025-07-14 20:53:03] [INFO] Web server running on port 20170
+[2025-07-14 20:53:10] [INFO] 08:53 PM - Hridoy Khan (Group) - Type: text - Message: -pair - Media URL: N/A
+[2025-07-14 20:53:12] [INFO] Command executed: pair by user 61552837791926
+[2025-07-14 20:53:17] [INFO] 08:53 PM - Kenji Cloud (Group) - Type: media - Message: ‎💕 Successful Pairing! 💕
+
+Hridoy Khan & انظل انظل
+
+Love Percentage: 93% - Media URL: https://scontent.xx.fbcdn.net/v/t1.15752-9/517105740_764148379467374_3858691539668454365_n.png?stp=dst-png_s960x960&_nc_cat=103&ccb=1-7&_nc_sid=9f807c&_nc_ohc=54gyfrN06FMQ7kNvwFuxgdx&_nc_oc=AdmVM-UUaWNzzdcZxsFKySKfE1wIG3cRNXnss_zKmZgnobuMeuevApzCUW90IY8ko-k&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.xx&oh=03_Q7cD2wEF57vpeLi_CzNpu62T3hVMuvIedTI-s5XpH7J8Y1RBGg&oe=689C7DC3
+[2025-07-14 20:53:38] [INFO] Bot stopped by user (Ctrl+C)
+[2025-07-14 20:53:38] [INFO] Ctrl+C detected. Stopping bot...
+[2025-07-14 20:53:40] [INFO] Starting bot...
+[2025-07-14 20:53:40] [INFO] Bot process exited with code 1
+[2025-07-14 20:53:40] [WARN] Restarting bot in 5 seconds... (Attempt 1/5)
+[2025-07-14 20:53:45] [INFO] Stopping existing bot process...
+[2025-07-14 20:53:45] [INFO] Starting bot...
+[2025-07-14 20:53:46] [INFO] Loaded event: botJoinedGroup
+[2025-07-14 20:53:46] [INFO] Loaded event: goodbye
+[2025-07-14 20:53:46] [INFO] Loaded event: welcome
+[2025-07-14 20:53:48] [INFO] Loaded command: add
+[2025-07-14 20:53:48] [INFO] Loaded command: adduser
+[2025-07-14 20:53:48] [INFO] Loaded command: admin
+[2025-07-14 20:53:48] [INFO] Loaded command: adminonly
+[2025-07-14 20:53:48] [INFO] Loaded command: balance
+[2025-07-14 20:53:48] [INFO] Loaded command: ban
+[2025-07-14 20:53:48] [INFO] Loaded command: bank
+[2025-07-14 20:53:48] [INFO] Loaded command: banlist
+[2025-07-14 20:53:48] [INFO] Loaded command: bot
+[2025-07-14 20:53:48] [INFO] Loaded command: confess
+[2025-07-14 20:53:48] [INFO] Loaded command: deposit
+[2025-07-14 20:53:48] [INFO] Loaded command: gcpic
+[2025-07-14 20:53:48] [INFO] Loaded command: help
+[2025-07-14 20:53:48] [INFO] Loaded command: pair
+[2025-07-14 20:53:48] [INFO] Loaded command: prefix
+[2025-07-14 20:53:48] [INFO] Loaded command: rank
+[2025-07-14 20:53:48] [INFO] Loaded command: setprefix
+[2025-07-14 20:53:48] [INFO] Loaded command: setrank
+[2025-07-14 20:53:48] [INFO] Loaded command: cnggcimg
+[2025-07-14 20:53:48] [INFO] Loaded command: threadname
+[2025-07-14 20:53:48] [INFO] Loaded command: train
+[2025-07-14 20:53:48] [INFO] Loaded command: uid
+[2025-07-14 20:53:48] [INFO] Loaded command: unban
+[2025-07-14 20:53:48] [INFO] Loaded command: withdraw
+[2025-07-14 20:53:48] [INFO] Bot initialized successfully
+[2025-07-14 20:53:48] [INFO] Web server running on port 20170
+[2025-07-14 20:53:53] [INFO] 08:53 PM - Hridoy Khan (Group) - Type: text - Message: -pair - Media URL: N/A
+[2025-07-14 20:53:55] [INFO] Command executed: pair by user 61552837791926
+[2025-07-14 20:54:00] [INFO] 08:54 PM - Kenji Cloud (Group) - Type: media - Message: ‎💕 Successful Pairing! 💕
+
+Hridoy Khan & انظل انظل
+
+Love Percentage: 100% - Media URL: https://scontent.xx.fbcdn.net/v/t1.15752-9/517345283_697253156637282_2245435611747362264_n.png?stp=dst-png_s960x960&_nc_cat=105&ccb=1-7&_nc_sid=9f807c&_nc_ohc=EWefaOVbkp0Q7kNvwFSd4Am&_nc_oc=AdlKsbv655gEmq54OSxQlTK7DMHvXAizH9y40Urt58rMnsTkvwNVlX1bd4KvquxFvh0&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.xx&oh=03_Q7cD2wFBIkKvQuJkMZUnhc8dGlgwhiSflx3SMkxrTV-5zA1OxA&oe=689C7C96
+[2025-07-14 20:54:56] [INFO] Bot stopped by user (Ctrl+C)
+[2025-07-14 20:54:56] [INFO] Ctrl+C detected. Stopping bot...
+[2025-07-14 20:54:58] [INFO] Starting bot...
+[2025-07-14 20:54:59] [INFO] Bot process exited with code 1
+[2025-07-14 20:54:59] [WARN] Restarting bot in 5 seconds... (Attempt 1/5)
+[2025-07-14 20:55:04] [INFO] Stopping existing bot process...
+[2025-07-14 20:55:04] [INFO] Starting bot...
+[2025-07-14 20:55:04] [INFO] Loaded event: botJoinedGroup
+[2025-07-14 20:55:04] [INFO] Loaded event: goodbye
+[2025-07-14 20:55:04] [INFO] Loaded event: welcome
+[2025-07-14 20:55:06] [INFO] Loaded command: add
+[2025-07-14 20:55:06] [INFO] Loaded command: adduser
+[2025-07-14 20:55:06] [INFO] Loaded command: admin
+[2025-07-14 20:55:06] [INFO] Loaded command: adminonly
+[2025-07-14 20:55:06] [INFO] Loaded command: balance
+[2025-07-14 20:55:06] [INFO] Loaded command: ban
+[2025-07-14 20:55:06] [INFO] Loaded command: bank
+[2025-07-14 20:55:06] [INFO] Loaded command: banlist
+[2025-07-14 20:55:06] [INFO] Loaded command: bot
+[2025-07-14 20:55:06] [INFO] Loaded command: confess
+[2025-07-14 20:55:06] [INFO] Loaded command: deposit
+[2025-07-14 20:55:06] [INFO] Loaded command: gcpic
+[2025-07-14 20:55:06] [INFO] Loaded command: help
+[2025-07-14 20:55:06] [INFO] Loaded command: pair
+[2025-07-14 20:55:06] [INFO] Loaded command: prefix
+[2025-07-14 20:55:06] [INFO] Loaded command: rank
+[2025-07-14 20:55:06] [INFO] Loaded command: setprefix
+[2025-07-14 20:55:06] [INFO] Loaded command: setrank
+[2025-07-14 20:55:06] [INFO] Loaded command: cnggcimg
+[2025-07-14 20:55:06] [INFO] Loaded command: threadname
+[2025-07-14 20:55:06] [INFO] Loaded command: train
+[2025-07-14 20:55:06] [INFO] Loaded command: uid
+[2025-07-14 20:55:06] [INFO] Loaded command: unban
+[2025-07-14 20:55:06] [INFO] Loaded command: withdraw
+[2025-07-14 20:55:06] [INFO] Bot initialized successfully
+[2025-07-14 20:55:06] [INFO] Web server running on port 20170
+[2025-07-14 20:55:21] [INFO] 08:55 PM - Hridoy Khan (Group) - Type: text - Message: -pair - Media URL: N/A
+[2025-07-14 20:55:23] [INFO] Command executed: pair by user 61552837791926
+[2025-07-14 20:55:28] [INFO] 08:55 PM - Kenji Cloud (Group) - Type: media - Message: ‎💕 Successful Pairing! 💕
+
+Hridoy Khan & Hayato Arisaka
+
+Love Percentage: 68% - Media URL: https://scontent.xx.fbcdn.net/v/t1.15752-9/518658251_1398528784765138_5728775671902501854_n.png?stp=dst-png_s960x960&_nc_cat=101&ccb=1-7&_nc_sid=9f807c&_nc_ohc=Sq19tI0zNesQ7kNvwFCfpH7&_nc_oc=AdndO3i6PAzmSXJnTHH9XX7aonMF3UDL4lZJfVE09sgobt4JBGZxUO9viZK-YwwBVuQ&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.xx&oh=03_Q7cD2wEKFG1ZyOYncwYN3h8o9yyYynDFsYedxUyV92-nowL5ew&oe=689CA42A
+[2025-07-14 20:55:52] [INFO] Bot stopped by user (Ctrl+C)
+[2025-07-14 20:55:52] [INFO] Ctrl+C detected. Stopping bot...
+[2025-07-14 20:55:54] [INFO] Starting bot...
+[2025-07-14 20:55:55] [INFO] Bot process exited with code 1
+[2025-07-14 20:55:55] [WARN] Restarting bot in 5 seconds... (Attempt 1/5)
+[2025-07-14 20:56:00] [INFO] Stopping existing bot process...
+[2025-07-14 20:56:00] [INFO] Starting bot...
+[2025-07-14 20:56:00] [INFO] Loaded event: botJoinedGroup
+[2025-07-14 20:56:00] [INFO] Loaded event: goodbye
+[2025-07-14 20:56:00] [INFO] Loaded event: welcome
+[2025-07-14 20:56:02] [INFO] Loaded command: add
+[2025-07-14 20:56:02] [INFO] Loaded command: adduser
+[2025-07-14 20:56:02] [INFO] Loaded command: admin
+[2025-07-14 20:56:02] [INFO] Loaded command: adminonly
+[2025-07-14 20:56:02] [INFO] Loaded command: balance
+[2025-07-14 20:56:02] [INFO] Loaded command: ban
+[2025-07-14 20:56:02] [INFO] Loaded command: bank
+[2025-07-14 20:56:02] [INFO] Loaded command: banlist
+[2025-07-14 20:56:02] [INFO] Loaded command: bot
+[2025-07-14 20:56:02] [INFO] Loaded command: confess
+[2025-07-14 20:56:02] [INFO] Loaded command: deposit
+[2025-07-14 20:56:02] [INFO] Loaded command: gcpic
+[2025-07-14 20:56:02] [INFO] Loaded command: help
+[2025-07-14 20:56:02] [INFO] Loaded command: pair
+[2025-07-14 20:56:02] [INFO] Loaded command: prefix
+[2025-07-14 20:56:02] [INFO] Loaded command: rank
+[2025-07-14 20:56:02] [INFO] Loaded command: setprefix
+[2025-07-14 20:56:02] [INFO] Loaded command: setrank
+[2025-07-14 20:56:02] [INFO] Loaded command: cnggcimg
+[2025-07-14 20:56:02] [INFO] Loaded command: threadname
+[2025-07-14 20:56:02] [INFO] Loaded command: train
+[2025-07-14 20:56:02] [INFO] Loaded command: uid
+[2025-07-14 20:56:02] [INFO] Loaded command: unban
+[2025-07-14 20:56:02] [INFO] Loaded command: withdraw
+[2025-07-14 20:56:02] [INFO] Bot initialized successfully
+[2025-07-14 20:56:02] [INFO] Web server running on port 20170
+[2025-07-14 20:56:07] [INFO] 08:56 PM - Hridoy Khan (Group) - Type: text - Message: -pair - Media URL: N/A
+[2025-07-14 20:56:08] [INFO] Command executed: pair by user 61552837791926
+[2025-07-14 20:56:14] [INFO] 08:56 PM - Kenji Cloud (Group) - Type: media - Message: ‎💕 Successful Pairing! 💕
+
+Hridoy Khan & Hridoy Khan
+
+Love Percentage: 75% - Media URL: https://scontent.xx.fbcdn.net/v/t1.15752-9/518817182_1389990505557807_7435435847918257041_n.png?stp=dst-png_s960x960&_nc_cat=102&ccb=1-7&_nc_sid=9f807c&_nc_ohc=XKnLmELUTMkQ7kNvwEToOQz&_nc_oc=AdnRfoCeYSDRXRU_U2nxdnR1prrnNNVtEIqrjpU4ZIEGFFyEju483fe8zgGlDvctI7A&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.xx&oh=03_Q7cD2wEjZElB7StMxXV2UhaZEGlIJyP2yBKSTO958B_tpBOfGA&oe=689C7E37
+[2025-07-14 20:56:27] [INFO] Bot stopped by user (Ctrl+C)
+[2025-07-14 20:56:27] [INFO] Ctrl+C detected. Stopping bot...
+[2025-07-14 20:56:30] [INFO] Starting bot...
+[2025-07-14 20:56:31] [INFO] Bot process exited with code 1
+[2025-07-14 20:56:31] [WARN] Restarting bot in 5 seconds... (Attempt 1/5)
+[2025-07-14 20:56:36] [INFO] Stopping existing bot process...
+[2025-07-14 20:56:36] [INFO] Starting bot...
+[2025-07-14 20:56:36] [INFO] Loaded event: botJoinedGroup
+[2025-07-14 20:56:36] [INFO] Loaded event: goodbye
+[2025-07-14 20:56:36] [INFO] Loaded event: welcome
+[2025-07-14 20:56:38] [INFO] Loaded command: add
+[2025-07-14 20:56:38] [INFO] Loaded command: adduser
+[2025-07-14 20:56:38] [INFO] Loaded command: admin
+[2025-07-14 20:56:38] [INFO] Loaded command: adminonly
+[2025-07-14 20:56:38] [INFO] Loaded command: balance
+[2025-07-14 20:56:38] [INFO] Loaded command: ban
+[2025-07-14 20:56:38] [INFO] Loaded command: bank
+[2025-07-14 20:56:38] [INFO] Loaded command: banlist
+[2025-07-14 20:56:38] [INFO] Loaded command: bot
+[2025-07-14 20:56:38] [INFO] Loaded command: confess
+[2025-07-14 20:56:38] [INFO] Loaded command: deposit
+[2025-07-14 20:56:38] [INFO] Loaded command: gcpic
+[2025-07-14 20:56:38] [INFO] Loaded command: help
+[2025-07-14 20:56:38] [INFO] Loaded command: pair
+[2025-07-14 20:56:38] [INFO] Loaded command: prefix
+[2025-07-14 20:56:38] [INFO] Loaded command: rank
+[2025-07-14 20:56:38] [INFO] Loaded command: setprefix
+[2025-07-14 20:56:38] [INFO] Loaded command: setrank
+[2025-07-14 20:56:38] [INFO] Loaded command: cnggcimg
+[2025-07-14 20:56:38] [INFO] Loaded command: threadname
+[2025-07-14 20:56:38] [INFO] Loaded command: train
+[2025-07-14 20:56:38] [INFO] Loaded command: uid
+[2025-07-14 20:56:38] [INFO] Loaded command: unban
+[2025-07-14 20:56:38] [INFO] Loaded command: withdraw
+[2025-07-14 20:56:38] [INFO] Bot initialized successfully
+[2025-07-14 20:56:38] [INFO] Web server running on port 20170
+[2025-07-14 20:56:42] [INFO] 08:56 PM - Hridoy Khan (Group) - Type: text - Message: -pair - Media URL: N/A
+[2025-07-14 20:56:43] [INFO] Command executed: pair by user 61552837791926
+[2025-07-14 20:56:49] [INFO] 08:56 PM - Kenji Cloud (Group) - Type: media - Message: ‎💕 Successful Pairing! 💕
+
+Hridoy Khan & Hayato Arisaka
+
+Love Percentage: 62% - Media URL: https://scontent.xx.fbcdn.net/v/t1.15752-9/517498553_2834736926712246_8156513294943029185_n.png?stp=dst-png_s960x960&_nc_cat=108&ccb=1-7&_nc_sid=9f807c&_nc_ohc=WBKspJhGAeoQ7kNvwFxrXPE&_nc_oc=AdmTD1kWmIePaufKHpusZyY63SnRBHLhoBWwNTqJqCrMTGSdzovam_1327-lNIALPrA&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.xx&oh=03_Q7cD2wEftnM1CClB15oH8iox9VXAmN3R7hstq_T0JGXmtEix_g&oe=689C8EC8
+[2025-07-14 20:57:10] [INFO] Ctrl+C detected. Stopping bot...
+[2025-07-14 20:57:10] [INFO] Bot stopped by user (Ctrl+C)
+[2025-07-14 20:57:30] [INFO] Starting bot...
+[2025-07-14 20:57:30] [INFO] Bot process exited with code 1
+[2025-07-14 20:57:30] [WARN] Restarting bot in 5 seconds... (Attempt 1/5)
+[2025-07-14 20:57:35] [INFO] Stopping existing bot process...
+[2025-07-14 20:57:35] [INFO] Starting bot...
+[2025-07-14 20:57:36] [INFO] Loaded event: botJoinedGroup
+[2025-07-14 20:57:36] [INFO] Loaded event: goodbye
+[2025-07-14 20:57:36] [INFO] Loaded event: welcome
+[2025-07-14 20:57:38] [INFO] Loaded command: add
+[2025-07-14 20:57:38] [INFO] Loaded command: adduser
+[2025-07-14 20:57:38] [INFO] Loaded command: admin
+[2025-07-14 20:57:38] [INFO] Loaded command: adminonly
+[2025-07-14 20:57:38] [INFO] Loaded command: balance
+[2025-07-14 20:57:38] [INFO] Loaded command: ban
+[2025-07-14 20:57:38] [INFO] Loaded command: bank
+[2025-07-14 20:57:38] [INFO] Loaded command: banlist
+[2025-07-14 20:57:38] [INFO] Loaded command: bot
+[2025-07-14 20:57:38] [INFO] Loaded command: confess
+[2025-07-14 20:57:38] [INFO] Loaded command: deposit
+[2025-07-14 20:57:38] [INFO] Loaded command: gcpic
+[2025-07-14 20:57:38] [INFO] Loaded command: help
+[2025-07-14 20:57:38] [INFO] Loaded command: pair
+[2025-07-14 20:57:38] [INFO] Loaded command: prefix
+[2025-07-14 20:57:38] [INFO] Loaded command: rank
+[2025-07-14 20:57:38] [INFO] Loaded command: setprefix
+[2025-07-14 20:57:38] [INFO] Loaded command: setrank
+[2025-07-14 20:57:38] [INFO] Loaded command: cnggcimg
+[2025-07-14 20:57:38] [INFO] Loaded command: threadname
+[2025-07-14 20:57:38] [INFO] Loaded command: train
+[2025-07-14 20:57:38] [INFO] Loaded command: uid
+[2025-07-14 20:57:38] [INFO] Loaded command: unban
+[2025-07-14 20:57:38] [INFO] Loaded command: withdraw
+[2025-07-14 20:57:38] [INFO] Bot initialized successfully
+[2025-07-14 20:57:38] [INFO] Web server running on port 20170
+[2025-07-14 20:58:14] [INFO] 08:58 PM - Hridoy Khan (Group) - Type: text - Message: -pair - Media URL: N/A
+[2025-07-14 20:58:15] [INFO] Command executed: pair by user 61552837791926
+[2025-07-14 20:58:20] [INFO] 08:58 PM - Kenji Cloud (Group) - Type: media - Message: ‎💕 Successful Pairing! 💕
+
+Hridoy Khan & Kenji Cloud
+
+Love Percentage: 94% - Media URL: https://scontent.xx.fbcdn.net/v/t1.15752-9/518791082_1389032515721496_5652664016403410268_n.png?stp=dst-png_s960x960&_nc_cat=110&ccb=1-7&_nc_sid=9f807c&_nc_ohc=k4-us1SGkQYQ7kNvwFH9O9R&_nc_oc=AdndJp5cE4Mcxj7xTk1_3sMDi4SdL67YHqeACJRTjdBZLPznYufvIcDNtdBCIEjqtRk&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.xx&oh=03_Q7cD2wGfAP3Dg04n_ZfpxYVlYXP6v7HXeKgvis4wLxON2cPbbg&oe=689CA76B
+[2025-07-14 20:58:38] [INFO] Bot stopped by user (Ctrl+C)
+[2025-07-14 20:58:38] [INFO] Ctrl+C detected. Stopping bot...
+[2025-07-14 20:58:40] [INFO] Starting bot...
+[2025-07-14 20:58:40] [INFO] Bot process exited with code 1
+[2025-07-14 20:58:40] [WARN] Restarting bot in 5 seconds... (Attempt 1/5)
+[2025-07-14 20:58:45] [INFO] Stopping existing bot process...
+[2025-07-14 20:58:45] [INFO] Starting bot...
+[2025-07-14 20:58:46] [INFO] Loaded event: botJoinedGroup
+[2025-07-14 20:58:46] [INFO] Loaded event: goodbye
+[2025-07-14 20:58:46] [INFO] Loaded event: welcome
+[2025-07-14 20:58:48] [INFO] Loaded command: add
+[2025-07-14 20:58:48] [INFO] Loaded command: adduser
+[2025-07-14 20:58:48] [INFO] Loaded command: admin
+[2025-07-14 20:58:48] [INFO] Loaded command: adminonly
+[2025-07-14 20:58:48] [INFO] Loaded command: balance
+[2025-07-14 20:58:48] [INFO] Loaded command: ban
+[2025-07-14 20:58:48] [INFO] Loaded command: bank
+[2025-07-14 20:58:48] [INFO] Loaded command: banlist
+[2025-07-14 20:58:48] [INFO] Loaded command: bot
+[2025-07-14 20:58:48] [INFO] Loaded command: confess
+[2025-07-14 20:58:48] [INFO] Loaded command: deposit
+[2025-07-14 20:58:48] [INFO] Loaded command: gcpic
+[2025-07-14 20:58:48] [INFO] Loaded command: help
+[2025-07-14 20:58:48] [INFO] Loaded command: pair
+[2025-07-14 20:58:48] [INFO] Loaded command: prefix
+[2025-07-14 20:58:48] [INFO] Loaded command: rank
+[2025-07-14 20:58:48] [INFO] Loaded command: setprefix
+[2025-07-14 20:58:48] [INFO] Loaded command: setrank
+[2025-07-14 20:58:48] [INFO] Loaded command: cnggcimg
+[2025-07-14 20:58:48] [INFO] Loaded command: threadname
+[2025-07-14 20:58:48] [INFO] Loaded command: train
+[2025-07-14 20:58:48] [INFO] Loaded command: uid
+[2025-07-14 20:58:48] [INFO] Loaded command: unban
+[2025-07-14 20:58:48] [INFO] Loaded command: withdraw
+[2025-07-14 20:58:48] [INFO] Bot initialized successfully
+[2025-07-14 20:58:48] [INFO] Web server running on port 20170
+[2025-07-14 20:59:18] [INFO] 08:59 PM - Hridoy Khan (Group) - Type: text - Message: -pair - Media URL: N/A
+[2025-07-14 20:59:20] [INFO] Command executed: pair by user 61552837791926
+[2025-07-14 20:59:24] [INFO] 08:59 PM - Kenji Cloud (Group) - Type: media - Message: ‎💕 Successful Pairing! 💕
+
+Hridoy Khan & Shi Zuka
+
+Love Percentage: 52% - Media URL: https://scontent.xx.fbcdn.net/v/t1.15752-9/516712646_1272543554212875_5364052840955671205_n.png?stp=dst-png_s960x960&_nc_cat=111&ccb=1-7&_nc_sid=9f807c&_nc_ohc=RRM-x9zDP-YQ7kNvwF_dHj7&_nc_oc=Adm8Unw4xD39F9oaoFqXyySP7C-13VjBlwrLIfCNUdT0aMvDJy_gvMZmN6ryqqPA1FU&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.xx&oh=03_Q7cD2wHpKguFDiY8qDb5SI4rbCOncwVakohAhUQOqhlkPqT2YA&oe=689CA013
+[2025-07-14 20:59:36] [INFO] Bot stopped by user (Ctrl+C)
+[2025-07-14 20:59:36] [INFO] Ctrl+C detected. Stopping bot...
+[2025-07-14 20:59:40] [INFO] Starting bot...
+[2025-07-14 20:59:40] [INFO] Bot process exited with code 1
+[2025-07-14 20:59:40] [WARN] Restarting bot in 5 seconds... (Attempt 1/5)
+[2025-07-14 20:59:45] [INFO] Stopping existing bot process...
+[2025-07-14 20:59:45] [INFO] Starting bot...
+[2025-07-14 20:59:46] [INFO] Loaded event: botJoinedGroup
+[2025-07-14 20:59:46] [INFO] Loaded event: goodbye
+[2025-07-14 20:59:46] [INFO] Loaded event: welcome
+[2025-07-14 20:59:48] [INFO] Loaded command: add
+[2025-07-14 20:59:48] [INFO] Loaded command: adduser
+[2025-07-14 20:59:48] [INFO] Loaded command: admin
+[2025-07-14 20:59:48] [INFO] Loaded command: adminonly
+[2025-07-14 20:59:48] [INFO] Loaded command: balance
+[2025-07-14 20:59:48] [INFO] Loaded command: ban
+[2025-07-14 20:59:48] [INFO] Loaded command: bank
+[2025-07-14 20:59:48] [INFO] Loaded command: banlist
+[2025-07-14 20:59:48] [INFO] Loaded command: bot
+[2025-07-14 20:59:48] [INFO] Loaded command: confess
+[2025-07-14 20:59:48] [INFO] Loaded command: deposit
+[2025-07-14 20:59:48] [INFO] Loaded command: gcpic
+[2025-07-14 20:59:48] [INFO] Loaded command: help
+[2025-07-14 20:59:48] [INFO] Loaded command: pair
+[2025-07-14 20:59:48] [INFO] Loaded command: prefix
+[2025-07-14 20:59:48] [INFO] Loaded command: rank
+[2025-07-14 20:59:48] [INFO] Loaded command: setprefix
+[2025-07-14 20:59:48] [INFO] Loaded command: setrank
+[2025-07-14 20:59:48] [INFO] Loaded command: cnggcimg
+[2025-07-14 20:59:48] [INFO] Loaded command: threadname
+[2025-07-14 20:59:48] [INFO] Loaded command: train
+[2025-07-14 20:59:48] [INFO] Loaded command: uid
+[2025-07-14 20:59:48] [INFO] Loaded command: unban
+[2025-07-14 20:59:48] [INFO] Loaded command: withdraw
+[2025-07-14 20:59:48] [INFO] Bot initialized successfully
+[2025-07-14 20:59:48] [INFO] Web server running on port 20170
+[2025-07-14 20:59:54] [INFO] 08:59 PM - Hridoy Khan (Group) - Type: text - Message: -pair - Media URL: N/A
+[2025-07-14 20:59:55] [INFO] Command executed: pair by user 61552837791926
+[2025-07-14 21:00:00] [INFO] 09:00 PM - Kenji Cloud (Group) - Type: media - Message: ‎💕 Successful Pairing! 💕
+
+Hridoy Khan & ㅤ𝗛𝗼𝘁 𝗖𝗵𝗼𝗰𝗹𝗮𝘁𝗲 ‣᭄࿐ ;* B) :D
+
+Love Percentage: 61% - Media URL: https://scontent.xx.fbcdn.net/v/t1.15752-9/516830118_1297506905410850_6522336815062641147_n.png?stp=dst-png_s960x960&_nc_cat=104&ccb=1-7&_nc_sid=9f807c&_nc_ohc=DgB8svtQ6fsQ7kNvwG1-a22&_nc_oc=AdlRJaIjb803rh0U5lwKFqERAf3gzFRCo2__dgHVaKLQ9EaFvbRVurmvUkNh1TPve0s&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.xx&oh=03_Q7cD2wG3j3sDhsOQ0lWt_z7Zmonymri8takWh5SDvNlbKRiDYQ&oe=689C7110
+[2025-07-14 21:02:30] [INFO] Bot stopped by user (Ctrl+C)
+[2025-07-14 21:02:30] [INFO] Ctrl+C detected. Stopping bot...
+[2025-07-14 21:02:32] [INFO] Starting bot...
+[2025-07-14 21:02:32] [INFO] Bot process exited with code 1
+[2025-07-14 21:02:32] [WARN] Restarting bot in 5 seconds... (Attempt 1/5)
+[2025-07-14 21:02:37] [INFO] Stopping existing bot process...
+[2025-07-14 21:02:37] [INFO] Starting bot...
+[2025-07-14 21:02:38] [INFO] Loaded event: botJoinedGroup
+[2025-07-14 21:02:38] [INFO] Loaded event: goodbye
+[2025-07-14 21:02:38] [INFO] Loaded event: welcome
+[2025-07-14 21:02:40] [INFO] Loaded command: add
+[2025-07-14 21:02:40] [INFO] Loaded command: adduser
+[2025-07-14 21:02:40] [INFO] Loaded command: admin
+[2025-07-14 21:02:40] [INFO] Loaded command: adminonly
+[2025-07-14 21:02:40] [INFO] Loaded command: balance
+[2025-07-14 21:02:40] [INFO] Loaded command: ban
+[2025-07-14 21:02:40] [INFO] Loaded command: bank
+[2025-07-14 21:02:40] [INFO] Loaded command: banlist
+[2025-07-14 21:02:40] [INFO] Loaded command: bot
+[2025-07-14 21:02:40] [INFO] Loaded command: confess
+[2025-07-14 21:02:40] [INFO] Loaded command: deposit
+[2025-07-14 21:02:40] [INFO] Loaded command: gcpic
+[2025-07-14 21:02:40] [INFO] Loaded command: help
+[2025-07-14 21:02:40] [INFO] Loaded command: pair
+[2025-07-14 21:02:40] [INFO] Loaded command: prefix
+[2025-07-14 21:02:40] [INFO] Loaded command: rank
+[2025-07-14 21:02:40] [INFO] Loaded command: setprefix
+[2025-07-14 21:02:40] [INFO] Loaded command: setrank
+[2025-07-14 21:02:40] [INFO] Loaded command: cnggcimg
+[2025-07-14 21:02:40] [INFO] Loaded command: threadname
+[2025-07-14 21:02:40] [INFO] Loaded command: train
+[2025-07-14 21:02:40] [INFO] Loaded command: uid
+[2025-07-14 21:02:40] [INFO] Loaded command: unban
+[2025-07-14 21:02:40] [INFO] Loaded command: withdraw
+[2025-07-14 21:02:40] [INFO] Bot initialized successfully
+[2025-07-14 21:02:40] [INFO] Web server running on port 20170
+[2025-07-14 21:02:45] [INFO] 09:02 PM - Hridoy Khan (Group) - Type: text - Message: -pair - Media URL: N/A
+[2025-07-14 21:02:46] [INFO] Command executed: pair by user 61552837791926
+[2025-07-14 21:02:51] [INFO] 09:02 PM - Kenji Cloud (Group) - Type: media - Message: ‎💕 Successful Pairing! 💕 - Media URL: https://scontent.xx.fbcdn.net/v/t1.15752-9/516651506_610846304977108_8879841661884044301_n.png?stp=dst-png_s960x960&_nc_cat=103&ccb=1-7&_nc_sid=9f807c&_nc_ohc=JlDRn2N74gYQ7kNvwEuHgTM&_nc_oc=AdmwVh2eB2v28fDSekb5HJoVei1tFICv2DbQYwfgqmSdpo4k-UMI86_sPXctpSGtnsg&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.xx&oh=03_Q7cD2wGL_ratZisenOH4wlwlKJCgnNCEdkNyD-CEOv99Qr0Vjg&oe=689C8027
+[2025-07-14 21:05:07] [INFO] Bot stopped by user (Ctrl+C)
+[2025-07-14 21:05:07] [INFO] Ctrl+C detected. Stopping bot...
+[2025-07-14 21:05:09] [INFO] Starting bot...
+[2025-07-14 21:05:09] [INFO] Bot process exited with code 1
+[2025-07-14 21:05:09] [WARN] Restarting bot in 5 seconds... (Attempt 1/5)
+[2025-07-14 21:05:14] [INFO] Stopping existing bot process...
+[2025-07-14 21:05:14] [INFO] Starting bot...
+[2025-07-14 21:05:15] [INFO] Loaded event: botJoinedGroup
+[2025-07-14 21:05:15] [INFO] Loaded event: goodbye
+[2025-07-14 21:05:15] [INFO] Loaded event: welcome
+[2025-07-14 21:05:17] [INFO] Loaded command: add
+[2025-07-14 21:05:17] [INFO] Loaded command: adduser
+[2025-07-14 21:05:17] [INFO] Loaded command: admin
+[2025-07-14 21:05:17] [INFO] Loaded command: adminonly
+[2025-07-14 21:05:17] [INFO] Loaded command: balance
+[2025-07-14 21:05:17] [INFO] Loaded command: ban
+[2025-07-14 21:05:17] [INFO] Loaded command: bank
+[2025-07-14 21:05:17] [INFO] Loaded command: banlist
+[2025-07-14 21:05:17] [INFO] Loaded command: bot
+[2025-07-14 21:05:17] [INFO] Loaded command: confess
+[2025-07-14 21:05:17] [INFO] Loaded command: deposit
+[2025-07-14 21:05:17] [INFO] Loaded command: gcpic
+[2025-07-14 21:05:17] [INFO] Loaded command: help
+[2025-07-14 21:05:17] [INFO] Loaded command: pair
+[2025-07-14 21:05:17] [INFO] Loaded command: prefix
+[2025-07-14 21:05:17] [INFO] Loaded command: rank
+[2025-07-14 21:05:17] [INFO] Loaded command: setprefix
+[2025-07-14 21:05:17] [INFO] Loaded command: setrank
+[2025-07-14 21:05:17] [INFO] Loaded command: cnggcimg
+[2025-07-14 21:05:17] [INFO] Loaded command: threadname
+[2025-07-14 21:05:17] [INFO] Loaded command: train
+[2025-07-14 21:05:17] [INFO] Loaded command: uid
+[2025-07-14 21:05:17] [INFO] Loaded command: unban
+[2025-07-14 21:05:17] [INFO] Loaded command: withdraw
+[2025-07-14 21:05:17] [INFO] Bot initialized successfully
+[2025-07-14 21:05:17] [INFO] Web server running on port 20170
+[2025-07-14 21:05:20] [INFO] 09:05 PM - Hridoy Khan (Group) - Type: text - Message: -pair - Media URL: N/A
+[2025-07-14 21:05:22] [INFO] Command executed: pair by user 61552837791926
+[2025-07-14 21:05:27] [INFO] 09:05 PM - Kenji Cloud (Group) - Type: media - Message: ‎💕 Successful Pairing! 💕
+
+Hridoy Khan & Kenji Cloud
+
+Love Percentage: 65% - Media URL: https://scontent.xx.fbcdn.net/v/t1.15752-9/518733538_1404232767511537_8880502907669232930_n.png?stp=dst-png_s960x960&_nc_cat=110&ccb=1-7&_nc_sid=9f807c&_nc_ohc=K9B5GXw8VmYQ7kNvwFcGkgx&_nc_oc=AdnAfyyYo8_-6psEthzarLIPPEygYibiC7qEFWz46AK7nZjsonk6JAX5Gs3buP3BhwI&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.xx&oh=03_Q7cD2wGkGk3WvMZuhgqCZrVO4nZ-XhAhrkbtk1AW-msw1CQkzg&oe=689C8DEA
+[2025-07-14 21:06:20] [INFO] Ctrl+C detected. Stopping bot...
+[2025-07-14 21:06:20] [INFO] Bot stopped by user (Ctrl+C)
+[2025-07-14 21:06:23] [INFO] Starting bot...
+[2025-07-14 21:06:24] [INFO] Bot process exited with code 1
+[2025-07-14 21:06:24] [WARN] Restarting bot in 5 seconds... (Attempt 1/5)
+[2025-07-14 21:06:29] [INFO] Stopping existing bot process...
+[2025-07-14 21:06:29] [INFO] Starting bot...
+[2025-07-14 21:06:29] [INFO] Loaded event: botJoinedGroup
+[2025-07-14 21:06:29] [INFO] Loaded event: goodbye
+[2025-07-14 21:06:29] [INFO] Loaded event: welcome
+[2025-07-14 21:06:31] [INFO] Loaded command: add
+[2025-07-14 21:06:31] [INFO] Loaded command: adduser
+[2025-07-14 21:06:31] [INFO] Loaded command: admin
+[2025-07-14 21:06:31] [INFO] Loaded command: adminonly
+[2025-07-14 21:06:31] [INFO] Loaded command: balance
+[2025-07-14 21:06:31] [INFO] Loaded command: ban
+[2025-07-14 21:06:31] [INFO] Loaded command: bank
+[2025-07-14 21:06:31] [INFO] Loaded command: banlist
+[2025-07-14 21:06:31] [INFO] Loaded command: bot
+[2025-07-14 21:06:31] [INFO] Loaded command: confess
+[2025-07-14 21:06:31] [INFO] Loaded command: deposit
+[2025-07-14 21:06:31] [INFO] Loaded command: gcpic
+[2025-07-14 21:06:31] [INFO] Loaded command: help
+[2025-07-14 21:06:31] [INFO] Loaded command: pair
+[2025-07-14 21:06:31] [INFO] Loaded command: prefix
+[2025-07-14 21:06:31] [INFO] Loaded command: rank
+[2025-07-14 21:06:31] [INFO] Loaded command: setprefix
+[2025-07-14 21:06:31] [INFO] Loaded command: setrank
+[2025-07-14 21:06:31] [INFO] Loaded command: cnggcimg
+[2025-07-14 21:06:31] [INFO] Loaded command: threadname
+[2025-07-14 21:06:31] [INFO] Loaded command: train
+[2025-07-14 21:06:31] [INFO] Loaded command: uid
+[2025-07-14 21:06:31] [INFO] Loaded command: unban
+[2025-07-14 21:06:31] [INFO] Loaded command: withdraw
+[2025-07-14 21:06:31] [INFO] Bot initialized successfully
+[2025-07-14 21:06:31] [INFO] Web server running on port 20170
+[2025-07-14 21:06:35] [INFO] 09:06 PM - Hridoy Khan (Group) - Type: text - Message: -pair - Media URL: N/A
+[2025-07-14 21:06:36] [INFO] Command executed: pair by user 61552837791926
+[2025-07-14 21:06:42] [INFO] 09:06 PM - Kenji Cloud (Group) - Type: media - Message: ‎💕 Successful Pairing! 💕
+
+Hridoy Khan & Hri Doy
+
+Love Percentage: 96% - Media URL: https://scontent.xx.fbcdn.net/v/t1.15752-9/516538428_1670052151063907_5511955026238993217_n.png?stp=dst-png_s960x960&_nc_cat=100&ccb=1-7&_nc_sid=9f807c&_nc_ohc=TNv8U0fMNXIQ7kNvwFMWU0B&_nc_oc=Admiz7uI1OMzkC51VZSoF3NMn8-g9MSbm1ZfJWOHnBORuNpBUShqZZgLHtsAqLw2geg&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.xx&oh=03_Q7cD2wF1mtAfkgfidUOCr7bALepYxNQMpnUFIRCtbfTLr2AWMQ&oe=689C7880
+[2025-07-14 21:07:10] [INFO] Bot stopped by user (Ctrl+C)
+[2025-07-14 21:07:10] [INFO] Ctrl+C detected. Stopping bot...
+[2025-07-14 21:07:13] [INFO] Starting bot...
+[2025-07-14 21:07:13] [INFO] Bot process exited with code 1
+[2025-07-14 21:07:13] [WARN] Restarting bot in 5 seconds... (Attempt 1/5)
+[2025-07-14 21:07:18] [INFO] Stopping existing bot process...
+[2025-07-14 21:07:18] [INFO] Starting bot...
+[2025-07-14 21:07:19] [INFO] Loaded event: botJoinedGroup
+[2025-07-14 21:07:19] [INFO] Loaded event: goodbye
+[2025-07-14 21:07:19] [INFO] Loaded event: welcome
+[2025-07-14 21:07:21] [INFO] Loaded command: add
+[2025-07-14 21:07:21] [INFO] Loaded command: adduser
+[2025-07-14 21:07:21] [INFO] Loaded command: admin
+[2025-07-14 21:07:21] [INFO] Loaded command: adminonly
+[2025-07-14 21:07:21] [INFO] Loaded command: balance
+[2025-07-14 21:07:21] [INFO] Loaded command: ban
+[2025-07-14 21:07:21] [INFO] Loaded command: bank
+[2025-07-14 21:07:21] [INFO] Loaded command: banlist
+[2025-07-14 21:07:21] [INFO] Loaded command: bot
+[2025-07-14 21:07:21] [INFO] Loaded command: confess
+[2025-07-14 21:07:21] [INFO] Loaded command: deposit
+[2025-07-14 21:07:21] [INFO] Loaded command: gcpic
+[2025-07-14 21:07:21] [INFO] Loaded command: help
+[2025-07-14 21:07:21] [INFO] Loaded command: pair
+[2025-07-14 21:07:21] [INFO] Loaded command: prefix
+[2025-07-14 21:07:21] [INFO] Loaded command: rank
+[2025-07-14 21:07:21] [INFO] Loaded command: setprefix
+[2025-07-14 21:07:21] [INFO] Loaded command: setrank
+[2025-07-14 21:07:21] [INFO] Loaded command: cnggcimg
+[2025-07-14 21:07:21] [INFO] Loaded command: threadname
+[2025-07-14 21:07:21] [INFO] Loaded command: train
+[2025-07-14 21:07:21] [INFO] Loaded command: uid
+[2025-07-14 21:07:21] [INFO] Loaded command: unban
+[2025-07-14 21:07:21] [INFO] Loaded command: withdraw
+[2025-07-14 21:07:21] [INFO] Bot initialized successfully
+[2025-07-14 21:07:21] [INFO] Web server running on port 20170
+[2025-07-14 21:07:29] [INFO] 09:07 PM - Hridoy Khan (Group) - Type: text - Message: -pair - Media URL: N/A
+[2025-07-14 21:07:30] [INFO] Command executed: pair by user 61552837791926
+[2025-07-14 21:07:35] [INFO] 09:07 PM - Kenji Cloud (Group) - Type: media - Message: ‎💕 Successful Pairing! 💕
+
+Hridoy Khan & انظل انظل
+
+Love Percentage: 68% - Media URL: https://scontent.xx.fbcdn.net/v/t1.15752-9/517146596_1467419867774649_5054887942595715461_n.png?stp=dst-png_s960x960&_nc_cat=106&ccb=1-7&_nc_sid=9f807c&_nc_ohc=RBK0my_i6XgQ7kNvwESQ07E&_nc_oc=AdkH0aMZS3jwcGfqRUncNC5vg1dnCRCEiL5W27EkCbBLnSng40Qlj3zMvFy-7HlYtvg&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.xx&oh=03_Q7cD2wF8EEJCoNhYUC9_klFuvZzQPR5i1OoohXQ6ootWLO73Pw&oe=689CA5C5
+[2025-07-14 21:08:16] [INFO] Bot stopped by user (Ctrl+C)
+[2025-07-14 21:08:16] [INFO] Ctrl+C detected. Stopping bot...
+[2025-07-14 21:08:19] [INFO] Starting bot...
+[2025-07-14 21:08:20] [INFO] Bot process exited with code 1
+[2025-07-14 21:08:20] [WARN] Restarting bot in 5 seconds... (Attempt 1/5)
+[2025-07-14 21:08:25] [INFO] Stopping existing bot process...
+[2025-07-14 21:08:25] [INFO] Starting bot...
+[2025-07-14 21:08:25] [INFO] Loaded event: botJoinedGroup
+[2025-07-14 21:08:25] [INFO] Loaded event: goodbye
+[2025-07-14 21:08:25] [INFO] Loaded event: welcome
+[2025-07-14 21:08:28] [INFO] Loaded command: add
+[2025-07-14 21:08:28] [INFO] Loaded command: adduser
+[2025-07-14 21:08:28] [INFO] Loaded command: admin
+[2025-07-14 21:08:28] [INFO] Loaded command: adminonly
+[2025-07-14 21:08:28] [INFO] Loaded command: balance
+[2025-07-14 21:08:28] [INFO] Loaded command: ban
+[2025-07-14 21:08:28] [INFO] Loaded command: bank
+[2025-07-14 21:08:28] [INFO] Loaded command: banlist
+[2025-07-14 21:08:28] [INFO] Loaded command: bot
+[2025-07-14 21:08:28] [INFO] Loaded command: confess
+[2025-07-14 21:08:28] [INFO] Loaded command: deposit
+[2025-07-14 21:08:28] [INFO] Loaded command: gcpic
+[2025-07-14 21:08:28] [INFO] Loaded command: help
+[2025-07-14 21:08:28] [INFO] Loaded command: pair
+[2025-07-14 21:08:28] [INFO] Loaded command: prefix
+[2025-07-14 21:08:28] [INFO] Loaded command: rank
+[2025-07-14 21:08:28] [INFO] Loaded command: setprefix
+[2025-07-14 21:08:28] [INFO] Loaded command: setrank
+[2025-07-14 21:08:28] [INFO] Loaded command: cnggcimg
+[2025-07-14 21:08:28] [INFO] Loaded command: threadname
+[2025-07-14 21:08:28] [INFO] Loaded command: train
+[2025-07-14 21:08:28] [INFO] Loaded command: uid
+[2025-07-14 21:08:28] [INFO] Loaded command: unban
+[2025-07-14 21:08:28] [INFO] Loaded command: withdraw
+[2025-07-14 21:08:28] [INFO] Bot initialized successfully
+[2025-07-14 21:08:28] [INFO] Web server running on port 20170
+[2025-07-14 21:08:31] [INFO] 09:08 PM - Hridoy Khan (Group) - Type: text - Message: -pair - Media URL: N/A
+[2025-07-14 21:08:32] [INFO] Command executed: pair by user 61552837791926
+[2025-07-14 21:08:37] [INFO] 09:08 PM - Kenji Cloud (Group) - Type: media - Message: ‎💕 Successful Pairing! 💕
+
+Hridoy Khan & Hridoy Khan
+
+Love Percentage: 72% - Media URL: https://scontent.xx.fbcdn.net/v/t1.15752-9/517353620_1397377004809761_2621242782934629136_n.png?stp=dst-png_s960x960&_nc_cat=103&ccb=1-7&_nc_sid=9f807c&_nc_ohc=Aj3drxkc2c8Q7kNvwHd4TPD&_nc_oc=AdkrXTLHPaZJAzJMZRMDSC7LZtx9qt3rArxeoxY2WC451AYBVJt78F-Hs7iEH-mNmWc&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.xx&oh=03_Q7cD2wFUJennbyNhFGZaqECkrnW-odsRCKHj_OXAHq5Ve4DFEA&oe=689C8F33
+[2025-07-14 21:08:51] [INFO] Ctrl+C detected. Stopping bot...
+[2025-07-14 21:08:51] [INFO] Bot stopped by user (Ctrl+C)
+[2025-07-14 21:08:54] [INFO] Starting bot...
+[2025-07-14 21:08:54] [INFO] Bot process exited with code 1
+[2025-07-14 21:08:54] [WARN] Restarting bot in 5 seconds... (Attempt 1/5)
+[2025-07-14 21:08:59] [INFO] Stopping existing bot process...
+[2025-07-14 21:08:59] [INFO] Starting bot...
+[2025-07-14 21:08:59] [INFO] Loaded event: botJoinedGroup
+[2025-07-14 21:08:59] [INFO] Loaded event: goodbye
+[2025-07-14 21:08:59] [INFO] Loaded event: welcome
+[2025-07-14 21:09:02] [INFO] Loaded command: add
+[2025-07-14 21:09:02] [INFO] Loaded command: adduser
+[2025-07-14 21:09:02] [INFO] Loaded command: admin
+[2025-07-14 21:09:02] [INFO] Loaded command: adminonly
+[2025-07-14 21:09:02] [INFO] Loaded command: balance
+[2025-07-14 21:09:02] [INFO] Loaded command: ban
+[2025-07-14 21:09:02] [INFO] Loaded command: bank
+[2025-07-14 21:09:02] [INFO] Loaded command: banlist
+[2025-07-14 21:09:02] [INFO] Loaded command: bot
+[2025-07-14 21:09:02] [INFO] Loaded command: confess
+[2025-07-14 21:09:02] [INFO] Loaded command: deposit
+[2025-07-14 21:09:02] [INFO] Loaded command: gcpic
+[2025-07-14 21:09:02] [INFO] Loaded command: help
+[2025-07-14 21:09:02] [INFO] Loaded command: pair
+[2025-07-14 21:09:02] [INFO] Loaded command: prefix
+[2025-07-14 21:09:02] [INFO] Loaded command: rank
+[2025-07-14 21:09:02] [INFO] Loaded command: setprefix
+[2025-07-14 21:09:02] [INFO] Loaded command: setrank
+[2025-07-14 21:09:02] [INFO] Loaded command: cnggcimg
+[2025-07-14 21:09:02] [INFO] Loaded command: threadname
+[2025-07-14 21:09:02] [INFO] Loaded command: train
+[2025-07-14 21:09:02] [INFO] Loaded command: uid
+[2025-07-14 21:09:02] [INFO] Loaded command: unban
+[2025-07-14 21:09:02] [INFO] Loaded command: withdraw
+[2025-07-14 21:09:02] [INFO] Bot initialized successfully
+[2025-07-14 21:09:02] [INFO] Web server running on port 20170
+[2025-07-14 21:09:12] [INFO] 09:09 PM - Hridoy Khan (Group) - Type: text - Message: -pair - Media URL: N/A
+[2025-07-14 21:09:16] [INFO] Command executed: pair by user 61552837791926
+[2025-07-14 21:09:20] [INFO] 09:09 PM - Kenji Cloud (Group) - Type: media - Message: ‎💕 Successful Pairing! 💕
+
+Hridoy Khan & ㅤ𝗛𝗼𝘁 𝗖𝗵𝗼𝗰𝗹𝗮𝘁𝗲 ‣᭄࿐ ;* B) :D
+
+Love Percentage: 77% - Media URL: https://scontent.xx.fbcdn.net/v/t1.15752-9/517605034_644184317954996_7811444148161571366_n.png?stp=dst-png_s960x960&_nc_cat=107&ccb=1-7&_nc_sid=9f807c&_nc_ohc=0EkG8vG7rDIQ7kNvwHvIm_Y&_nc_oc=AdkTCIsPU_7LborE6xhXctaD8ZyqYrjjkLtsjwnr5_OHl8RexT0MzPv27BFx2Ls8rII&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.xx&oh=03_Q7cD2wGRusJYlS3YFFQs6B6ytlRu3CwDp9rJYqGo4bxs4BEm8g&oe=689C7A89
+[2025-07-14 21:09:43] [INFO] Bot stopped by user (Ctrl+C)
+[2025-07-14 21:09:43] [INFO] Ctrl+C detected. Stopping bot...
+[2025-07-14 21:09:44] [INFO] Starting bot...
+[2025-07-14 21:09:45] [INFO] Bot process exited with code 1
+[2025-07-14 21:09:45] [WARN] Restarting bot in 5 seconds... (Attempt 1/5)
+[2025-07-14 21:09:50] [INFO] Stopping existing bot process...
+[2025-07-14 21:09:50] [INFO] Starting bot...
+[2025-07-14 21:09:50] [INFO] Loaded event: botJoinedGroup
+[2025-07-14 21:09:50] [INFO] Loaded event: goodbye
+[2025-07-14 21:09:50] [INFO] Loaded event: welcome
+[2025-07-14 21:09:53] [INFO] Loaded command: add
+[2025-07-14 21:09:53] [INFO] Loaded command: adduser
+[2025-07-14 21:09:53] [INFO] Loaded command: admin
+[2025-07-14 21:09:53] [INFO] Loaded command: adminonly
+[2025-07-14 21:09:53] [INFO] Loaded command: balance
+[2025-07-14 21:09:53] [INFO] Loaded command: ban
+[2025-07-14 21:09:53] [INFO] Loaded command: bank
+[2025-07-14 21:09:53] [INFO] Loaded command: banlist
+[2025-07-14 21:09:53] [INFO] Loaded command: bot
+[2025-07-14 21:09:53] [INFO] Loaded command: confess
+[2025-07-14 21:09:53] [INFO] Loaded command: deposit
+[2025-07-14 21:09:53] [INFO] Loaded command: gcpic
+[2025-07-14 21:09:53] [INFO] Loaded command: help
+[2025-07-14 21:09:53] [INFO] Loaded command: pair
+[2025-07-14 21:09:53] [INFO] Loaded command: prefix
+[2025-07-14 21:09:53] [INFO] Loaded command: rank
+[2025-07-14 21:09:53] [INFO] Loaded command: setprefix
+[2025-07-14 21:09:53] [INFO] Loaded command: setrank
+[2025-07-14 21:09:53] [INFO] Loaded command: cnggcimg
+[2025-07-14 21:09:53] [INFO] Loaded command: threadname
+[2025-07-14 21:09:53] [INFO] Loaded command: train
+[2025-07-14 21:09:53] [INFO] Loaded command: uid
+[2025-07-14 21:09:53] [INFO] Loaded command: unban
+[2025-07-14 21:09:53] [INFO] Loaded command: withdraw
+[2025-07-14 21:09:53] [INFO] Bot initialized successfully
+[2025-07-14 21:09:53] [INFO] Web server running on port 20170
+[2025-07-14 21:09:55] [INFO] 09:09 PM - Hridoy Khan (Group) - Type: text - Message: -pair - Media URL: N/A
+[2025-07-14 21:09:57] [INFO] Command executed: pair by user 61552837791926
+[2025-07-14 21:10:02] [INFO] 09:10 PM - Kenji Cloud (Group) - Type: media - Message: ‎💕 Successful Pairing! 💕
+
+Hridoy Khan & Hayato Arisaka
+
+Love Percentage: 62% - Media URL: https://scontent.xx.fbcdn.net/v/t1.15752-9/517141537_1898303904354207_4018148417830408379_n.png?stp=dst-png_s960x960&_nc_cat=102&ccb=1-7&_nc_sid=9f807c&_nc_ohc=G1KBCN_KIEkQ7kNvwEDdYfZ&_nc_oc=AdnfsuSbld6Y0RL2pw2TFtwzC4xgY1BYX96mE1VbXTiVVzcl0jPJyU1h-W-S4OpdCLo&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.xx&oh=03_Q7cD2wFutyuXpqOnVJxZr0YmaGYxTAOR5hmCrfWWfSuaWTeIyQ&oe=689C9580
+[2025-07-14 21:12:07] [INFO] Bot stopped by user (Ctrl+C)
+[2025-07-14 21:12:07] [INFO] Ctrl+C detected. Stopping bot...
+[2025-07-14 21:12:09] [INFO] Starting bot...
+[2025-07-14 21:12:09] [INFO] Bot process exited with code 1
+[2025-07-14 21:12:09] [WARN] Restarting bot in 5 seconds... (Attempt 1/5)
+[2025-07-14 21:12:14] [INFO] Stopping existing bot process...
+[2025-07-14 21:12:14] [INFO] Starting bot...
+[2025-07-14 21:12:14] [INFO] Loaded event: botJoinedGroup
+[2025-07-14 21:12:15] [INFO] Loaded event: goodbye
+[2025-07-14 21:12:15] [INFO] Loaded event: welcome
+[2025-07-14 21:12:17] [INFO] Loaded command: add
+[2025-07-14 21:12:17] [INFO] Loaded command: adduser
+[2025-07-14 21:12:17] [INFO] Loaded command: admin
+[2025-07-14 21:12:17] [INFO] Loaded command: adminonly
+[2025-07-14 21:12:17] [INFO] Loaded command: balance
+[2025-07-14 21:12:17] [INFO] Loaded command: ban
+[2025-07-14 21:12:17] [INFO] Loaded command: bank
+[2025-07-14 21:12:17] [INFO] Loaded command: banlist
+[2025-07-14 21:12:17] [INFO] Loaded command: bot
+[2025-07-14 21:12:17] [INFO] Loaded command: confess
+[2025-07-14 21:12:17] [INFO] Loaded command: deposit
+[2025-07-14 21:12:17] [INFO] Loaded command: gcpic
+[2025-07-14 21:12:17] [INFO] Loaded command: help
+[2025-07-14 21:12:17] [INFO] Loaded command: pair
+[2025-07-14 21:12:17] [INFO] Loaded command: prefix
+[2025-07-14 21:12:17] [INFO] Loaded command: rank
+[2025-07-14 21:12:17] [INFO] Loaded command: setprefix
+[2025-07-14 21:12:17] [INFO] Loaded command: setrank
+[2025-07-14 21:12:17] [INFO] Loaded command: cnggcimg
+[2025-07-14 21:12:17] [INFO] Loaded command: threadname
+[2025-07-14 21:12:17] [INFO] Loaded command: train
+[2025-07-14 21:12:17] [INFO] Loaded command: uid
+[2025-07-14 21:12:17] [INFO] Loaded command: unban
+[2025-07-14 21:12:17] [INFO] Loaded command: withdraw
+[2025-07-14 21:12:17] [INFO] Bot initialized successfully
+[2025-07-14 21:12:17] [INFO] Web server running on port 20170

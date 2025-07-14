@@ -18,5 +18,35 @@
       "prefix": "!"
     },
     "name": "Unknown Thread"
+  },
+  "6722713871138620": {
+    "threadName": "Test Bot",
+    "adminIDs": [],
+    "memberCount": 0,
+    "settings": {
+      "welcomeMessage": true,
+      "prefix": "."
+    },
+    "name": "Test Bot"
+  },
+  "61552837791926": {
+    "threadName": "Unknown Thread",
+    "adminIDs": [],
+    "memberCount": 0,
+    "settings": {
+      "welcomeMessage": true,
+      "prefix": "!"
+    },
+    "name": "Unknown Thread"
+  },
+  "61575746590997": {
+    "threadName": "Unknown Thread",
+    "adminIDs": [],
+    "memberCount": 0,
+    "settings": {
+      "welcomeMessage": true,
+      "prefix": "!"
+    },
+    "name": "Unknown Thread"
   }
 }
