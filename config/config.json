@@ -1,0 +1,25 @@
+{
+  "botName": "Keji Cloud",
+  "prefix": ".",
+  "botpicture": "https://scontent-sin6-3.xx.fbcdn.net/v/t39.30808-6/517019499_122106572432930203_3359103072430956012_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=-8ePmg_WhVwQ7kNvwFj-klz&_nc_oc=Adm2d9E4SYINtuzNd8Kobq5x8PvvFVdQ6xMYvOJywcDbbDO2w_KTMLxkJ3VF4ox1s-OCSArKi3IK_qn8rVB3akwv&_nc_zt=23&_nc_ht=scontent-sin6-3.xx&_nc_gid=vYlB0TmUOPJsgN5ffQs2LQ&oh=00_AfS6KEM0041JQFpZQxUphloPUll8zAs9Hanh1Y7MK_Qrmg&oe=6877F9CB",
+  "ownerName": "Hridoy",
+  "ownerUID": "61575746590997",
+  "adminUIDs": [
+    "61575746590997",
+    "admin_uid_2",
+    "your_uid_here",
+    "12"
+  ],
+  "language": "bn",
+  "database": {
+    "type": "json",
+    "autoSave": true,
+    "backupInterval": 3600000
+  },
+  "adminOnlyMode": false,
+  "features": {
+    "autoRestart": true,
+    "cooldown": true,
+    "logging": true
+  }
+}

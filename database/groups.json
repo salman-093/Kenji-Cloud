@@ -1,0 +1,22 @@
+{
+  "30038628702417412": {
+    "threadName": "Unknown Thread",
+    "adminIDs": [],
+    "memberCount": 0,
+    "settings": {
+      "welcomeMessage": true,
+      "prefix": "-"
+    },
+    "name": "Test"
+  },
+  "61577906114292": {
+    "threadName": "Unknown Thread",
+    "adminIDs": [],
+    "memberCount": 0,
+    "settings": {
+      "welcomeMessage": true,
+      "prefix": "!"
+    },
+    "name": "Unknown Thread"
+  }
+}
