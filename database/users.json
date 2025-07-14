@@ -14,13 +14,13 @@
   "61577906114292": {
     "name": "Kenji Cloud",
     "joinDate": "2025-07-12T09:13:20.620Z",
-    "messageCount": 259,
+    "messageCount": 273,
     "isAdmin": false,
     "isBanned": false,
-    "lastActive": "2025-07-14T15:10:02.268Z",
+    "lastActive": "2025-07-14T16:00:14.963Z",
     "rank": 10,
-    "xp": 432,
-    "totalxp": 2357,
+    "xp": 580,
+    "totalxp": 2505,
     "balance": 0
   },
   "100090696921210": {
@@ -38,25 +38,25 @@
   "61552837791926": {
     "name": "Hridoy Khan",
     "joinDate": "2025-07-14T11:08:19.749Z",
-    "messageCount": 54,
+    "messageCount": 67,
     "isAdmin": false,
     "isBanned": false,
-    "lastActive": "2025-07-14T15:09:55.857Z",
+    "lastActive": "2025-07-14T16:00:05.464Z",
     "rank": 6,
-    "xp": 9,
-    "totalxp": 459,
+    "xp": 147,
+    "totalxp": 597,
     "balance": 0
   },
   "61553848019517": {
     "name": "Raphael Tempest",
     "joinDate": "2025-07-14T13:07:44.490Z",
-    "messageCount": 7,
+    "messageCount": 8,
     "isAdmin": false,
     "isBanned": false,
-    "lastActive": "2025-07-14T13:13:25.158Z",
+    "lastActive": "2025-07-14T15:54:55.612Z",
     "rank": 3,
-    "xp": 0,
-    "totalxp": 70,
+    "xp": 6,
+    "totalxp": 76,
     "balance": 0
   }
 }

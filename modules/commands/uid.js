@@ -1,28 +1,31 @@
-const { log } = require('../../logger/logger');
-
 module.exports = {
-  config: {
-    name: 'uid',
-    version: '1.0',
-    author: 'Hridoy',
-    countDown: 5,
-    prefix: true,
-    adminOnly: false,
-    aliases: ['id', 'userid'],
-    description: 'Get the user ID of the sender',
-    category: 'utility',
-    guide: {
-      en: '   {pn}'
+    config: {
+        name: 'uid',
+        version: '1.0',
+        author: 'Hridoy',
+        countDown: 5,
+        prefix: true,
+        groupAdminOnly: false,
+        description: 'Get the user ID of yourself, a mentioned user, or a replied-to user.',
+        category: 'utility',
+        guide: {
+            en: '   {pn}' +
+                '\n   {pn} [@mention]' +
+                '\n   Reply to a message with {pn}'
+        },
     },
-  },
-  onStart: async ({ event, api }) => {
-    try {
-      const userID = event.senderID;
-      api.sendMessage(`Your UID: ${userID}`, event.threadID);
-      log('info', `UID command executed by ${userID}`);
-    } catch (error) {
-      log('error', `UID command error: ${error.message}`);
-      api.sendMessage('An error occurred while fetching the UID.', event.threadID);
-    }
-  },
+    onStart: async ({ api, event }) => {
+        const { senderID, mentions, messageReply } = event;
+        let targetID;
+
+        if (messageReply) {
+            targetID = messageReply.senderID;
+        } else if (mentions && Object.keys(mentions).length > 0) {
+            targetID = Object.keys(mentions)[0];
+        } else {
+            targetID = senderID;
+        }
+
+        api.sendMessage(`The UID is: ${targetID}`, event.threadID);
+    },
 };

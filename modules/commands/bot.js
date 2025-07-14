@@ -8,7 +8,7 @@ module.exports = {
     version: '1.0',
     author: 'Hridoy',
     countDown: 5,
-    prefix: true,
+    prefix: false,
     description: 'Chat with Simsimi',
     category: 'ai',
     guide: {

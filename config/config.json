@@ -21,5 +21,6 @@
     "autoRestart": true,
     "cooldown": true,
     "logging": true
-  }
+  },
+  "supportGC": "30038628702417412"
 }
