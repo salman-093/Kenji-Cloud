@@ -2,3 +2,4 @@ bin/
 .env
 Horizon_Database/
 node_modules/
+logger/loges/

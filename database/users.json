@@ -14,13 +14,25 @@
   "61577906114292": {
     "name": "Kenji Cloud",
     "joinDate": "2025-07-12T09:13:20.620Z",
-    "messageCount": 136,
+    "messageCount": 141,
     "isAdmin": false,
     "isBanned": false,
-    "lastActive": "2025-07-14T07:11:46.600Z",
+    "lastActive": "2025-07-14T09:25:17.316Z",
     "rank": 8,
-    "xp": 243,
-    "totalxp": 1263,
+    "xp": 290,
+    "totalxp": 1310,
+    "balance": 0
+  },
+  "100090696921210": {
+    "name": "انظل انظل",
+    "joinDate": "2025-07-14T09:07:15.062Z",
+    "messageCount": 7,
+    "isAdmin": false,
+    "isBanned": false,
+    "lastActive": "2025-07-14T09:20:31.825Z",
+    "rank": 3,
+    "xp": 1,
+    "totalxp": 71,
     "balance": 0
   }
 }
