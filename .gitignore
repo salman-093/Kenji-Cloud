@@ -2,4 +2,5 @@ bin/
 .env
 Horizon_Database/
 node_modules/
-logger/loges/
+logger/logs
+modules/commands/rankcard.js
