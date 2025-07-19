@@ -119,7 +119,7 @@ module.exports = {
   config: {
     name: 'ytb',
     version: '1.3',
-    author: 'YourName',
+    author: 'Hridoy',
     countDown: 5,
     prefix: true,
     description: 'Search and download YouTube videos (reply with 1-5)',
