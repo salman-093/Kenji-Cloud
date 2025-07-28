@@ -2,13 +2,13 @@
   "61575746590997": {
     "name": "Hayato Arisaka",
     "joinDate": "2025-07-12T09:13:19.754Z",
-    "messageCount": 463,
+    "messageCount": 469,
     "isAdmin": false,
     "isBanned": false,
-    "lastActive": "2025-07-28T06:15:02.435Z",
+    "lastActive": "2025-07-28T06:26:56.817Z",
     "rank": 13,
-    "xp": 285,
-    "totalxp": 4380,
+    "xp": 342,
+    "totalxp": 4437,
     "balance": 74
   },
   "61577906114292": {
@@ -62,25 +62,25 @@
   "61578144174677": {
     "name": "Shi Zuka",
     "joinDate": "2025-07-15T15:51:16.752Z",
-    "messageCount": 5,
+    "messageCount": 6,
     "isAdmin": false,
     "isBanned": false,
-    "lastActive": "2025-07-15T17:52:41.773Z",
+    "lastActive": "2025-07-28T06:18:46.057Z",
     "rank": 2,
-    "xp": 22,
-    "totalxp": 47,
+    "xp": 32,
+    "totalxp": 57,
     "balance": 0
   },
   "100026655761426": {
     "name": "Eliana Bot",
     "joinDate": "2025-07-19T07:15:46.592Z",
-    "messageCount": 226,
+    "messageCount": 231,
     "isAdmin": false,
     "isBanned": false,
-    "lastActive": "2025-07-28T06:15:15.917Z",
+    "lastActive": "2025-07-28T06:26:58.186Z",
     "rank": 10,
-    "xp": 221,
-    "totalxp": 2146,
+    "xp": 266,
+    "totalxp": 2191,
     "balance": 0
   },
   "100090149884128": {
