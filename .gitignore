@@ -9,3 +9,4 @@ modules/commands/ffprofile.js
 modules/commands/nsfw.js
 modules/commands/sfw.js
 modules/commands/waifu.js
+modules/commands/aivid.js

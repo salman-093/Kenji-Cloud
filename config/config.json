@@ -1,7 +1,7 @@
 {
   "botName": "Keji Cloud",
   "prefix": ".",
-  "botpicture": "https://scontent-sin6-3.xx.fbcdn.net/v/t39.30808-6/517019499_122106572432930203_3359103072430956012_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=-8ePmg_WhVwQ7kNvwFj-klz&_nc_oc=Adm2d9E4SYINtuzNd8Kobq5x8PvvFVdQ6xMYvOJywcDbbDO2w_KTMLxkJ3VF4ox1s-OCSArKi3IK_qn8rVB3akwv&_nc_zt=23&_nc_ht=scontent-sin6-3.xx&_nc_gid=vYlB0TmUOPJsgN5ffQs2LQ&oh=00_AfS6KEM0041JQFpZQxUphloPUll8zAs9Hanh1Y7MK_Qrmg&oe=6877F9CB",
+  "botpicture": "https://i.ibb.co/Xxmdjjfm/Flux-Dev-cinematic-keyframe13-anime-keyframe12-Animestyle-port-2.jpg",
   "ownerName": "Hridoy",
   "ownerUID": "61575746590997",
   "adminUIDs": [
@@ -22,5 +22,5 @@
     "cooldown": true,
     "logging": true
   },
-  "supportGC": "30038628702417412"
+  "supportGC": "23875159305442595"
 }

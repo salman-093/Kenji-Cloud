@@ -2,13 +2,13 @@
   "61575746590997": {
     "name": "Hayato Arisaka",
     "joinDate": "2025-07-12T09:13:19.754Z",
-    "messageCount": 477,
+    "messageCount": 490,
     "isAdmin": false,
     "isBanned": false,
-    "lastActive": "2025-07-28T10:47:21.955Z",
+    "lastActive": "2025-07-28T16:33:27.279Z",
     "rank": 13,
-    "xp": 422,
-    "totalxp": 4517,
+    "xp": 539,
+    "totalxp": 4634,
     "balance": 74
   },
   "61577906114292": {
@@ -38,13 +38,13 @@
   "61552837791926": {
     "name": "Hridoy Khan",
     "joinDate": "2025-07-14T11:08:19.749Z",
-    "messageCount": 187,
+    "messageCount": 254,
     "isAdmin": false,
     "isBanned": false,
-    "lastActive": "2025-07-28T11:07:31.515Z",
-    "rank": 9,
-    "xp": 295,
-    "totalxp": 1715,
+    "lastActive": "2025-07-28T16:45:50.745Z",
+    "rank": 10,
+    "xp": 366,
+    "totalxp": 2286,
     "balance": 0
   },
   "61553848019517": {
@@ -74,13 +74,13 @@
   "100026655761426": {
     "name": "Eliana Bot",
     "joinDate": "2025-07-19T07:15:46.592Z",
-    "messageCount": 305,
+    "messageCount": 357,
     "isAdmin": false,
     "isBanned": false,
-    "lastActive": "2025-07-28T11:07:23.486Z",
-    "rank": 11,
-    "xp": 371,
-    "totalxp": 2901,
+    "lastActive": "2025-07-28T16:44:14.148Z",
+    "rank": 12,
+    "xp": 174,
+    "totalxp": 3424,
     "balance": 0
   },
   "100090149884128": {
@@ -242,13 +242,13 @@
   "100017950245626": {
     "name": "Khan Rahul RK",
     "joinDate": "2025-07-19T17:28:39.151Z",
-    "messageCount": 112,
+    "messageCount": 152,
     "isAdmin": false,
     "isBanned": false,
-    "lastActive": "2025-07-28T11:04:28.691Z",
-    "rank": 8,
-    "xp": 112,
-    "totalxp": 1132,
+    "lastActive": "2025-07-28T16:27:49.809Z",
+    "rank": 9,
+    "xp": 76,
+    "totalxp": 1501,
     "balance": 0
   },
   "61550579263676": {
@@ -410,13 +410,13 @@
   "100093686436504": {
     "name": "শি উ লী",
     "joinDate": "2025-07-26T16:53:01.178Z",
-    "messageCount": 2,
+    "messageCount": 3,
     "isAdmin": false,
     "isBanned": false,
-    "lastActive": "2025-07-28T11:05:38.089Z",
-    "rank": 1,
-    "xp": 15,
-    "totalxp": 20,
+    "lastActive": "2025-07-28T11:26:04.962Z",
+    "rank": 2,
+    "xp": 1,
+    "totalxp": 26,
     "balance": 0
   },
   "61564020172256": {
@@ -518,13 +518,25 @@
   "61552814848384": {
     "name": "Rahat Bot",
     "joinDate": "2025-07-28T10:38:22.881Z",
-    "messageCount": 42,
+    "messageCount": 66,
     "isAdmin": false,
     "isBanned": false,
-    "lastActive": "2025-07-28T11:04:53.053Z",
-    "rank": 5,
-    "xp": 141,
-    "totalxp": 416,
+    "lastActive": "2025-07-28T16:16:34.467Z",
+    "rank": 6,
+    "xp": 178,
+    "totalxp": 633,
+    "balance": 0
+  },
+  "61558126517199": {
+    "name": "Jeon Rabiya",
+    "joinDate": "2025-07-28T11:24:40.205Z",
+    "messageCount": 1,
+    "isAdmin": false,
+    "isBanned": false,
+    "lastActive": "2025-07-28T11:24:40.207Z",
+    "rank": 1,
+    "xp": 9,
+    "totalxp": 14,
     "balance": 0
   }
 }
