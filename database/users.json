@@ -2,13 +2,13 @@
   "61575746590997": {
     "name": "Hayato Arisaka",
     "joinDate": "2025-07-12T09:13:19.754Z",
-    "messageCount": 469,
+    "messageCount": 472,
     "isAdmin": false,
     "isBanned": false,
-    "lastActive": "2025-07-28T06:26:56.817Z",
+    "lastActive": "2025-07-28T07:07:46.048Z",
     "rank": 13,
-    "xp": 342,
-    "totalxp": 4437,
+    "xp": 374,
+    "totalxp": 4469,
     "balance": 74
   },
   "61577906114292": {
@@ -38,25 +38,25 @@
   "61552837791926": {
     "name": "Hridoy Khan",
     "joinDate": "2025-07-14T11:08:19.749Z",
-    "messageCount": 80,
+    "messageCount": 122,
     "isAdmin": false,
     "isBanned": false,
-    "lastActive": "2025-07-28T05:11:59.618Z",
-    "rank": 7,
-    "xp": 38,
-    "totalxp": 733,
+    "lastActive": "2025-07-28T10:10:30.056Z",
+    "rank": 8,
+    "xp": 121,
+    "totalxp": 1136,
     "balance": 0
   },
   "61553848019517": {
     "name": "Raphael Tempest",
     "joinDate": "2025-07-14T13:07:44.490Z",
-    "messageCount": 14,
+    "messageCount": 16,
     "isAdmin": false,
     "isBanned": false,
-    "lastActive": "2025-07-28T06:10:43.245Z",
-    "rank": 3,
-    "xp": 63,
-    "totalxp": 133,
+    "lastActive": "2025-07-28T10:01:18.435Z",
+    "rank": 4,
+    "xp": 1,
+    "totalxp": 151,
     "balance": 0
   },
   "61578144174677": {
@@ -74,13 +74,13 @@
   "100026655761426": {
     "name": "Eliana Bot",
     "joinDate": "2025-07-19T07:15:46.592Z",
-    "messageCount": 231,
+    "messageCount": 271,
     "isAdmin": false,
     "isBanned": false,
-    "lastActive": "2025-07-28T06:26:58.186Z",
-    "rank": 10,
-    "xp": 266,
-    "totalxp": 2191,
+    "lastActive": "2025-07-28T10:10:11.174Z",
+    "rank": 11,
+    "xp": 33,
+    "totalxp": 2563,
     "balance": 0
   },
   "100090149884128": {
@@ -242,13 +242,13 @@
   "100017950245626": {
     "name": "Khan Rahul RK",
     "joinDate": "2025-07-19T17:28:39.151Z",
-    "messageCount": 1,
+    "messageCount": 40,
     "isAdmin": false,
     "isBanned": false,
-    "lastActive": "2025-07-19T17:28:39.152Z",
-    "rank": 1,
-    "xp": 8,
-    "totalxp": 13,
+    "lastActive": "2025-07-28T09:58:47.415Z",
+    "rank": 5,
+    "xp": 147,
+    "totalxp": 422,
     "balance": 0
   },
   "61550579263676": {
