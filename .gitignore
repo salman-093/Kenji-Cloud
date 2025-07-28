@@ -4,3 +4,8 @@ Horizon_Database/
 node_modules/
 logger/logs
 modules/commands/rankcard.js
+modules/commands/ffinfo.js
+modules/commands/ffprofile.js
+modules/commands/nsfw.js
+modules/commands/sfw.js
+modules/commands/waifu.js

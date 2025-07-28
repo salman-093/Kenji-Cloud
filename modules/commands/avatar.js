@@ -34,7 +34,7 @@ module.exports = {
         const userInfo = await api.getUserInfo(targetID);
         const topText = encodeURIComponent(userInfo[targetID]?.name || 'Unknown');
 
-        const apiUrl = `https://sus-apis.onrender.com/api/anime-text?text=${encodeURIComponent(text)}&topText=${topText}`;
+        const apiUrl = `https://sus-apis-2.onrender.com/api/anime-text?text=${encodeURIComponent(text)}&topText=${topText}`;
 
         try {
             console.log(`[API Request] Sending to: ${apiUrl}`);

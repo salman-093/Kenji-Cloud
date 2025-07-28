@@ -40,7 +40,7 @@ module.exports = {
         const userInfo = await api.getUserInfo(targetID);
         const imageUrl = `https://graph.facebook.com/${targetID}/picture?width=512&height=512&access_token=6628568379|c1e620fa708a1d5696fb991c1bde5662`;
 
-        const apiUrl = `https://sus-apis.onrender.com/api/raven-presenting?image=${encodeURIComponent(imageUrl)}&message=${encodeURIComponent(text)}`;
+        const apiUrl = `https://sus-apis-2.onrender.com/api/raven-presenting?image=${encodeURIComponent(imageUrl)}&message=${encodeURIComponent(text)}`;
 
         try {
             console.log(`[API Request] Sending to: ${apiUrl}`);

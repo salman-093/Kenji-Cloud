@@ -23,7 +23,7 @@ module.exports = {
             return api.sendMessage('Please provide text for the chill guy meme.', event.threadID);
         }
 
-        const apiUrl = `https://sus-apis.onrender.com/api/chill-guy?text=${encodeURIComponent(text)}`;
+        const apiUrl = `https://sus-apis-2.onrender.com/api/chill-guy?text=${encodeURIComponent(text)}`;
 
         try {
             console.log(`[API Request] Sending to: ${apiUrl}`);

@@ -1,0 +1,74 @@
+{
+  "30038628702417412": {
+    "threadID": "30038628702417412",
+    "numberToGuess": "3672",
+    "digits": 4,
+    "mode": "single",
+    "players": [
+      "61575746590997"
+    ],
+    "guesses": [
+      {
+        "number": "1234",
+        "correctDigits": 2,
+        "correctPosition": 0,
+        "player": "61575746590997"
+      },
+      {
+        "number": "2319",
+        "correctDigits": 2,
+        "correctPosition": 0,
+        "player": "61575746590997"
+      },
+      {
+        "number": "2839",
+        "correctDigits": 2,
+        "correctPosition": 0,
+        "player": "61575746590997"
+      },
+      {
+        "number": "8203",
+        "correctDigits": 2,
+        "correctPosition": 0,
+        "player": "61575746590997"
+      },
+      {
+        "number": "9732",
+        "correctDigits": 2,
+        "correctPosition": 1,
+        "player": "61575746590997"
+      },
+      {
+        "number": "8291",
+        "correctDigits": 1,
+        "correctPosition": 0,
+        "player": "61575746590997"
+      },
+      {
+        "number": "9273",
+        "correctDigits": 2,
+        "correctPosition": 1,
+        "player": "61575746590997"
+      },
+      {
+        "number": "2813",
+        "correctDigits": 2,
+        "correctPosition": 0,
+        "player": "61575746590997"
+      },
+      {
+        "number": "9203",
+        "correctDigits": 2,
+        "correctPosition": 0,
+        "player": "61575746590997"
+      }
+    ],
+    "maxGuesses": 10,
+    "startTime": 1752948130512,
+    "turn": "61575746590997",
+    "gameName": "GUESS NUMBER GAME",
+    "gameGuide": "⏳ | How to play:\nYou have 10 guesses.\nAfter each guess, you will get additional hints of the number of correct digits (shown on the left) and the number of correct digits (shown on the right).",
+    "gameNote": "📄 | Note:\nThe number is formed with digits from 0 to 9, each digit appears only once and the number can start with 0.",
+    "isWin": null
+  }
+}

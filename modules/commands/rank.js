@@ -26,7 +26,7 @@ module.exports = {
         name: 'rank',
         version: '1.1',
         author: 'Hridoy',
-        countDown: 10,
+        countDown: 5,
         prefix: true,
         groupAdminOnly: false,
         description: 'Get your or another user\'s rank card, or see the top 10 users.',
@@ -78,11 +78,11 @@ module.exports = {
         const name = userData.name || 'Unknown User'; 
         const avatarUrl = `https://graph.facebook.com/${targetID}/picture?width=512&height=512&access_token=6628568379|c1e620fa708a1d5696fb991c1bde5662`;
 
-      
         const rankIndex = sortedUsers.findIndex(user => user.userID === targetID);
         const rank = rankIndex >= 0 ? rankIndex + 1 : 9999;
 
-        const apiUrl = `https://sus-apis.onrender.com/api/rank-card?avatar=${encodeURIComponent(avatarUrl)}&username=${encodeURIComponent(name)}&level=${level}&currentXP=${currentXP}&requiredXP=${requiredXP}&rank=${rank}`;
+        const style = Math.floor(Math.random() * 5) + 1;
+        const apiUrl = `https://hridoy-apis.vercel.app/canvas/rank-card-v2?avatarImgURL=${encodeURIComponent(avatarUrl)}&nickname=${encodeURIComponent(name)}&currentLvl=${level}&currentRank=${rank}&currentXP=${currentXP}&requiredXP=${requiredXP}&userStatus=online&style=${style}&apikey=hridoyXQC`;
 
         try {
             console.log(`[API Request] Sending to: ${apiUrl}`);

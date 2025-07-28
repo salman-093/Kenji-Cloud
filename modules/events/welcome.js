@@ -20,10 +20,9 @@ module.exports = {
       const userImageUrl = `https://graph.facebook.com/${uid}/picture?width=512&height=512&access_token=6628568379|c1e620fa708a1d5696fb991c1bde5662`;
       const memberCount = thread.participantIDs.length;
 
-
-      const apiUrl = `https://sus-apis.onrender.com/api/welcome-card-v2?image=${encodeURIComponent(userImageUrl)}&name=${encodeURIComponent(userName)}&text1=${encodeURIComponent(thread.threadName)}&text2=Welcome+to+our+server&memberCount=${memberCount}`;
+      const style = Math.floor(Math.random() * 5) + 1;
+      const apiUrl = `https://hridoy-apis.vercel.app/canvas/welcome-v4?avatarImgURL=${encodeURIComponent(userImageUrl)}&nickname=${encodeURIComponent(userName)}&mainText=${encodeURIComponent('Welcome')}&secondText=${encodeURIComponent(`Welcome to ${thread.threadName} with ${memberCount} members`)}&style=${style}&apikey=hridoyXQC`;
       console.log(`[API Request] Sending to: ${apiUrl}`);
-
 
       axios.interceptors.request.use(request => {
         console.log('[API Request Details]', {
@@ -38,7 +37,6 @@ module.exports = {
         return Promise.reject(error);
       });
 
-     
       const apiResponse = await axios.get(apiUrl, { responseType: 'arraybuffer' });
       console.log(`[API Response] Status: ${apiResponse.status}, Status Text: ${apiResponse.statusText}`);
 

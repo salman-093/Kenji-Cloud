@@ -23,7 +23,7 @@ module.exports = {
             return api.sendMessage('Please provide text to generate a QR code.', event.threadID);
         }
 
-        const apiUrl = `https://sus-apis.onrender.com/api/gradient-qr?text=${encodeURIComponent(text)}`;
+        const apiUrl = `https://sus-apis-2.onrender.com/api/gradient-qr?text=${encodeURIComponent(text)}`;
 
         try {
             console.log(`[API Request] Sending to: ${apiUrl}`);
