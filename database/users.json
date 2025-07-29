@@ -2,13 +2,13 @@
   "61575746590997": {
     "name": "Hayato Arisaka",
     "joinDate": "2025-07-12T09:13:19.754Z",
-    "messageCount": 520,
+    "messageCount": 534,
     "isAdmin": false,
     "isBanned": false,
-    "lastActive": "2025-07-28T19:06:24.186Z",
+    "lastActive": "2025-07-29T03:57:31.178Z",
     "rank": 13,
-    "xp": 829,
-    "totalxp": 4924,
+    "xp": 952,
+    "totalxp": 5047,
     "balance": 74
   },
   "61577906114292": {
@@ -549,6 +549,18 @@
     "rank": 4,
     "xp": 74,
     "totalxp": 224,
+    "balance": 0
+  },
+  "61578816542800": {
+    "name": "Kenji Cloud",
+    "joinDate": "2025-07-29T03:08:56.172Z",
+    "messageCount": 9,
+    "isAdmin": false,
+    "isBanned": false,
+    "lastActive": "2025-07-29T03:57:44.877Z",
+    "rank": 3,
+    "xp": 14,
+    "totalxp": 84,
     "balance": 0
   }
 }
