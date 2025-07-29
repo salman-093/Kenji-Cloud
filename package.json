@@ -1,11 +1,26 @@
 {
-  "name": "messenger-bot",
+  "name": "kenji-cloud",
   "version": "1.0.0",
-  "description": "Facebook Messenger Bot",
+  "description": "A powerful Facebook Messenger bot built with Node.js, featuring command support, media handling, and advanced logging.",
   "main": "index.js",
   "scripts": {
     "start": "node ."
   },
+  "author": "Hridoy (https://github.com/1dev-hridoy)",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/1dev-hridoy/Kenji-Cloud"
+  },
+  "keywords": [
+    "facebook",
+    "messenger",
+    "bot",
+    "nodejs",
+    "fca",
+    "automation",
+    "kenji-cloud"
+  ],
   "dependencies": {
     "axios": "^1.10.0",
     "blessed": "^0.1.81",
@@ -14,13 +29,10 @@
     "colors": "^1.4.0",
     "express": "^4.17.1",
     "fca-priyansh": "latest",
-    "fs": "^0.0.1-security",
     "fs-extra": "^10.0.0",
     "javascript-obfuscator": "^4.1.1",
     "moment": "^2.29.1",
     "mongodb": "^6.17.0",
     "yt-search": "^2.13.1"
-  },
-  "author": "Hridoy",
-  "license": "ISC"
+  }
 }
