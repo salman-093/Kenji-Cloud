@@ -2,13 +2,13 @@
   "61575746590997": {
     "name": "Hayato Arisaka",
     "joinDate": "2025-07-12T09:13:19.754Z",
-    "messageCount": 534,
+    "messageCount": 565,
     "isAdmin": false,
     "isBanned": false,
-    "lastActive": "2025-07-29T03:57:31.178Z",
-    "rank": 13,
-    "xp": 952,
-    "totalxp": 5047,
+    "lastActive": "2025-07-29T15:40:21.238Z",
+    "rank": 14,
+    "xp": 294,
+    "totalxp": 5369,
     "balance": 74
   },
   "61577906114292": {
@@ -74,13 +74,13 @@
   "100026655761426": {
     "name": "Eliana Bot",
     "joinDate": "2025-07-19T07:15:46.592Z",
-    "messageCount": 437,
+    "messageCount": 444,
     "isAdmin": false,
     "isBanned": false,
-    "lastActive": "2025-07-28T19:06:26.266Z",
+    "lastActive": "2025-07-29T15:36:29.792Z",
     "rank": 13,
-    "xp": 110,
-    "totalxp": 4205,
+    "xp": 183,
+    "totalxp": 4278,
     "balance": 0
   },
   "100090149884128": {
@@ -554,13 +554,13 @@
   "61578816542800": {
     "name": "Kenji Cloud",
     "joinDate": "2025-07-29T03:08:56.172Z",
-    "messageCount": 9,
+    "messageCount": 36,
     "isAdmin": false,
     "isBanned": false,
-    "lastActive": "2025-07-29T03:57:44.877Z",
-    "rank": 3,
-    "xp": 14,
-    "totalxp": 84,
+    "lastActive": "2025-07-29T15:40:42.549Z",
+    "rank": 5,
+    "xp": 68,
+    "totalxp": 343,
     "balance": 0
   }
 }
